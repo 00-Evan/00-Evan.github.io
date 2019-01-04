@@ -1,0 +1,85 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Shattered Pixel
+email: Evan@ShatteredPixel.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Website under construction
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ShatteredPixel.com" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "00-Evan/00-Evan.github.io"
+twitter_username: ShatteredPixel
+github_username:  00-Evan
+
+minimal_mistakes_skin: "dark" # "default", air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
+breadcrumbs: true
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.14.2"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+author:
+  name        : "Evan"
+  bio         : "TODO"
+  avatar      : "/assets/images/header.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:evan@ShatteredPixel.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ShatteredPixel"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/00-Evan"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:evan@ShatteredPixel.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ShatteredPixel"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/00-Evan"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      classes: wide
+      permalink: /blog/:title/
