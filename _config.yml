@@ -45,7 +45,7 @@ exclude:
 
 author:
   name        : "Evan"
-  bio         : "TODO"
+  bio         : "Hey, I'm Evan! This is placeholder text until I add an about page, which should be soon!"
   avatar      : "/assets/images/header.png"
   links:
     - label: "Email"
@@ -79,7 +79,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      share: true
+      share: false
       related: true
       classes: wide
-      permalink: /blog/:title/
+      permalink: /blog/:categories/:title:output_ext

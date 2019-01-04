@@ -13,3 +13,8 @@
   width: 100%;
   background-color: $background-color;
 }
+
+@media (min-width: 64em) { .sticky { top: 4em; } }
+
+.author__avatar img {max-width: 110px; border-radius: 25%;}
+@media (min-width: 64em) { .author__avatar img {padding: 0px; border: 1px solid #51555d;} }
