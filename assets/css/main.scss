@@ -8,13 +8,23 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Fixed Masthead
 .masthead {
   position: fixed;
   width: 100%;
   background-color: $background-color;
 }
-
 @media (min-width: 64em) { .sticky { top: 4em; } }
 
+// customized border for author avatar
 .author__avatar img {max-width: 110px; border-radius: 25%;}
 @media (min-width: 64em) { .author__avatar img {padding: 0px; border: 1px solid #51555d;} }
+
+// for forcing word-wrap for code blocks
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}

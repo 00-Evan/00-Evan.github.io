@@ -8,4 +8,3 @@ That being said, I do agree it seems to damage the fun factor and that is what m
 So when I’m looking to solve the problems degradation is attempting to solve, I have to ask if I can improve degradation as a system, or if I can solve the problem through something else entirely.
 
 Honestly I don’t know the answer to that question, I’ll need time to think it over and weigh my options. I can certainly say though that I’m not just going to drop degradation into Shattered without evaluating and tweaking it, and gathering feedback from the community.
-
