@@ -1,15 +1,13 @@
 ---
-title: Shattered Pixel
 layout: splash
 permalink: /
-
 ---
 
 ![image-center](/assets/images/header.png){: .align-center}
 
-Shattered Pixel's website is currently under construction! The basic theme has been set up, expect content to show up here very soon! 
+Shattered Pixel's website is currently under construction! The basic theme has been set up, and content has been imported from the previous website. Expect some final polish to be made soon!
 
-I've started importing the blog, which you can find [Here.](/blog/) If you're looking for more recent blog posts, you can find everything [Here, hosted on tumblr](http://shatteredpixel.tumblr.com/). The rest of the blog will be imported to here soon.
+You're likely here for Shattered Pixel Dungeon. You can check out the blog [Here,](/blog/) which contains a full history of Shattered Pixel Dungeon updates and blog posts. Shattered will be getting a dedicated splash page soon. 
 
 You can download Shattered Pixel Dungeon on Android from:
 - [Google Play](#https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)

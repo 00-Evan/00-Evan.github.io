@@ -28,3 +28,8 @@ pre {
     white-space: -o-pre-wrap;
     word-wrap: break-word;
 }
+
+// fixes figure images being super-sized when captions are wide
+figure img {
+	width: auto;
+}
