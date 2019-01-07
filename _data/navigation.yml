@@ -1,3 +1,7 @@
 main:
+  - title: "Shattered Pixel Dungeon"
+    url: /shatteredpd/
   - title: "Blog"
     url: /blog/
+  - title: "About"
+    url: /about/

@@ -17,7 +17,7 @@
 @media (min-width: 64em) { .sticky { top: 4em; } }
 
 // customized border for author avatar
-.author__avatar img {max-width: 110px; border-radius: 25%;}
+.author__avatar img {max-width: 110px; border-radius: 10px;}
 @media (min-width: 64em) { .author__avatar img {padding: 0px; border: 1px solid #51555d;} }
 
 // for forcing word-wrap for code blocks
@@ -33,3 +33,36 @@ pre {
 figure img {
 	width: auto;
 }
+
+//separate background color
+.initial-content {
+	background-color: #12151a;
+  //background-image: linear-gradient(black, $background-color);
+}
+
+#main {
+	background-color: $background-color;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.page__hero {
+  margin-bottom: 1em;
+}
+
+.page__content {
+  padding-top: 1em;
+}
+
+//fix for weird breadcrumb and sidebar bordering on <64em
+@media (max-width: 63.999em) {
+  .breadcrumbs ol {
+    float: left;
+  }
+}
+
+.sidebar > * {
+  float: left;
+}
+
+//TODO it seems like the theme does a few odd things at exactly 64 em
+//because of max-width: 64em statements. Perhaps investigate and pull request

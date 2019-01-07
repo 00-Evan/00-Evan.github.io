@@ -1,15 +1,36 @@
 ---
 layout: splash
 permalink: /
+
+header:
+  image: /assets/images/header.png
+  width: 512px
+
+feature_row:
+  - image_path: /assets/images/SHPD-header.png
+    url: "/shatteredpd/"
+    alt: "placeholder image 1"
+    title: "Shattered Pixel Dungeon"
+    excerpt: "The Roguelike RPG for Android."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/WIP.png
+    alt: "placeholder image 2"
+    title: "Shattered Pixel Blog"
+    excerpt: "Blog/devlog for Shattered Pixel"
+    url: "/blog/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/WIP.png
+    title: "About & History"
+    url: "/about/"
+    excerpt: "About Shattered Pixel"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-![image-center](/assets/images/header.png){: .align-center}
+<center><font color = "orange">Website Under Construction</font></center>
 
-Shattered Pixel's website is currently under construction! The basic theme has been set up, and content has been imported from the previous website. Expect some final polish to be made soon!
+{% include feature_row %}
 
-You're likely here for Shattered Pixel Dungeon. You can check out the blog [Here,](/blog/) which contains a full history of Shattered Pixel Dungeon updates and blog posts. Shattered will be getting a dedicated splash page soon. 
-
-You can download Shattered Pixel Dungeon on Android from:
-- [Google Play](#https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
-- [Amazon](#https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/)
-- [F-Droid](#https://f-droid.org/wiki/page/com.shatteredpixel.shatteredpixeldungeon)
+Still setting things up over here, but the styling elements and pages are finally starting to take shape!
