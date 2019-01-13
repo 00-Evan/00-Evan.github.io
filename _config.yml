@@ -27,6 +27,7 @@ github_username:  00-Evan
 minimal_mistakes_skin: "dark" # "default", air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 breadcrumbs: true
+logo: /assets/images/masthead.png
 
 # Build settings
 markdown: kramdown
