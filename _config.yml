@@ -46,8 +46,8 @@ exclude:
   - README.md
 
 author:
-  name        : "Evan"
-  bio         : "Hey, I'm Evan! I'm the person behind Shattered Pixel. I make videogames and blog posts, I hope you enjoy them!"
+  name        : "Evan Debenham"
+  bio         : "I'm the person behind Shattered Pixel. I make videogames and blog posts, I hope you enjoy them!"
   avatar      : "/assets/images/header.png"
   links:
     - label: "Email"
