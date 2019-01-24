@@ -1,20 +1,25 @@
 ---
 layout: single
-title: About
+title: About Shattered Pixel
 permalink: /about/
+author_profile: true
+classes: wide
 ---
 
-Hello there, this page is currently under construction. Soon I'm going to expand it and include the sort of things you'd expect to see in an about page, as well as a bit of a history of Shattered Pixel.
+Shattered Pixel is the internet home-base and trade-name for Evan Debenham, that's me! You may also know me by 00-Evan, which is a handle I usually use for accounts of various services or games. This website hosts the various things I work on, which at the moment is mostly Shattered Pixel Dungeon and blog posts about Shattered Pixel Dungeon.
 
-Until then here's some very basic info:
+I started Shattered Pixel Dungeon in late 2014, a few days after [Pixel Dungeon](http://pixeldungeon.watabou.ru/) went open source. My motivation at the time was realizing that I was headed toward a regular computer science career path, but really wanted to get into games, and was seriously late in starting on that. Pixel Dungeon going open source seemed like a great opportunity to get my feet wet.
 
-- My name is Evan Debenham, Shattered Pixel is a sort of 'trade name' that I go under when making things. 
-- You might also know me by 00-Evan, which is the username I usually use for personal accounts on services like steam/discord.
-- My only notable project at the moment is Shattered Pixel Dungeon, a fork of Pixel Dungeon which I've been working on since 2014.
+What was originally supposed to be a project that lasted a few months ended up ballooning into a multi-year project because of the community's overwhelmingly positive reaction. Shattered started as a rebalance mod and has grown into its own game, which shares a base and some assets with Pixel Dungeon. If you're interested in Shattered's history, there's a mostly complete history available on the [Blog](/blog/).
 
-As for History:
+In the future, I want to start pushing Shattered towards being a completed game, my latest blog on that topic is [Here](/blog/shattered-pixel-dungeon-in-2019.html).
 
-- For 2014-2018 I was mainly based out of tumblr, before finally deciding to move on to this website in early 2019.
-- Shattered Pixel as a website has existed since 2011. I was originally going to use it for a gaming blog before I realized that nobody wants another one of those.
+## History
 
-This website is built using [Jekyll](https://jekyllrb.com/), and uses the wonderful [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) theme, with some modifications.
+Want some more detail about me? Sure! I have done some things on the internet before Shattered Pixel Dungeon, so here's a bit of history.
+
+Before Shattered Pixel Dungeon, from around 2011-2014, Shattered Pixel was just a blog. The site was active for about a year, where I sporadically wrote blogs about "technology, culture, and gaming". I abandoned the blog when I realized nobody was going to magically start caring about it, but I kept the name for future use.
+
+Before Shattered Pixel, from 2008 to 2010, I wrote reviews for an MMO called RuneScape on their official forums. They went by the title "00-Evan Reviews". The reviews focused on recent content updates to the game, and were generally well received by members of the forum. I wrote about 35 of them in total.
+
+I first started using the name 00-Evan around 2003. I needed to make an email account for school and was instructed by the teacher to "think up something that isn't just your real name". I decided to be a bit of a smart-ass and thought up 00-Evan, and the name has been a handle for me ever since

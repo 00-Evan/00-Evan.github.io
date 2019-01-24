@@ -5,17 +5,15 @@ permalink: /shatteredpd/
 
 header:
   image: /assets/images/SHPD-header.png
-  width: 1280px
+  width: 960px
 
 ---
 
-Hey Look, Shattered Pixel Dungeon has a dedicated page now!
+**Shattered Pixel Dungeon** is a Roguelike RPG, with pixel art graphics and lots of variety and replayability. Every game is unique, with four different playable characters, randomized levels and enemies, and over 150 items to collect and use. The game is simple to get into, but has lots of depth. Strategy is required if you want to win!
 
-This page is currently **under construction**, eventually I would like to have a nice flashy splash page here, but for now all you get is the header image and some basic info:
+This game is based on the freely available source code of [Pixel Dungeon](http://pixeldungeon.watabou.ru/). It began as a project to improve on the original game's quirks, but has since evolved into a separate game, with many unique features.
 
-Shattered Pixel Dungeon is a roguelike RPG for android, based on Pixel Dungeon! While it started as a project to improve on Pixel Dungeon's balance, it has since grown into a separate game, with the same core mechanics.
-
-Some features are:
+Shattered Pixel Dungeon includes:
 - **High replayability:** Randomly generated levels, enemies, and items. No two games are the same!
 - **4 hero classes:** Warrior, Mage, Rogue, and Huntress. Each hero has a unique playstyle.
 - **8 subclasses:** Successful heroes can refine their skills to become more powerful.
@@ -29,3 +27,11 @@ You can download Shattered Pixel Dungeon on Android from:
 - [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 - [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/)
 - [F-Droid](https://f-droid.org/wiki/page/com.shatteredpixel.shatteredpixeldungeon)
+
+Shattered Pixel Dungeon is a **100% free game**. There are no advertisements, microtransactions, or paywalls. An optional donation to support the game unlocks a couple of fun extras, but these are entirely cosmetic and do not affect gameplay.
+
+Find an issue with the game? Have a suggestion? Then contact me! This game is a solo project, so the feedback of players is invaluable in improving the game. You can contact me via email. Note that my ability to respond to emails in languages other than English is limited.
+
+Shattered Pixel Dungeon is available in multiple languages thanks to support from the community. The translation project is hosted [Here](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon). 
+
+Shattered Pixel Dungeon is open source software under the GPLv3 License. You can find the current source code [Here](https://github.com/00-Evan/shattered-pixel-dungeon).
