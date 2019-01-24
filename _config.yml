@@ -85,3 +85,5 @@ defaults:
       related: true
       classes: wide
       permalink: /blog/:categories/:title:output_ext
+      header:
+        teaser: "/assets/images/blog-header.png"
