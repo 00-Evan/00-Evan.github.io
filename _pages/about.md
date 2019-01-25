@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Shattered Pixel is the internet home-base and trade-name for Evan Debenham, that's me! You may also know me by 00-Evan, which is a handle I usually use for accounts of various services or games. This website hosts the various things I work on, which at the moment is mostly Shattered Pixel Dungeon and blog posts about Shattered Pixel Dungeon.
+Shattered Pixel is the internet home-base and trade-name for Evan Debenham, that's me! You may also know me by 00-Evan, which is a handle I usually use for accounts on various services or games. This website hosts the various things I work on, which at the moment is mostly Shattered Pixel Dungeon and blog posts about Shattered Pixel Dungeon.
 
 I started Shattered Pixel Dungeon in late 2014, a few days after [Pixel Dungeon](http://pixeldungeon.watabou.ru/) went open source. My motivation at the time was realizing that I was headed toward a regular computer science career path, but really wanted to get into games, and was seriously late in starting on that. Pixel Dungeon going open source seemed like a great opportunity to get my feet wet.
 
@@ -18,8 +18,8 @@ In the future, I want to start pushing Shattered towards being a completed game,
 
 Want some more detail about me? Sure! I have done some things on the internet before Shattered Pixel Dungeon, so here's a bit of history.
 
-Before Shattered Pixel Dungeon, from around 2011-2014, Shattered Pixel was just a blog. The site was active for about a year, where I sporadically wrote blogs about "technology, culture, and gaming". I abandoned the blog when I realized nobody was going to magically start caring about it, but I kept the name for future use.
+Before Shattered Pixel Dungeon, from around 2011-2014, Shattered Pixel was just a blog. The site was active for about a year, where I sporadically wrote articles about "technology, culture, and gaming". I abandoned the blog when I realized nobody was going to magically start caring about it, but I kept the name for future use.
 
-Before Shattered Pixel, from 2008 to 2010, I wrote reviews for an MMO called RuneScape on their official forums. They went by the title "00-Evan Reviews". The reviews focused on recent content updates to the game, and were generally well received by members of the forum. I wrote about 35 of them in total.
+Before Shattered Pixel, from 2008 to 2010, I wrote reviews for [RuneScape](oldschool.runescape.com) on their official forums. They went by the title "00-Evan Reviews". The reviews focused on recent content updates to the game, and were generally well received by members of the forum. I wrote about 35 of them in total.
 
-I first started using the name 00-Evan around 2003. I needed to make an email account for school and was instructed by the teacher to "think up something that isn't just your real name". I decided to be a bit of a smart-ass and thought up 00-Evan, and the name has been a handle for me ever since
+I first started using the name 00-Evan around 2003. I needed to make an email account for school and was instructed by the teacher to "think up something that isn't just your real name". I decided to be a bit of a smart-ass and thought up 00-Evan, and the name has been a handle for me ever since.
