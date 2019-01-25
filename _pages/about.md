@@ -20,6 +20,6 @@ Want some more detail about me? Sure! I have done some things on the internet be
 
 Before Shattered Pixel Dungeon, from around 2011-2014, Shattered Pixel was just a blog. The site was active for about a year, where I sporadically wrote articles about "technology, culture, and gaming". I abandoned the blog when I realized nobody was going to magically start caring about it, but I kept the name for future use.
 
-Before Shattered Pixel, from 2008 to 2010, I wrote reviews for [RuneScape](oldschool.runescape.com) on their official forums. They went by the title "00-Evan Reviews". The reviews focused on recent content updates to the game, and were generally well received by members of the forum. I wrote about 35 of them in total.
+Before Shattered Pixel, from 2008 to 2010, I wrote reviews for [RuneScape](https://oldschool.runescape.com) on their official forums. They went by the title "00-Evan Reviews". The reviews focused on recent content updates to the game, and were generally well received by members of the forum. I wrote about 35 of them in total.
 
 I first started using the name 00-Evan around 2003. I needed to make an email account for school and was instructed by the teacher to "think up something that isn't just your real name". I decided to be a bit of a smart-ass and thought up 00-Evan, and the name has been a handle for me ever since.
