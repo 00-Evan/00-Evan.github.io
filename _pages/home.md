@@ -7,11 +7,11 @@ header:
   width: 512px
 
 feature_row:
-  - image_path: /assets/images/2019/2019-01-08/header.png
-    alt: "Shattered Pixel Dungeon in 2019"
+  - image_path: /assets/images/2019/2019-01-25/header.png
+    alt: "Coming Soon to Shattered: Alchemy Streamlining!"
     title: "Latest Blog Post"
-    excerpt: "I have been developing Shattered Pixel Dungeon for over four years now and a huge amount of ground has been covered since Shattered’s humble beginnings in late 2014. I originally started ShatteredPD as a ..."
-    url: "/blog/shattered-pixel-dungeon-in-2019.html"
+    excerpt: "Hey Folks, remember that 2019 blog post? Well, I’m getting the first item crossed off that list right now! 0.7.2 is going to be a grab-bag of various improvements. I haven’t locked down what all of them will be yet, but one is definitely some improvements to alchemy!"
+    url: "/blog/coming-soon-to-shattered-alchemy-streamlining.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/SHPD-header.png
