@@ -16,6 +16,13 @@
 }
 @media (min-width: 64em) { .sticky { top: 4em; } }
 
+:target::before {
+  content: "";
+  display: block;
+  height: 4em; /* fixed header height*/
+  margin: -4em 0 0; /* negative fixed header height */
+}
+
 // customized border for author avatar
 .author__avatar img {max-width: 110px; border-radius: 10px;}
 @media (min-width: 64em) { .author__avatar img {padding: 0px; border: 1px solid #51555d;} }
