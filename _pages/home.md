@@ -7,11 +7,11 @@ header:
   width: 512px
 
 feature_row:
-  - image_path: /assets/images/2019/2019-01-25/header.png
-    alt: "Coming Soon to Shattered: Alchemy Streamlining!"
+  - image_path: /assets/images/2019/2019-03-03/header.png
+    alt: "Coming Soon to Shattered: Better Enchantment Balance"
     title: "Latest Blog Post"
-    excerpt: "Hey Folks, remember that 2019 blog post? Well, I’m getting the first item crossed off that list right now! 0.7.2 is going to be a grab-bag of various improvements. I haven’t locked down what all of them will be yet, but one is definitely some improvements to alchemy!"
-    url: "/blog/coming-soon-to-shattered-alchemy-streamlining.html"
+    excerpt: "Hey everyone, I’ve been very busy with other work these last couple months, so unfortunately 0.7.2 has been delayed and isn’t as large I’d like it to be, but there will be more than just catalysts!"
+    url: "/blog/coming-soon-to-shattered-better-enchantment-balance.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/SHPD-header.png
