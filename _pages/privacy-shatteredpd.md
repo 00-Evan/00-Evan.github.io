@@ -5,7 +5,7 @@ permalink: /privacy/shatteredpd
 author_profile: true
 classes: wide
 ---
-*Effective: February 19th, 2019*
+*Effective: April 11th, 2019*
 
 **Shattered Pixel Dungeon**, or **ShatteredPD** refers to the android app 'Shattered Pixel Dungeon', which is developed by Shattered Pixel. ShatteredPD can be downloaded from [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon). Note that this policy only applies to the Google Play version of ShatteredPD. Shattered Pixel does not knowingly receive collected data from distributions of ShatteredPD on any other platforms.
 
@@ -15,7 +15,7 @@ classes: wide
 
 ## Does Shattered Pixel Collect Personally Identifiable Information?
 
-No. Shattered Pixel does not knowingly collect any personally identifiable information via ShatteredPD or associated services. 
+No. Shattered Pixel does not knowingly collect any personally identifiable information via ShatteredPD or associated services.
 
 ## What Data is Collected?
 
@@ -28,7 +28,7 @@ The information provided to Shattered Pixel includes:
 - Various statistics relating to installations of the game, such as app version, android version, language, country, etc.
 - Information relating to app stability, such as crash reports.
 
-All information presented to Shattered Pixel is aggregated or anonymized and is therefore not personally identifiable.
+All information presented to Shattered Pixel is aggregated or anonymized.
 
 ### Google Play Games
 Usage of Google Play Games features within ShatteredPD requires that Google Play Services and Google Play Games be installed on a user's device. Data is reported though these applications, which are governed by [Google's Privacy Policies](https://policies.google.com/privacy).
@@ -44,20 +44,20 @@ The following information from users who have enabled Google Play Games is made 
 - Statistical information relating to Google Play Games functionality, such as how many players have unlocked achievements.
 - Timeline information relating to game events, such as when players unlock achievements, stop playing, or make in-app purchases.
 
-All information is aggregated or anonymized and is therefore not personally identifiable.
+All information presented to Shattered Pixel is aggregated or anonymized.
 
 ### Google Analytics
-ShatteredPD uses Google Analytics to collect data with the aim of improving the game. A user may opt-in to this functionality in order to help support the game by playing it. All data is reported to Google via the Google Analytics for Android SDK, which is governed by [Google's Privacy Policies](https://policies.google.com/privacy). Google then makes reports based on this information available to Shattered Pixel via the Google Analytics Console.
+ShatteredPD uses Google Analytics for Firebase to collect data with the goal of improving the game. A user may opt-in to this functionality by enabling the 'Share Gameplay Data' setting within ShatteredPD. All data is reported to Google via the Google Firebase SDK, which is governed by [Google's Privacy Policies](https://policies.google.com/privacy). Google then makes aggregated reports based on this information available to Shattered Pixel via the Firebase Console and makes the raw data available via associated services such as Google BigQuery and Google Data Studio.
 
-These reports include information such as:
-- Various statistics relating to gameplay events, such as when items are crafted or upgraded, and when the player ends a run.
+Firebase Console reports include information such as:
+- How many of each type of reported event happen within a given period of time.
 - How many unique users have played ShatteredPD within a given period of time.
-- User device statistics, such as device models, languages, country, etc.
+- User device statistics, such as device model, language, country, etc.
 - Detailed crash and error reports.
 
-All information is aggregated or anonymized, and is therefore not personally identifiable. Note that Shattered Pixel does not make use of [Advertising Reporting Features](https://support.google.com/analytics/answer/3450482?hl=en) within Google Analytics, and therefore does not collect or make use of a user's advertising ID or any other unique identifier.
+Shattered Pixel uses raw analytics information to perform more complex analysis of analytics data. [Here is a full list of the data fields made available to Shattered Pixel via BigQuery.](https://support.google.com/firebase/answer/7029846?hl=en) Note that Shattered Pixel has disabled collection of user IDs and advertising IDs. Some of the listed fields are filled by custom information provided by Shattered Pixel Dungeon. Custom information will only ever relate to gameplay.
 
-Note that Google Analytics for Android is being [sunsetted by Google in late 2019](https://support.google.com/firebase/answer/9167112). Because of this, all data collection described in this section will cease on October 31st 2019. ShatteredPD will be migrating to [Google Analytics for Firebase](https://firebase.google.com/docs/analytics/). When said migration occurs, this privacy policy will be updated.
+Note that versions of ShatteredPD prior to 0.7.2b use Google Analytics for Android, and not Google Analytics for Firebase. Both services collect similar data. Google Analytics for Android is being [sunsetted by Google on October 31st 2019](https://support.google.com/firebase/answer/9167112), and as such all analytics data collection on ShatteredPD versions prior to 0.7.2b will cease on that date.
 
 ## How Is Collected Data Used?
 
@@ -90,10 +90,9 @@ I can be contacted by email for inquiries relating to this privacy policy: [Evan
 
 ## Changes to this Privacy Policy
 
-This policy may change occasionally and any updates will be posted here. Notice of changes will be provided to users of Shattered Pixel Dungeon via a message within the game, when those changes are relevant to those users. Users will only be notified if the privacy policy update includes a functional difference in what data is collected, how it is handled, or how it is used. Notifications will not be given to minor adjustments such as changes to wording.
-
----
+This policy may change occasionally and any updates will be posted here. Notice of changes will be provided to users of Shattered Pixel Dungeon via a message within the game, when those changes are relevant to those users. Users will only be notified if the privacy policy update includes a functional difference in what data is collected, how it is handled, or how it is used. Notifications will not be given for minor adjustments such as changes to wording.
 
 *change history:*
+- *Apr 11th, 2019: updated Google Analytics section, as the game now uses Firebase. No significant change to what data is collected. Also improved wording.*
 - *Feb 19th, 2019: improved wording in a few places*
 - *Feb 12th 2019: original policy posted*
