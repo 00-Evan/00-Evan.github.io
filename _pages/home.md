@@ -8,10 +8,10 @@ header:
 
 feature_row:
   - image_path: /assets/images/blog-header.png
-    alt: "Shattered Pixel Dungeon v0.7.2!"
+    alt: "Coming Soon to Shattered: Some New, Some Improved!"
     title: "Latest Blog Post"
-    excerpt: "0.7.2 is focused on some major balance adjustments and quality of life improvements."
-    url: "/blog/shattered-pixel-dungeon-v072.html"
+    excerpt: "0.7.3 is going to be a grab-bag of smaller content additions and improvements."
+    url: "/blog/coming-soon-to-shattered-some-new-some-improved.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/SHPD-header.png
