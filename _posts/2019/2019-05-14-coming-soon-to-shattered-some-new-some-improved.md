@@ -58,6 +58,6 @@ I'm also adjusting **Tipped Darts**. I've decided to remove dart tipping it from
 
 ---
 
-0.7.2 will be releasing in a bit more than a week, so look forward to seeing these changes ingame soon!
+0.7.3 will be releasing in a bit more than a week, so look forward to seeing these changes ingame soon!
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/boybne/)
