@@ -1,6 +1,11 @@
 ---
 title: Shattered Pixel Dungeon v0.7.2!
 excerpt: 0.7.2 is focused on some major balance adjustments and quality of life improvements.
+
+header:
+  image: /assets/images/2019/2019-03-18/header.png
+  teaser: /assets/images/2019/2019-03-18/header.png
+  width: 1260px
 ---
 Hey Everyone, first update of 2019 and it's in March, whoops!
 
