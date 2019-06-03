@@ -1,6 +1,6 @@
 ---
 title: Shattered Pixel Dungeon v0.7.3! 
-excerpt: 0.7.3 contains various changed based on community feedback.
+excerpt: 0.7.3 contains various changes based on community feedback.
 
 header:
   image: /assets/images/2019/2019-05-23/header.png
