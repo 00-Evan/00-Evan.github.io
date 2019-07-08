@@ -16,7 +16,7 @@ Hey Dungeoneers, the next Shattered update is coming soon, here's what to expect
 
 Before delving into what's new, let me cover some of the improvements I've made to allies that already exist within the game.
 
-Allies which follow the hero are now considered to be 'intelligent', and won't charge into battle against enemies that are asleep or haven't noticed you yet. This should make allies much less prone to leaping to their death against enemmies you might not have even wanted to fight, especially piranhas. Intelligent allies are all capable of following the hero between depths as well. Lastly, all allies, intelligent or not, can now swap position with the hero when interacted with.
+Allies which follow the hero are now considered to be 'intelligent', and won't charge into battle against enemies that are asleep or haven't noticed you yet. This should make allies much less prone to leaping to their death against enemies you might not have even wanted to fight, especially piranhas. Intelligent allies are all capable of following the hero between depths as well. Lastly, all allies, intelligent or not, can now swap position with the hero when interacted with.
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/dried-rose.png){: .align-left}
 The Ghost Hero is getting some improvements as well. In addition to being considered an intelligent ally, the ghost can now also be given simple instructions via the dried rose. Similarly to how you guide the hero, you can tap on the rose and then on a location, and the ghost will act based on what/where you tapped on.
