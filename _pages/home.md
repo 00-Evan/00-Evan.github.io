@@ -7,11 +7,11 @@ header:
   width: 512px
 
 feature_row:
-  - image_path: /assets/images/2019/2019-07-18/header.png
-    alt: "Shattered Pixel Dungeon v0.7.4!"
+  - image_path: /assets/images/2019/2019-09-17/header.png
+    alt: "Coming Soon to Shattered: New Foes!"
     title: "Latest Blog Post"
-    excerpt: "0.7.4 is focused around improving allies and ally-generating items. There are 2 new ally-creating wands, improvements to ally AI, and improvements to various other items."
-    url: "/blog/shattered-pixel-dungeon-v074.html"
+    excerpt: "0.7.5 is the first in a series of two updates that are aimed at improving and expanding the enemies within the dungeon. In 0.7.5, I’m expanding the early stages of the game by focusing on the sewers and prison."
+    url: "/blog/coming-soon-to-shattered-new-foes.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/SHPD-header.png
