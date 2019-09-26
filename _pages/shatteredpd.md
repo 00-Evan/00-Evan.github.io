@@ -5,7 +5,7 @@ permalink: /shatteredpd/
 
 header:
   image: /assets/images/SHPD-header.png
-  width: 960px
+  width: 800px
 
 ---
 

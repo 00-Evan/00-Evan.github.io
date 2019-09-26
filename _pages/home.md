@@ -4,7 +4,7 @@ permalink: /
 
 header:
   image: /assets/images/header.png
-  width: 512px
+  width: 1260px
 
 feature_row:
   - image_path: /assets/images/2019/2019-09-17/header.png
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/blog-header.png
     alt: "Blog Archive"
     title: "Blog Archive"
-    excerpt: "Read previous Shattered Pixel blog posts, dating back to 2014."
+    excerpt: "Read previous Shattered Pixel blog posts, dating back to 2014. The blog includes a fully history of dev work on Shattered Pixel Dungeon."
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"

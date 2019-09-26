@@ -31,7 +31,7 @@ logo: /assets/images/masthead.png
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.16.0"
+remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -48,7 +48,7 @@ exclude:
 author:
   name        : "Evan Debenham"
   bio         : "I'm the person behind Shattered Pixel. I make videogames and blog posts, I hope you enjoy them!"
-  avatar      : "/assets/images/header.png"
+  avatar      : "/assets/images/avatar.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
