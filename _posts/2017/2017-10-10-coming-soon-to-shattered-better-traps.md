@@ -30,7 +30,7 @@ With those principals in mind, here a few highlights among what I’ve changed:
 - Lightning and Paralytic gas traps have been merged into a new trap: shocking.
 - Fire, frost, and shocking traps now all create a lasting 3x3 AOE effect. They each have a stronger variant that has a 5x5 effect.  
 The way scrolls and potions are destroyed by burning/freezing has also been made much less random.
-- Pitfall, explosive, and disarming traps are unchanged, because I love to see you suffer. because their unique effects justify the frustration they cause.
+- Pitfall, explosive, and disarming traps are unchanged, ~~because I love to see you suffer~~ because their unique effects justify the frustration they cause.
   
 <figure>
  <a href="/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/trap-examples.png" class="align-center text-center">
