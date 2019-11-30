@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: /assets/images/2019/2019-11-30/header.png
+    title: "Coming Soon: More New Foes!"
+    excerpt: "0.8.0 contains major changes to enemies and general balance in the later areas."
+    url: "/blog/coming-soon-to-shattered-more-new-foes.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2019/2019-10-02/header.png
     title: "ShatteredPD v0.7.5!"
     excerpt: "0.7.5 significantly improves and expands on enemies in the first two regions of the game!"
     url: "/blog/shattered-pixel-dungeon-v075.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/2019/2019-09-17/header.png
-    title: "Coming Soon: New Foes!"
-    excerpt: "0.7.5 is the first in a series of two updates that are aimed at improving and expanding the enemies within the dungeon."
-    url: "/blog/coming-soon-to-shattered-new-foes.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
