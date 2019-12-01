@@ -20,17 +20,17 @@ The major goal with these changes and additions is to make the lategame more int
 
 **Bats** and **Gnoll Brutes** are both getting relatively minor changes. I'm tweaking bats to deal slightly less damage, and to heal for less than their raw damage dealt. This should hopefully make them a bit less oppressive against undergeared runs, especially runs with weaker damage. Brutes will now rage when at 0 health instead of 1/4, and will gain shielding equal to half their health when they start to rage. Just like with the Berserker, this shield fades over time, and they will die when it hits 0. My hope is that this will make their rage a gameplay factor more often, instead of just giving the hero an extra attack to finish them off.
 
-**Gnoll Shamans** are getting some significant changes, and are becoming a caves-exclusive enemy! In the prison they are being replaced by **DM-100s**, which function basically the same as shamans do currently. The new caves shamans have better stats and a new earthen-themed magical attack! Each shaman you encounter can be wearing one of a few different mask types, and the debuff they inflict with their matic will vary based on the mask.
+**Gnoll Shamans** are getting some significant changes, and are becoming a caves-exclusive enemy! In the prison they are being replaced by **DM-100s**, which function basically the same as shamans do currently. The new caves shamans have better stats and a new earthen-themed magical attack! Each shaman you encounter can be wearing one of a few different mask types, and the debuff they inflict with their magic will vary based on the mask.
 
 **Cave Spinners** are being slightly reworked into what I like to call a 'pseudo-ranged' enemy. Pseudo-ranged enemies are capable of attacking at a distance, but have some major drawback to their ranged attack such as a cooldown, charge-up, or debuffing instead of dealing direct damage. Spinners are getting the ability to spit webs around the hero, but can't directly web their position. This means spinners can use their webs strategically to cut off escape or chase routes. The webs also now block projectiles, but will break apart when doing so.
 
-**DM-200s** are a new very bulky caves enemy that's too big to move into tunnels! This gives the player a lot of control over hwo to engage them, but DM-200s make up for it with impressive stats and a couple abilities to help them against dodgy players.
+**DM-200s** are a new very bulky caves enemy that's too big to move into tunnels! This gives the player a lot of control over how to engage them, but DM-200s make up for it with impressive stats and a couple abilities to help them against dodgy players.
 
 ## Dwarven Metropolis
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/elementals.png){: .align-center}
 
-**Ghouls** are a new basic enemy that will appear in the early stages of the dwarven metropolis. Their direct stats aren't too great, but they make up for this by always traveling in pairs! They'll be much more threatening if you let them gang up on you, so make sure to use those hallways!
+**Ghouls** are a new basic enemy that will appear in the early stages of the dwarven metropolis. Their direct stats aren't very high, but they make up for this by always traveling in pairs! They'll be much more threatening if you let them gang up on you, so make sure to use those hallways!
 
 **Elementals** are getting some fairly significant changes to make them more varied and mechanically interesting. With ghouls taking the spot of basic metropolis enemy, I'm moving elementals to be a pseudo-ranged enemy! There are also now multiple elemental types, so fire isn't the only thing you'll need to look out for. Each elemental has a different ranged attack that they can use every few turns, but these attacks will be focused around debuffing instead of dealing raw damage. Each elemental type has the same base stats, but different resistances/weaknesses and different debuffs they can inflict when attacking.
 
@@ -60,7 +60,7 @@ Several tweaks are also being made to rarer lategame traps. Similarly to the tra
 - Cursing traps now always curse a single item, and won't curse rings or artifacts (which are much nastier when cursed compared to weapons/armor).
 - Disarming traps now have a distance range they can teleport your weapon away to, preventing extreme cases where it could go to the other end of the level.
 - Pitfall traps now affect a small AOE, but also give the player a single turn to react before they're yeeted down to the next depth. This means players can use the traps against enemies, and can also quickly swig a healing or levitation potion to save themselves.
-- Distortion traps have been reworked, and now act as a sort of more chaotic teleportation trap. I do think removing their current effect is a bit unfortunate, but it was just too prone to errors, especially when combined with the reclaim trap spell.
+- Distortion traps have been reworked, and now act as a sort of more chaotic summoning trap. I do think removing their current effect is a bit unfortunate, but it was just too prone to errors, especially when combined with the reclaim trap spell.
 
 My hope with all these changes is to keep the demon halls dangerous while also making them more worthwhile to explore.
 
