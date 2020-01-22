@@ -7,7 +7,7 @@ permalink: /privacy/
 This page contains privacy information for the services Shattered Pixel offers.
 
 ## Shattered Pixel Dungeon
-*Effective: April 11th, 2019*
+*Effective: January 21st, 2020*
 
 [Shattered Pixel Dungeon has a full privacy policy which is contained on a separate web-page.](/privacy/shatteredpd.html)
 

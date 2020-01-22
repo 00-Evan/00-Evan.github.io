@@ -12,7 +12,7 @@ I started Shattered Pixel Dungeon in late 2014, a few days after [Pixel Dungeon]
 
 What was originally supposed to be a project that lasted a few months ended up ballooning into a multi-year project because of the community's overwhelmingly positive reaction. Shattered started as a rebalance mod and has grown into its own game, which shares a base and some assets with Pixel Dungeon. If you're interested in Shattered's history, there's a mostly complete history available on the [Blog](/blog/).
 
-In the future, I want to start pushing Shattered towards being a completed game, my latest blog on that topic is [Here](/blog/shattered-pixel-dungeon-in-2019.html).
+In the future, I want to start pushing Shattered towards being a completed game, my latest blog on that topic is [Here](/blog/shattered-pixel-dungeon-in-2020.html).
 
 ## History
 
@@ -22,4 +22,4 @@ Before Shattered Pixel Dungeon, from around 2011-2014, Shattered Pixel was just 
 
 Before Shattered Pixel, from 2008 to 2010, I wrote reviews for [RuneScape](https://oldschool.runescape.com) on their official forums. They went by the title "00-Evan Reviews". The reviews focused on recent content updates to the game, and were generally well received by members of the forum. I wrote about 35 of them in total.
 
-I first started using the name 00-Evan around 2003. I needed to make an email account for school and was instructed by the teacher to "think up something that isn't just your real name". I decided to be a bit of a smart-ass and thought up 00-Evan, and the name has been a handle for me ever since.
+I first started using the name 00-Evan around 2003. I needed to make an email account for school and was instructed by the teacher to "think up something that isn't just your real name". I decided to be a bit of a smart-ass and thought up 00-Evan (pronounced double-oh-evan), and the name has been a handle for me ever since.
