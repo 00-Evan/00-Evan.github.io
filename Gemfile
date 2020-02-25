@@ -27,6 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jemoji'
   gem 'jekyll-include-cache'
+  gem "activesupport", ">= 6"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
