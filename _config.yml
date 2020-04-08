@@ -31,7 +31,7 @@ logo: /assets/images/masthead.png
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.18.1"
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
