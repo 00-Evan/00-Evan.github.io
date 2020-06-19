@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: /assets/images/2020/2020-06-19/header.jpg
+    title: "Coming Soon: New Sights and Sounds"
+    excerpt: "v0.8.1 is filled with followups to v0.8.0, and a bunch of medium-large sized features that I've been wanting to get into the game for quite a while."
+    url: "/blog/coming-soon-to-shattered-new-sights-and-sounds.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2020/2020-04-16/header.png
     title: "Shattered Pixel Dungeon v0.8.0!"
     excerpt: "0.8.0 totally overhauls enemies and bosses in the middle and late stages of the game!"
     url: "/blog/shattered-pixel-dungeon-v080.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/2020/2020-04-08/header.png
-    title: "Coming Soon: Better Bosses!"
-    excerpt: "Hey Dungeoneers, long time no see! Over the last four months I’ve been steadily working on the beta for 0.8.0."
-    url: "/blog/coming-soon-to-shattered-better-bosses.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png

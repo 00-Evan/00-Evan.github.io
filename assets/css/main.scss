@@ -40,7 +40,6 @@ figure img {
 //separate background color
 .initial-content {
 	background-color: #12151a;
-  //background-image: linear-gradient(black, $background-color);
 }
 
 #main {
@@ -50,6 +49,10 @@ figure img {
 
 .page__hero {
   margin-bottom: 1em;
+}
+
+.page__hero-image {
+  border-radius: 10px;
 }
 
 .page__content {
@@ -66,6 +69,7 @@ figure img {
 .sidebar > * {
   float: left;
 }
+
 
 //TODO it seems like the theme does a few odd things at exactly 64 em
 //because of max-width: 64em statements. Perhaps investigate and pull request
