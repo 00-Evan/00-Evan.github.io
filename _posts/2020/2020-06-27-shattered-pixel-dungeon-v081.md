@@ -15,7 +15,7 @@ Here’s a heavily condensed changes list, you can find a fully detailed changes
 
 ```
 New Content:
-- A redesigned hero select will fullscreen splash art!
+- A redesigned hero select with fullscreen splash art!
 - New sound effects and remastered music
 - Improved visuals for buff and item icons
 - A rework for the Talisman of Foresight 
@@ -30,12 +30,12 @@ Changes:
 - 20+ bugfixes
 
 Buffs:
-- Rework/buff to ring of wealth
+- Rework/buff to Ring of Wealth
 - Buffs to Assassin and Sniper
-- Various QoL and buff changes to wand of warding
+- Various QoL and buff changes to Wand of Warding
 - 11 misc. item buffs
 
 Nerfs:
 - 9 misc. item nerfs
-- nerfs to greataxe and defense-granting weapons
+- nerfs to Greataxe and defense-granting weapons
 ```
