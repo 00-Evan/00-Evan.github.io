@@ -1,6 +1,6 @@
 ---
 title: "Coming Soon to Shattered: Better Bosses!"
-excerpt: "Hey Dungeoneers, long time no see! Over the last four months I’ve been steadily working on the beta for 0.8.0."
+excerpt: "Hey Dungeoneers, long time no see! Over the last four months I’ve been steadily working on the beta for 0.8.0. There haven't been any life events that caused this delay, it's simply because 0.8.0 ended up becoming a much larger update that I originally planned."
 
 header:
   image: /assets/images/2020/2020-04-08/header.png

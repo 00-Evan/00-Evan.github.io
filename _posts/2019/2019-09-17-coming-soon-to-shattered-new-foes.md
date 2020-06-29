@@ -1,6 +1,6 @@
 ---
 title: "Coming Soon to Shattered: New Foes!"
-excerpt: "0.7.5 is the first in a series of two updates that are aimed at improving and expanding the enemies within the dungeon."
+excerpt: "0.7.5 is the first in a series of two updates that are aimed at improving and expanding the enemies within the dungeon. In 0.7.5, I'm expanding the early stages of the game by focusing on the sewers and prison."
 
 header:
   image: /assets/images/2019/2019-09-17/header.png

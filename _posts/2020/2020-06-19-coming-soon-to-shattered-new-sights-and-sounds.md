@@ -1,6 +1,6 @@
 ---
 title: "Coming Soon to Shattered: New Sights and Sounds"
-excerpt: "v0.8.1 is filled with followups to v0.8.0, and a bunch of medium-large sized features that I've been wanting to get into the game for quite a while."
+excerpt: "v0.8.1 is filled with followups to v0.8.0, and a bunch of medium-large sized features that I've been wanting to get into the game for quite a while. There are some big visual improvements coming in this update!"
 
 header:
   image: /assets/images/2020/2020-06-19/header.jpg

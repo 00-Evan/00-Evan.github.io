@@ -21,7 +21,7 @@ blog_feature:
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
     title: "Blog Archive"
-    excerpt: "Read previous Shattered Pixel blog posts, dating back to 2014. The blog includes a full history of my dev work."
+    excerpt: "Read previous Shattered Pixel blog posts including announcements, design overviews, and teasers! The blog includes a full history of my dev work since I started Shattered Pixel Dungeon in 2014."
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"

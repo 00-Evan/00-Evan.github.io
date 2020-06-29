@@ -1,6 +1,6 @@
 ---
 title: Shattered Pixel Dungeon v0.8.0!
-excerpt: "0.8.0 totally overhauls enemies and bosses in the middle and late stages of the game!"
+excerpt: "0.8.0 totally overhauls enemies and bosses in the middle and late stages of the game! Expect lots more enemy diversity and fresh new challenges as you explore the more dangerous parts of the dungeon!"
 
 header:
   image: /assets/images/2020/2020-04-16/header.png

@@ -1,6 +1,6 @@
 ---
 title: "Shattered Pixel Dungeon in 2020"
-excerpt: "Just like last year, I've decided to do a blog post talking about my longer-term plans for the game!"
+excerpt: "Just like last year, I've decided to do a blog post talking about my longer-term plans for the game! For 2020 I want my core focus to be making some big game system additions/changes to get Shattered lined up for finally being released, instead of being perpetually in beta."
 
 header:
   image: /assets/images/2020/2020-01-13/header.png
