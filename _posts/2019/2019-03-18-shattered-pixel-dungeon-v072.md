@@ -6,6 +6,9 @@ header:
   image: /assets/images/2019/2019-03-18/header.png
   teaser: /assets/images/2019/2019-03-18/header.png
   width: 1260px
+
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+tag: "ICON: CHANGES"
 ---
 Hey Everyone, first update of 2019 and it's in March, whoops!
 

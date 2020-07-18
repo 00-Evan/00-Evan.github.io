@@ -6,6 +6,9 @@ header:
   image: /assets/images/2020/2020-04-16/header.png
   teaser: /assets/images/2020/2020-04-16/header.png
   width: 1260px
+
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+tag: "ICON: CHANGES"
 ---
 Hey Dungeoneers, 0.8.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), and should roll out to other platforms such as [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) and [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/) soon!
 

@@ -6,6 +6,9 @@ header:
   image: /assets/images/2019/2019-06-03/header.png
   teaser: /assets/images/2019/2019-06-03/header.png
   width: 1260px
+
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+tag: "ICON: PREFS"
 ---
 
 Hey Dungeoneers, I've got a slightly different blog post for you this time. v0.7.3 is the last version of Shattered Pixel Dungeon which will support Android 2.2 Froyo, so I thought I'd explain why, and give a retrospective on Froyo support in Shattered Pixel Dungeon.

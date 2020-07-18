@@ -6,6 +6,9 @@ header:
   image: /assets/images/2019/2019-09-17/header.png
   teaser: /assets/images/2019/2019-09-17/header.png
   width: 1260px
+
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+tag: "sprites/necromancer.png, 0, 0, 16, 16"
 ---
 
 Hey Dungeoneers, the next Shattered update is coming soon, here's what to expect!

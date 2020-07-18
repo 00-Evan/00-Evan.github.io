@@ -6,6 +6,9 @@ header:
   image: /assets/images/2019/2019-07-18/header.png
   teaser: /assets/images/2019/2019-07-18/header.png
   width: 1260px
+
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+tag: "ICON: CHANGES"
 ---
 Hey Dungeoneers, 0.7.4 has been released on Google Play, and should roll out to other platforms soon!
 

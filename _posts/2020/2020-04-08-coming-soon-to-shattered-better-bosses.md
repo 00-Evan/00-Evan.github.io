@@ -6,13 +6,14 @@ header:
   image: /assets/images/2020/2020-04-08/header.png
   teaser: /assets/images/2020/2020-04-08/header.png
   width: 1260px
+
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+tag: "sprites/king.png, 0, 0, 16, 16"
 ---
 
 Hey Dungeoneers, long time no see!
 
 Over the last four months I've been steadily working on the beta for 0.8.0 and making posts for those who've signed up on [Patreon](https://www.patreon.com/ShatteredPixel), but for a lot of you I've been basically silent on dev work since the [last post](/blog/shattered-pixel-dungeon-in-2020.html) in mid January. There haven't been any life events that caused this delay, it's simply because 0.8.0 ended up becoming a much larger update that I originally planned. But now I'm happy to finally be at the end of developing it, which means I can share more info!
-
----
 
 Before we get started though, I want to send my well wishes to everyone currently feeling the effects of the novel coronavirus. Regardless of whether the virus has affected your health, mental wellbeing, or financial stability, I want to wish you the best as we all do what we can to fight it.
 

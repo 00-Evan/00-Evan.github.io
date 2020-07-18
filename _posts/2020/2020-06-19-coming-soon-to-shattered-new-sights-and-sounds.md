@@ -25,6 +25,8 @@ gallery:
     alt: "Huntress"
     title: "Huntress"
 
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+tag: "ICON: DISPLAY"
 ---
 
 Hey Dungeoneers, the next Shattered update is nearing completion, so let me share what's coming!

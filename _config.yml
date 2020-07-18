@@ -86,6 +86,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/00-Evan"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/ShatteredPixel"
 
 defaults:
   # _posts
@@ -102,3 +105,6 @@ defaults:
       permalink: /blog/:categories/:title:output_ext
       header:
         teaser: "/assets/images/blog-header.png"
+
+feed:
+  excerpt_only: true

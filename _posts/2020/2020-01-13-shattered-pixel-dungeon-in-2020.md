@@ -6,6 +6,10 @@ header:
   image: /assets/images/2020/2020-01-13/header.png
   teaser: /assets/images/2020/2020-01-13/header.png
   width: 1260px
+
+#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+#63 = Amulet of Yendor item sprite
+tag: "ITEM: 63"
 ---
 
 Hey rat punchers, happy new year!
