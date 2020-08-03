@@ -35,7 +35,7 @@ v0.8.1 is filled with followups to v0.8.0, and a bunch of medium-large sized fea
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you like what I do, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Currently Patrons get access to weekly mini-blogs, monthly content polls, and an exclusive discord! Assistance from patrons and donators on Google Play is what enables me to keep making updates, thank so you much for your support!
+[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon!](https://www.patreon.com/ShatteredPixel) Google Play Supporters get access to fun cosmetic in-game benefits. Patrons get access to weekly mini-blogs, monthly content polls, and a patron discord!
 
 ## New Hero Select!
 

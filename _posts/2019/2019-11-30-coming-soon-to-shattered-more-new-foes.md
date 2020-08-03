@@ -75,4 +75,4 @@ A few of you might have read that previous paragraph and wondered what I meant w
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/e45im5/)
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) Lastly, if you're as excited about these changes as I am, please consider [supporting me on Patreon.](https://www.patreon.com/ShatteredPixel) While I don't ever plan to paywall game content, patrons do get early info about what I'm working on, which will include a first look at new bosses before I release the next blog!
+[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) Lastly, if you're as excited about these changes as I am, please consider making a purchase in the Google Play version of the game, or [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) While I don't ever plan to paywall game content, patrons do get early info about what I'm working on, which will include a first look at new bosses before I release the next blog!

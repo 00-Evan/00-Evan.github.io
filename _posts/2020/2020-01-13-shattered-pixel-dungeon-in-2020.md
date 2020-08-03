@@ -63,7 +63,7 @@ While I can't commit to an iOS release yet, the Android version of the game shou
 
 ### Monetization Improvements
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/monetization.png){: .align-left}
-While the ingame donations menu only received some wording tweaks in 2019, I did [launch a Patreon](https://www.patreon.com/ShatteredPixel)! I'm very pleased with the steady progress the Patreon has made over the last roughly 6 months, and I plan to continue expanding it as time goes on.
+While the ingame supporter menu only received some wording tweaks in 2019, I did [launch a Patreon](https://www.patreon.com/ShatteredPixel)! I'm very pleased with the steady progress the Patreon has made over the last roughly 6 months, and I plan to continue expanding it as time goes on.
 
 As for ingame monetization, I'm planning to start making steady incremental improvements to the supporter features over 2020. This will start with some interface improvements, and will likely move toward extending supporter features and perhaps tiers as the year continues. I will be sure not to be overbearing with it though, the goal is for me to make enough to keep making games full time, not as much money as possible.
 
@@ -115,4 +115,4 @@ Whew, another long read! There's still plenty of work to be done on Shattered, a
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/eod4bg/)
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) Lastly, if you'd like to help me make these plans a reality, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get early info about upcoming game updates, which will include most of what I've talked about here once I start developing it.
+[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) Lastly, if you'd like to help me make these plans a reality, please consider making a purchase in the Google Play version of the game, or [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get early info about upcoming game updates, which will include most of what I've talked about here once I start developing it.

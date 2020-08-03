@@ -20,7 +20,7 @@ Also don't worry, that [new gameplay system](/blog/shattered-pixel-dungeon-in-20
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy the games I make, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to weekly mini-blogs, monthly content polls, and an exclusive discord! Assistance from patrons and donators on Google Play is what enables me to keep making updates, thank so you much for your support!
+[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon!](https://www.patreon.com/ShatteredPixel) Google Play Supporters get access to fun cosmetic in-game benefits. Patrons get access to weekly mini-blogs, monthly content polls, and a patron discord!
 
 ## A New 'News' Interface!
 

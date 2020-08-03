@@ -57,4 +57,4 @@ I'm expecting to release 0.7.5 in about a week and a half, so look forward to th
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/d5zmgi/)
 
 [![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel)
-If you'd like to support the development of Shattered Pixel Dungeon, please consider either donating in the Google Play version of the game, or [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) The Patreon was **recently expanded to include new benefits**, and I intent to keep building it over time.
+If you'd like to support the development of Shattered Pixel Dungeon, please consider either making a purchase in the Google Play version of the game, or [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) The Patreon was **recently expanded to include new benefits**, and I intent to keep building it over time.
