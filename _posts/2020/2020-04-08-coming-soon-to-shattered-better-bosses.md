@@ -15,9 +15,9 @@ Hey Dungeoneers, long time no see!
 
 Over the last four months I've been steadily working on the beta for 0.8.0 and making posts for those who've signed up on [Patreon](https://www.patreon.com/ShatteredPixel), but for a lot of you I've been basically silent on dev work since the [last post](/blog/shattered-pixel-dungeon-in-2020.html) in mid January. There haven't been any life events that caused this delay, it's simply because 0.8.0 ended up becoming a much larger update that I originally planned. But now I'm happy to finally be at the end of developing it, which means I can share more info!
 
-Before we get started though, I want to send my well wishes to everyone currently feeling the effects of the novel coronavirus. Regardless of whether the virus has affected your health, mental wellbeing, or financial stability, I want to wish you the best as we all do what we can to fight it.
+Before we get started though, I want to send my well wishes to everyone currently feeling the effects of the global pandemic. Regardless of whether it has affected your health, mental wellbeing, or financial stability, I want to wish you the best as we all do what we can to fight it.
 
-We live in an unprecedented era of human communication and coordination, which has allowed many of the world's societies to protect themselves from the virus before any direct treatment for it has been developed. While it's easy to focus on cases where the virus has spread uninhibited, every case where it has not is a victory for humanity in this battle, and we're racking up quite a few of them. I think this recent XKCD comic highlights it best: [We're not trapped in here with the coronavirus. The coronavirus is trapped in here with us.](https://xkcd.com/2287/)
+We live in an unprecedented era of human communication and coordination, which has allowed many of the world's societies to protect themselves before any direct treatment has been developed. While it's easy to focus on cases where spread has been uninhibited, every case where it has not is a victory for humanity in this battle, and we're racking up quite a few of them. I think this recent XKCD comic highlights it best: [We're not trapped in here with the virus. The virus is trapped in here with us.](https://xkcd.com/2287/)
 
 ## Why the Wait?
 
