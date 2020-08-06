@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: /assets/images/2020/2020-08-06/header.png
+    title: "Shattered Pixel Dungeon v0.8.2!"
+    excerpt: "v0.8.2 includes major interface improvements & additions, a new equipment slot for rings/artifacts, and a bunch of smaller improvements and balance tweaks!"
+    url: "/blog/shattered-pixel-dungeon-v082.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2020/2020-07-30/header.png
     title: "Coming Soon: Improved Interfaces!"
     excerpt: "v0.8.2 is primarily focused on some big interface improvements, as well as some smaller tweaks to game balance and mechanics."
     url: "/blog/coming-soon-to-shattered-improved-interfaces.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/2020/2020-06-27/header.png
-    title: "Shattered Pixel Dungeon v0.8.1!"
-    excerpt: "v0.8.1 includes some major audiovisual upgrades in the form of new sounds effects and a redesigned hero select featuring fully detailed splash art!"
-    url: "/blog/shattered-pixel-dungeon-v081.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
