@@ -42,7 +42,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -93,6 +93,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       share: false
       related: true
       classes: wide
