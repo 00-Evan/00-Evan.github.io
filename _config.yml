@@ -42,7 +42,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
