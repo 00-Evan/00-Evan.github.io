@@ -6,7 +6,6 @@ header:
   image: /assets/images/2020/2020-07-30/header.png
   teaser: /assets/images/2020/2020-07-30/header.png
   width: 1260px
-#What is the header? maybe a zoomed in view of the new title screen?
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
 tag: "ICON: PREFS"
