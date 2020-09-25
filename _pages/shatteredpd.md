@@ -27,6 +27,8 @@ You can download Shattered Pixel Dungeon on Android from:
 - [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 - [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/)
 - [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
+- [F-Droid](https://f-droid.org/es/packages/com.shatteredpixel.shatteredpixeldungeon)
+- [Snapcraft.io](https://snapcraft.io/shattered-pixel-dungeon)
 
 Shattered Pixel Dungeon is a **100% free game**. There are no advertisements, microtransactions, or paywalls. An optional donation to support the game unlocks a couple of fun extras, but these are entirely cosmetic and do not affect gameplay.
 
