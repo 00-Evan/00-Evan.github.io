@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tag: "sprites/ripper.png, 15, 0, 15, 14"
+tags: ["sprites/ripper.png, 15, 0, 15, 14", "SHPD_INGAME"]
 ---
 
 Hey Dungeoneers, the next Shattered update, v0.8.0, is currently well into development, here's some of what's coming!

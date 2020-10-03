@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tag: "ICON: CHANGES"
+tags: ["ICON: CHANGES", "SHPD_INGAME"]
 ---
 Hey Dungeoneers, 0.7.5 has been released on Google Play, and should roll out to other platforms soon!
 

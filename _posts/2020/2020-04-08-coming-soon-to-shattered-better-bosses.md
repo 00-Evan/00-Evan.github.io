@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tag: "sprites/king.png, 0, 0, 16, 16"
+tags: ["sprites/king.png, 0, 0, 16, 16", "SHPD_INGAME"]
 ---
 
 Hey Dungeoneers, long time no see!

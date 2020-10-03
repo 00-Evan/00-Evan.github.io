@@ -9,7 +9,7 @@ header:
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
 #63 = Amulet of Yendor item sprite
-tag: "ITEM: 63"
+tags: ["ITEM: 63", "SHPD_INGAME"]
 ---
 
 Hey rat punchers, happy new year!

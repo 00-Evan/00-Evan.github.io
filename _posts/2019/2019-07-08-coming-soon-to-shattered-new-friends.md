@@ -9,7 +9,7 @@ header:
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
 #262 = dried rose sprite
-tag: "ITEM: 262"
+tag: ["ITEM: 262", "SHPD_INGAME"]
 ---
 
 Hey Dungeoneers, the next Shattered update is coming soon, here's what to expect!

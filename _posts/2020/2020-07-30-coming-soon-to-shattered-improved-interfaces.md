@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tag: "ICON: PREFS"
+tags: ["ICON: PREFS", "SHPD_INGAME"]
 ---
 
 Hey Dungeoneers, Shattered v0.8.2 has just gone to beta, so let me share what's coming!

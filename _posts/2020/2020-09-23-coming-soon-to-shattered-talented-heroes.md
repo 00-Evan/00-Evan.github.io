@@ -9,7 +9,7 @@ header:
 #TODO
 
 #This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tag: "ITEM: 61"
+tags: ["ITEM: 61", "SHPD_INGAME"]
 ---
 
 Hey rat punchers!
