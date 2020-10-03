@@ -103,4 +103,5 @@ defaults:
 
 feed:
   excerpt_only: true
-  tags: true
+  tags:
+    path: "/feed_by_tag/"
