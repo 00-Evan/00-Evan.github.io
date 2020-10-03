@@ -7,8 +7,8 @@ header:
   teaser: /assets/images/2019/2019-05-23/header.png
   width: 1260px
 
-#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tag: ["ICON: CHANGES", "SHPD_INGAME"]
+#These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
+tag: ["ICON: CHANGES", "SHPD_INGAME", "SHPD_ICON_v475: ICON: CHANGES"]
 ---
 Hey Dungeoneers, 0.7.3 has been released!
 

@@ -7,8 +7,8 @@ header:
   teaser: /assets/images/2020/2020-07-30/header.png
   width: 1260px
 
-#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tags: ["ICON: PREFS", "SHPD_INGAME"]
+#These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
+tags: ["ICON: PREFS", "SHPD_INGAME", "SHPD_ICON_v475: ICON: PREFS"]
 ---
 
 Hey Dungeoneers, Shattered v0.8.2 has just gone to beta, so let me share what's coming!

@@ -6,10 +6,10 @@ header:
   image: /assets/images/2020/2020-09-23/header.png
   teaser: /assets/images/2020/2020-09-23/header.png
   width: 1260px
-#TODO
 
-#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
-tags: ["ITEM: 61", "SHPD_INGAME"]
+#These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
+#61 = tome of mastery sprite
+tags: ["ITEM: 61", "SHPD_INGAME", "SHPD_ICON_v475: ICON: TALENT"]
 ---
 
 Hey rat punchers!

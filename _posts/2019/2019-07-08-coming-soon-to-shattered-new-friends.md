@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/2019/2019-07-08/header.png
   width: 1260px
 
-#This field is parsed by Shattered Pixel Dungeon to display an ingame icon in its news feed
+#These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
 #262 = dried rose sprite
-tag: ["ITEM: 262", "SHPD_INGAME"]
+tag: ["ITEM: 262", "SHPD_INGAME", "SHPD_ICON_v475: ITEM: 262"]
 ---
 
 Hey Dungeoneers, the next Shattered update is coming soon, here's what to expect!
