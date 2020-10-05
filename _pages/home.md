@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: /assets/images/2020/2020-10-03/header.png
+    title: "Shattered Pixel Dungeon v0.9.0!"
+    excerpt: "Hey Dungeoneers, v0.9.0 has been released! v0.9.0 is the first in a series of updates that will introduce and build upon a new gameplay system!"
+    url: "/blog/shattered-pixel-dungeon-v090.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2020/2020-09-23/header.png
     title: "Coming Soon: Talented Heroes!"
     excerpt: "It's finally time for me to talk about v0.9.0, which is adding a new gameplay system to Shattered Pixel Dungeon!"
     url: "/blog/coming-soon-to-shattered-talented-heroes.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/2020/2020-08-06/header.png
-    title: "Shattered Pixel Dungeon v0.8.2!"
-    excerpt: "v0.8.2 includes major interface improvements & additions, a new equipment slot for rings/artifacts, and a bunch of smaller improvements and balance tweaks!"
-    url: "/blog/shattered-pixel-dungeon-v082.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
