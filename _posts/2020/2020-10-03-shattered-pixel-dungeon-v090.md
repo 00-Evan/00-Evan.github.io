@@ -17,7 +17,7 @@ tags: ["ICON: CHANGES", "SHPD_INGAME", "SHPD_ICON_v475: ICON: CHANGES"]
 
 ## What's new in v0.9.0?
 
-v0.9.0 is the first in a series of updates that will introduce and build upon a new gameplay system! As your hero levels up you can now spend talent points to give them new or improved abilities! I detailed my design process for the new talent system in a previous blog: [Coming Soon to Shattered: Talented Heroes!](/blog/coming-soon-to-shattered-improved-interfaces.html)
+v0.9.0 is the first in a series of updates that will introduce and build upon a new gameplay system! As your hero levels up you can now spend talent points to give them new or improved abilities! I detailed my design process for the new talent system in a previous blog: [Coming Soon to Shattered: Talented Heroes!](/blog/coming-soon-to-shattered-talented-heroes.html)
 
 Here's a condensed runthrough of the major changes in v0.9.0. You can check out the changes screen in-game for a fully detailed list.
 
@@ -42,7 +42,7 @@ Here's a condensed runthrough of the major changes in v0.9.0. You can check out 
 
 The next update to Shattered Pixel Dungeon will be v0.9.1! As expected, the main content focus of v0.9.1 will be second tier talents, which will span levels 7 to 12! I’m expecting the talents available in tier two to be a bit similar to tier one but without so much emphasis on the early game, which means there’s a lot more room for them to have interesting gameplay interactions.
 
-I'm also planning to spend some of v0.9.1 working on level generation! I overhauled the game's level generation system waaay back in v0.6.0 (blogs on that [here](/blog/whats-coming-in-shattered-pixel-dungeon-v061.html), and [here](/http://localhost:4000/blog/whats-coming-in-shattered-pixel-dungeon-v061-2.html)), and haven't really touched it much since then. The system was designed to be expanded on though, so I'm going to spend some time working on new level layout types, improvements to the current layouts, and maybe a few new room types!
+I'm also planning to spend some of v0.9.1 working on level generation! I overhauled the game's level generation system waaay back in v0.6.0 (blogs on that [here](/blog/whats-coming-in-shattered-pixel-dungeon-v060.html), and [here](/blog/whats-coming-in-shattered-pixel-dungeon-v060-2.html)), and haven't really touched it much since then. The system was designed to be expanded on though, so I'm going to spend some time working on new level layout types, improvements to the current layouts, and maybe a few new room types!
 
 I also plan to keep in eye on how talents and heroes in general perform in v0.9.0, and will make adjustments as needed.
 
