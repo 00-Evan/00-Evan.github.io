@@ -48,28 +48,25 @@ I also looked into expanding the game's level feelings. 'Feelings' are a type of
 
 (you can click/tap on each picture to view a larger version)
 
-<div style="display: inline-block; margin-bottom: 1.3em;">
+<div markdown="1" style="display: inline-block; margin-bottom: 1.3em;">
 <a href="/assets/images/2020/2020-10-30/large-feeling.png" title="A large level in the sewers." class="image-popup">
     <img src="/assets/images/2020/2020-10-30/large-feeling.png" alt="" width="200px" class="align-left">
 </a>
-
-<p>The first is a <b>large level feeling</b>, which amps up the number of rooms generated and the overall contents of a level. Large levels always spawn with 1.5x their max room count, but also have more items, food, and a bonus special room to reward the extra walking time.</p>
+The first is a **large level feeling**, which amps up the number of rooms generated and the overall contents of a level. Large levels always spawn with 1.5x their max room count, but also have more items, food, and a bonus special room to reward the extra walking time.
 </div>
 
-<div style="display: inline-block; margin-bottom: 1.3em;">
+<div markdown="1" style="display: inline-block; margin-bottom: 1.3em;">
 <a href="/assets/images/2020/2020-10-30/traps-feeling.png" title="A traps level in the prison, look at all the (deadly) colors!" class="image-popup">
     <img src="/assets/images/2020/2020-10-30/traps-feeling.png" alt="" width="200px" class="align-left">
 </a>
-
-<p>Next is a <b>trap level feeling</b>, which amps up the danger along the ground of a level. A trap floor has 5x the total number of traps it would normally spawn with, but 4/5 of those traps are always visible. This leads to a more crowded floor layout with lots of chances to use traps against your enemies, rather than more opportunity to just step onto traps.</p>
+Next is a **trap level feeling**, which amps up the danger along the ground of a level. A trap floor has 5x the total number of traps it would normally spawn with, but 4/5 of those traps are always visible. This leads to a more crowded floor layout with lots of chances to use traps against your enemies, rather than more opportunity to just step onto traps.
 </div>
 
-<div style="display: inline-block;">
+<div markdown="1" style="display: inline-block;">
 <a href="/assets/images/2020/2020-10-30/secrets-feeling.png" title="A secrets level in the city, where many doors are hidden." class="image-popup">
     <img src="/assets/images/2020/2020-10-30/secrets-feeling.png" alt="" width="200px" class="align-left">
 </a>
-
-<p>Lastly, I decided to add a <b>secret focused feeling</b>. Levels with a secret feeling contain a bonus guaranteed secret room, but also have an increased number of hidden regular doors. Normal levels have a rule where there must always be an unhidden path to every non-secret room, but secret floors ditch this limit, and so might be quite tricky to navigate!</p>
+Lastly, I decided to add a **secret focused feeling**. Levels with a secret feeling contain a bonus guaranteed secret room, but also have an increased number of hidden regular doors. Normal levels have a rule where there must always be an unhidden path to every non-secret room, but secret floors ditch this limit, and so might be quite tricky to navigate!
 </div>
 
 ## Big Layout Improvements
@@ -78,28 +75,25 @@ While new rooms and feelings are great, the bulk of my dev effort has been spent
 
 (you can click/tap on each picture to view a larger version)
 
-<div style="display: inline-block; margin-bottom: 1.3em;">
+<div markdown="1" style="display: inline-block; margin-bottom: 1.3em;">
 <a href="/assets/images/2020/2020-10-30/loop-layout.png" title="An example of a more interconnec loop-based level." class="image-popup">
     <img src="/assets/images/2020/2020-10-30/loop-layout.png" alt="" width="200px" class="align-left">
 </a>
-
-<p><b>Firstly, I've made a bunch of small tweaks to the existing layout logic.</b> Mainly I've made a level's core shape a bit less prominent, and increase the chance for rooms to be placed near to each other and be connected. These tweaks make level layouts more diverse and interesting, without any changes to the level layout algorithm itself.</p>
+**Firstly, I've made a bunch of small tweaks to the existing layout logic.** Mainly I've made a level's core shape a bit less prominent, and increase the chance for rooms to be placed near to each other and be connected. These tweaks make level layouts more diverse and interesting, without any changes to the level layout algorithm itself.
 </div>
 
-<div style="display: inline-block; margin-bottom: 1.3em;">
+<div markdown="1" style="display: inline-block; margin-bottom: 1.3em;">
 <a href="/assets/images/2020/2020-10-30/merging.png" title="An example of room merges with a giant room involved." class="image-popup">
     <img src="/assets/images/2020/2020-10-30/merging.png" alt="" width="200px" class="align-left">
 </a>
-
-<p><b>I've also made some big improvements to how the algorithm handles adjacent rooms.</b> Back in the original Pixel Dungeon it was possible for connected adjacent rooms to be merged, or for there to be chasm between two adjacent rooms in the caves. Both of these are technically possible in Shattered currently, but weren't properly adapted to the new system and so happen very rarely. Merges can now happen in a bunch more cases, which can create some really interesting room layouts.</p>
+**I've also made some big improvements to how the algorithm handles adjacent rooms.** Back in the original Pixel Dungeon it was possible for connected adjacent rooms to be merged, or for there to be chasm between two adjacent rooms in the caves. Both of these are technically possible in Shattered currently, but weren't properly adapted to the new system and so happen very rarely. Merges can now happen in a bunch more cases, which can create some really interesting room layouts.
 </div>
 
-<div style="display: inline-block;">
+<div markdown="1" style="display: inline-block;">
 <a href="/assets/images/2020/2020-10-30/figure-eight.png" title="An example of a level build using a figure-eight pattern." class="image-popup">
     <img src="/assets/images/2020/2020-10-30/figure-eight.png" alt="" width="200px" class="align-left">
 </a>
-
-<p><b>Lastly, I have added a new level layout!</b> Currently all standard levels use a builder algorithm that lays out an initial loop of rooms, but in v0.9.1 I'm adding one that uses a figure-eight shape! The figure eight layout ends up looking like a denser room cluster or a line depending on how the two loops take form. I’ve designed the layout to place the largest room in the center most often, which helps take some of the game’s more distinctive large rooms and make them the centerpiece of a level.</p>
+**Lastly, I have added a new level layout!** Currently all standard levels use a builder algorithm that lays out an initial loop of rooms, but in v0.9.1 I'm adding one that uses a figure-eight shape! The figure eight layout ends up looking like a denser room cluster or a line depending on how the two loops take form. I’ve designed the layout to place the largest room in the center most often, which helps take some of the game’s more distinctive large rooms and make them the centerpiece of a level.
 </div>
 
 ## What About Talents!?
