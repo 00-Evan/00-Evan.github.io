@@ -37,7 +37,7 @@ Here's a condensed runthrough of the major changes in v0.9.1. You can check out 
 <div style="display: inline-block; margin-bottom: 1.3em; width: 100%">
 <p style="margin: 0px"><img src="/assets/images/2020/2020-12-11/changes.png" alt="" class="align-left"></p>
 <ul style="margin-top: 0px">
-	<li> The Huntress and Rogue have both has some innate powers moved to talents </li>
+	<li> The Huntress and Rogue have both had some innate powers moved to talents </li>
 	<li> Significant design changes to tier one talents </li>
 	<li> 9 misc changes </li>
 	<li> 20+ bugfixes </li>
