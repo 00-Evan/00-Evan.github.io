@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: /assets/images/2020/2020-12-11/header.png
+    title: "Shattered Pixel Dungeon v0.9.1!"
+    excerpt: "v0.9.1 introduces the second tier of the talent system and makes some major improvements to the first tier of talents!"
+    url: "/blog/shattered-pixel-dungeon-v091.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2020/2020-12-01/header.png
     title: "Coming Soon: Tier Two Talents!"
     excerpt: "After a bit longer in development than I thought, v0.9.1 and tier two talents are ready for beta testing!"
     url: "/blog/coming-soon-to-shattered-tier-two-talents.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/2020/2020-10-30/header.png
-    title: "Coming Soon: Levelgen Refinements!"
-    excerpt: "v0.9.1 is progressing nicely, so it’s time for me to share one of the two major things I’m working on for it!"
-    url: "/blog/coming-soon-to-shattered-levelgen-refinements.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png

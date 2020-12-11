@@ -3,8 +3,8 @@ title: Shattered Pixel Dungeon v0.9.0!
 excerpt: "Hey Dungeoneers, v0.9.0 has been released! v0.9.0 is the first in a series of updates that will introduce and build upon a new gameplay system! As your hero levels up you can now spend talent points to give them new or improved abilities!"
 
 header:
-  image: /assets/images/2020/2020-10-03/header.png
-  teaser: /assets/images/2020/2020-10-03/header.png
+  image: /assets/images/2020/2020-10-05/header.png
+  teaser: /assets/images/2020/2020-10-05/header.png
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon for display in its news feed
