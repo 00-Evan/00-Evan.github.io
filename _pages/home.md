@@ -7,10 +7,10 @@ header:
   width: 1260px
 
 blog_feature:
-  - image_path: /assets/images/2021/2021-02-14/header.png
-    title: "Coming Soon: Tier Three Talents!"
-    excerpt: "v0.9.2 is just about ready for primetime now, and I've for a bunch of details to share about it!"
-    url: "/blog/coming-soon-to-shattered-tier-three-talents.html"
+  - image_path: /assets/images/2021/2021-02-26/header.png
+    title: "Shattered Pixel Dungeon v0.9.2!"
+    excerpt: "v0.9.2 adds the third tier of the talent system, which interacts with hero subclasses and is the most significant tier yet!"
+    url: "/blog/shattered-pixel-dungeon-v092.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-01-11/header.png
