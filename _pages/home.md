@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/update-header.png
+    title: "Status Update: v0.9.3"
+    excerpt: "Hey Folks, I'm making a quick 'status update' blog post as I've been getting lots of questions about when v0.9.3 is releasing."
+    url: "/blog/status-update-v093.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-03-31/header.png
     title: "Coming Soon: Challenges and Abilities!"
     excerpt: "For this blog I'm going to cover all of the new content coming in v0.9.3, including an overview of how T4 talents will work."
     url: "/blog/coming-soon-to-shattered-item-changes-challenges-abilities.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/2021/2021-02-26/header.png
-    title: "Shattered Pixel Dungeon v0.9.2!"
-    excerpt: "v0.9.2 adds the third tier of the talent system, which interacts with hero subclasses and is the most significant tier yet!"
-    url: "/blog/shattered-pixel-dungeon-v092.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-01-11/header.png
