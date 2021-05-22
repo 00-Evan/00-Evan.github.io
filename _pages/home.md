@@ -7,10 +7,10 @@ header:
   width: 1260px
 
 blog_feature:
-  - image_path: assets/images/update-header.png
-    title: "Status Update: v0.9.3"
-    excerpt: "Hey Folks, I'm making a quick 'status update' blog post as I've been getting lots of questions about when v0.9.3 is releasing."
-    url: "/blog/status-update-v093.html"
+  - image_path: assets/images/2021/2021-05-21/header.png
+    title: "Coming Soon: Tier Four Talents!"
+    excerpt: "Hey Rat Punchers! For this post, I'm going into detail about the new hero abilities and tier four talents!"
+    url: "/blog/coming-soon-to-shattered-tier-four-talents.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-03-31/header.png
