@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2021/2021-06-15/header.jpg
+    title: "Saying Goodbye to Android 2.3 Gingerbread"
+    excerpt: "v0.9.3 will be the last version of Shattered Pixel Dungeon to support Android 2.3 and 3. I wanted to write a post explaining why."
+    url: "/blog/saying-goodbye-to-android-2.3-gingerbread.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-06-07/header.png
     title: "Shattered Pixel Dungeon v0.9.3!"
     excerpt: "v0.9.3 redesigns hero armor abilities and adds a fourth tier to the talent system! There are 13 abilities and 40 new talents in total."
     url: "/blog/shattered-pixel-dungeon-v093.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2021/2021-05-21/header.png
-    title: "Coming Soon: Tier Four Talents!"
-    excerpt: "Hey Rat Punchers! For this post, I'm going into detail about the new hero abilities and tier four talents!"
-    url: "/blog/coming-soon-to-shattered-tier-four-talents.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-01-11/header.png
