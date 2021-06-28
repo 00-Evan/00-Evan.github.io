@@ -2,10 +2,10 @@
 title: Privacy Policy - Shattered Pixel Dungeon
 layout: single
 permalink: /privacy/shatteredpd
-author_profile: true
+author_profile: false
 classes: wide
 ---
-*Effective: June 20th, 2021*
+*Effective: June 28th, 2021*
 
 ## Summary
 
@@ -31,7 +31,7 @@ This policy does not apply to any data collected by Google LLC via Google Play o
 
 <u><b>Shattered Pixel Dungeon does not collect any personally identifiable information.</b></u> ShatteredPD uses Firebase to collect a variety of data relating to gameplay activity, but no data which could be used to identify individual players. Firebase does include functionality to collect tracking IDs and similar personally identifiable data, but this functionality is unused or disabled in ShatteredPD.
 
-You may <u><b>opt-out</b></u> of data collection via Firebase at any time by disabling "share gameplay data" in ShatteredPD's settings menu. Opting out disables all data collection described below.
+You may <u><b>opt-out</b></u> of data collection via Firebase at any time by disabling "share gameplay data" in ShatteredPD's settings menu. Opting out disables all the data collection described below.
 
 Shattered Pixel Dungeon includes the Firebase SDK in its code, which collects and reports information whenever an 'event' occurs. Events are points within user interaction or gameplay that are of interest to Shattered Pixel. Shattered Pixel receives data from the following events:
 - A game session starts, continues, or ends.
@@ -51,20 +51,21 @@ When an event is triggered, the following data may be recorded and transmitted v
 | **Game Settings**<br>Selected options from the game's settings menu. | This data is used to determine how often players choose various game settings options. For example, I can plan future additions or changes to the settings menu based on the popularity of existing settings. |
 | **Application Info**<br>Game version, platform, and installation source. | This data is used to determine which version of ShatteredPD an event comes from, and where the game was acquired. For example, this data is used to detect if an event is from an old version of ShatteredPD and is therefore no longer relevant. |
 | **Device Info**<br>Device model, OS version, language, and timezone. | This data is used to produce statistical information about what devices play ShatteredPD, and to contextualize certain events. For example a particular crash may only occur on one type of device, or one OS version. |
-| **Course Geolocation**<br>IP-based location data, down to user's city. | This data is used to produce statistical information about the location of ShatteredPD's playerbase. For example, I can track the games popularity over different regions, countries, or cities. |
-| **Instance ID**<br>A unique ID randomly generated when the game is first played. | This data is used to connect events that come from the same instance of ShatteredPD. For example, the instance ID can be used to tell the difference between 1 instance of the game crashing 10 times, or 10 crashes from 10 different instances.<br><br><u>This is not a tracking ID!</u> It can only be used to group events together, not to tell what specific user or device they come from. |
+| **Coarse Geolocation**<br>Location data based on anonymized IP address. | This data is used to produce statistical information about the general location of ShatteredPD's playerbase. For example, I can track the game's popularity in one country versus another.<br><br>IP address information is anonymized before it is transmitted. |
+| **Instance ID**<br>A unique ID randomly generated when the game is first played. | This data is used to connect events that come from the same instance of ShatteredPD. For example, the instance ID can be used to tell the difference between 1 instance of the game crashing 10 times, or 10 crashes from 10 different instances.<br><br><u>This is not a tracking ID!</u> It can only be used to group events together, not to tell what specific user or device they came from. |
 
-I do not share any of this data with any third parties. However, I do occasionally share aggregated data with the public if it relates to an announcement or blog post. An example of this sort of data sharing is [this figure](/assets/images/2017/2017-09-14/survival-rates.png), which was shared in [this blog post](/blog/coming-soon-to-shattered-the-rogue-rework.html), to illustrate that the rogue was significantly weaker than other characters in the early stages of the game.
+I do not share this data with any third parties. However, I do occasionally share aggregated data with the public if it relates to an announcement or blog post. An example of this sort of data sharing is [this figure](/assets/images/2017/2017-09-14/survival-rates.png), which was shared in [this blog post](/blog/coming-soon-to-shattered-the-rogue-rework.html), to illustrate that the Rogue was significantly weaker than other characters in the early stages of the game.
 
 ## Changes to this Privacy Policy
 
 This policy may change occasionally and any updates will be posted here. If there is ever any change to collected personally identifiable information, notice of that change will be provided to users of Shattered Pixel Dungeon via a message within the game.
 
+- *Jun 28th, 2021: Improved clarity relating to geolocation data*
 - *Jun 20th, 2021:*
 	- *Rewrote the policy to more concisely focus on the data ShatteredPD collects and why.*
 	- *Removed excessive information about Google Play and Google Play Games.*
 	- *Added information about the App Store, as ShatteredPD will release there soon.*
-- *Jan 21st, 2020: removed references to Google Analytics for Android, as that functionality has now been disabled.*
-- *Apr 11th, 2019: updated Google Analytics section, as the game now uses Firebase. No significant change to what data is collected. Also improved wording.*
-- *Feb 19th, 2019: improved wording in a few places*
-- *Feb 12th 2019: original policy posted*
+- *Jan 21st, 2020: Removed references to Google Analytics for Android, as that functionality has now been disabled.*
+- *Apr 11th, 2019: Updated Google Analytics section, as the game now uses Firebase. No significant change to what data is collected. Also improved wording.*
+- *Feb 19th, 2019: Improved wording in a few places*
+- *Feb 12th 2019: Original policy posted*
