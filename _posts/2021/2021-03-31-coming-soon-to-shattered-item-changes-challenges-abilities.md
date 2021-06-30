@@ -8,9 +8,8 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-#61 = tome of mastery sprite prior to v0.9.3
-#62 = tome of mastery sprite after v0.9.3
-tags: ["SHPD_INGAME", "SHPD_ICON_v475: ITEM: 61", "SHPD_ICON_v533: ITEM: 62"]
+#61/#59 = tome of mastery sprite in v0.9.0/ tengu's mask sprite in v0.9.3
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 61", "SHPD_ICON_v533: ITEM: 59"]
 ---
 
 Hey Dungeoneers, v0.9.3 is well into development, so it's about time for me to share some of what's coming!

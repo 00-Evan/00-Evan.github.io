@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon for display in its news feed
-tags: ["ICON: CHANGES", "SHPD_INGAME", "SHPD_ICON_v475: ICON: CHANGES"]
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
 ![](/assets/images/SHPD-icon.png){: .align-left} Hey Dungeoneers, v0.9.1 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! It should roll out to users on [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) soon as well.

@@ -6,9 +6,6 @@ header:
   image: /assets/images/2019/2019-11-30/header.png
   teaser: /assets/images/2019/2019-11-30/header.png
   width: 1260px
-
-#These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-tags: ["sprites/ripper.png, 15, 0, 15, 14", "SHPD_INGAME", "SHPD_ICON_v475: sprites/ripper.png, 15, 0, 15, 14"]
 ---
 
 Hey Dungeoneers, the next Shattered update, v0.8.0, is currently well into development, here's some of what's coming!

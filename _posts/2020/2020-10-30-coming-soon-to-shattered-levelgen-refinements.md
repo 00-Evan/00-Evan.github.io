@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon for display in its news feed
-tags: ["ICON: DEPTH", "SHPD_INGAME", "SHPD_ICON_v475: ICON: DEPTH"]
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: DEPTH"]
 ---
 
 Hey Dungeoneers, v0.9.1 is progressing nicely, so it's time for me to share one of the two major things I'm working on for it! In addition to new talents (more on that soon), v0.9.1 will feature some big improvements to the game's level generation algorithm!

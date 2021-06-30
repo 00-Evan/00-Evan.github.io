@@ -8,8 +8,8 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-#244 = hourglass sprite
-tags: ["ITEM: 244", "SHPD_INGAME", "SHPD_ICON_v475: ITEM: 244"]
+#244 = hourglass sprite in v0.9.0
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 244"]
 ---
 
 Hey Folks, I'm making a quick 'status update' blog post as I've been getting lots of questions about when v0.9.3 is releasing.

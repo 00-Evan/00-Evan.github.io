@@ -8,8 +8,7 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-#61 = tome of mastery sprite
-tags: ["ITEM: 61", "SHPD_INGAME", "SHPD_ICON_v475: ICON: TALENT"]
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: TALENT"]
 ---
 
 Hey Dungeoneers,

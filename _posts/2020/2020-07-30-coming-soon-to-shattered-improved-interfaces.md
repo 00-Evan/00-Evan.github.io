@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-tags: ["ICON: PREFS", "SHPD_INGAME", "SHPD_ICON_v475: ICON: PREFS"]
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: PREFS"]
 ---
 
 Hey Dungeoneers, Shattered v0.8.2 has just gone to beta, so let me share what's coming!

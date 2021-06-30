@@ -8,8 +8,8 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-#63 = Amulet of Yendor item sprite
-tags: ["ITEM: 63", "SHPD_INGAME", "SHPD_ICON_v475: ITEM: 63"]
+#63/#61 = Amulet of Yendor item sprite in v0.9.0/v0.9.3
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 63", "SHPD_ICON_v533: ITEM: 61"]
 ---
 
 Hey rat punchers, happy new year!
