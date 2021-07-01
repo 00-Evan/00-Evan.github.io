@@ -54,7 +54,7 @@ We're also a bit more than halfway into 2021 now, so let's do a little update on
 
 <div markdown="1" style="display: inline-block; width: 100%">
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/apple.png){: .align-left}
-Firstly, there's **v0.9.4**, which I already talked about at the end of the [0.9.3 release post](http://localhost:4000/blog/shattered-pixel-dungeon-v093.html#whats-coming-next). To quickly recap, v0.9.4 will be the first version to release on iOS, will feature remastered music, will include targeted balance changes and alchemy additions, and targeted improvements to the new player experience.
+Firstly, there's **v0.9.4**, which I already talked about at the end of the [0.9.3 release post](/blog/shattered-pixel-dungeon-v093.html#whats-coming-next). To quickly recap, v0.9.4 will be the first version to release on iOS, will feature remastered music, will include targeted balance changes and alchemy additions, and targeted improvements to the new player experience.
 </div>
 
 After v0.9.4 things are a bit less locked in, but here are the four changes to game content that I am most likely to get to work on after v0.9.4:
