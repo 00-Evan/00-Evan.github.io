@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2021/2021-08-09/header.png
+    title: "Coming Soon: Music, Metal, & More!"
+    excerpt: "v0.9.4 contains a bunch of smaller content additions and changes, but some of them are still pretty significant."
+    url: "/blog/coming-soon-to-shattered-music-metal-&-more.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2021/2021-07-01/header.png
     title: "Shattered Pixel Dungeon is coming to iOS!"
     excerpt: "After being requested since 2015, partly in the works since 2019, and becoming a major focus in 2021, **Shattered Pixel Dungeon is finally coming to iOS!**"
     url: "/blog/shattered-pixel-dungeon-is-coming-to-ios.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2021/2021-06-15/header.jpg
-    title: "Saying Goodbye to Android 2.3 Gingerbread"
-    excerpt: "v0.9.3 will be the last version of Shattered Pixel Dungeon to support Android 2.3 and 3. I wanted to write a post explaining why."
-    url: "/blog/saying-goodbye-to-android-2.3-gingerbread.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-01-11/header.png
