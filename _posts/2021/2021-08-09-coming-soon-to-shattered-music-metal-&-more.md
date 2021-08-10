@@ -1,5 +1,5 @@
 ---
-title: "Coming Soon to Shattered: Music, Metal, & More!"
+title: "Coming Soon to Shattered: Music, Metal, and More!"
 excerpt: "v0.9.4 contains a bunch of smaller content additions and changes, but some of them are still pretty significant. There's remastered music, some new alchemy recipies, an improved tutorial, and a bunch of smaller tweaks and addition!"
 
 header:
@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: MUSIC"]
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: AUDIO"]
 ---
 
 Hey Dungeoneers, apologies for the slight delay, but v0.9.4 is now ready for beta!

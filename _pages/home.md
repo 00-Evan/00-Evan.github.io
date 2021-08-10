@@ -8,7 +8,7 @@ header:
 
 blog_feature:
   - image_path: assets/images/2021/2021-08-09/header.png
-    title: "Coming Soon: Music, Metal, & More!"
+    title: "Coming Soon: Music, Metal, and More!"
     excerpt: "v0.9.4 contains a bunch of smaller content additions and changes, but some of them are still pretty significant."
     url: "/blog/coming-soon-to-shattered-music-metal-&-more.html"
     btn_label: "Read More"
