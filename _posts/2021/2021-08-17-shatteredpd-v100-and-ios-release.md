@@ -37,7 +37,7 @@ v1.0.0 contains a variety of content additions and refinements. There is new mus
 
 I talked about this update in three previous blog posts:<br>
 (Keep in mind that in these posts I call this update v0.9.4)
-- [Coming Soon to Shattered: Music, Metal, and More!](blog/coming-soon-to-shattered-music-metal-&-more.html)
+- [Coming Soon to Shattered: Music, Metal, and More!](/blog/coming-soon-to-shattered-music-metal-&-more.html)
 - [Shattered Pixel Dungeon is coming to iOS!](/blog/shattered-pixel-dungeon-is-coming-to-ios.html)
 - [Saying Goodbye to Android 2.3 Gingerbread](/blog/saying-goodbye-to-android-2.3-gingerbread.html)
 
