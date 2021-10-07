@@ -11,7 +11,7 @@ header:
 tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
-![](/assets/images/SHPD-icon-2021.png){: .align-left} Hey Dungeoneers, v0.9.3 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! It should roll out to users on [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) soon as well.
+![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} Hey Dungeoneers, v0.9.3 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! It should roll out to users on [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) soon as well.
 
 [You can discuss this update on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/nuhzfq/)
 

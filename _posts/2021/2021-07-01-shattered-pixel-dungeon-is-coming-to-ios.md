@@ -15,7 +15,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 63", "SHPD_ICON_v533: ITEM: 61"]
 That's right, after being requested since 2015, partly in the works since 2019, and becoming a major focus in 2021, **Shattered Pixel Dungeon is finally coming to iOS!**
 
 <div markdown="1" style="display: inline-block; margin-bottom: 1.3em; width: 100%">
-[![](/assets/images/SHPD-icon-2021.png){: .align-left}](https://testflight.apple.com/join/4PWFyask) In fact, [**I am running a public beta for the game on iOS right now!**](https://testflight.apple.com/join/4PWFyask) The beta uses Apple's TestFlight service and is freely available for anyone with an Apple account and device running iOS 9 or later. Feel free to share the link with your friends as well, there is no limit to the number of participants!
+[![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded}](https://testflight.apple.com/join/4PWFyask) In fact, [**I am running a public beta for the game on iOS right now!**](https://testflight.apple.com/join/4PWFyask) The beta uses Apple's TestFlight service and is freely available for anyone with an Apple account and device running iOS 9 or later. Feel free to share the link with your friends as well, there is no limit to the number of participants!
 </div>
 
 I plan for the public iOS beta to last for a little more than a month while I develop v0.9.4. This should give plenty of time to squash any bugs that pop up, though the game is already very stable in its current state. Look forward to another blog post around the end of this month about v0.9.4, and [follow me on Twitter](https://twitter.com/ShatteredPixel) if you'd like faster updates.

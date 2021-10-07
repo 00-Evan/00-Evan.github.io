@@ -85,6 +85,6 @@ Finally, I've done a balancing pass on the new talents and abilities added in v0
 
 ---
 
-[![](/assets/images/SHPD-icon-2021.png){: .align-left}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v0.9.4 is live right now on [Google Play](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon) and [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/), and it should release on [iOS TestFlight](https://testflight.apple.com/join/4PWFyask) very soon. I expect to fully release v0.9.4 on **Tuesday August 17th**. A pre-order page should appear for Shattered the iOS App Store soon, follow me on [Twitter](https://twitter.com/ShatteredPixel) if you'd like to know when that pops up.
+[![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v0.9.4 is live right now on [Google Play](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon) and [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/), and it should release on [iOS TestFlight](https://testflight.apple.com/join/4PWFyask) very soon. I expect to fully release v0.9.4 on **Tuesday August 17th**. A pre-order page should appear for Shattered the iOS App Store soon, follow me on [Twitter](https://twitter.com/ShatteredPixel) if you'd like to know when that pops up.
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/p1d1rc/)

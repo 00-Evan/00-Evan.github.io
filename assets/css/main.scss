@@ -75,5 +75,22 @@ table {
   display: table;
 }
 
+//optional CSS class for rounded images
+.rounded {
+  border-radius: 20%;
+}
+
+//use static rounding of 30px for larger images
+.rounded-large {
+  border-radius: 30px;
+}
+
+//css class for small images in-line with text
+.text-inline {
+  height: 1.2em;
+  position: relative;
+  top: -0.15em;
+}
+
 //TODO it seems like the theme does a few odd things at exactly 64 em
 //because of max-width: 64em statements. Perhaps investigate and pull request

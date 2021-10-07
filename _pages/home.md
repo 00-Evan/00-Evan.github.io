@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2021/2021-10-07/header.png
+    title: "Coming Soon: Better Alchemical Energy!"
+    excerpt: "v1.1.0 is focused on making improvements to the alchemy system and the various recipes it has."
+    url: "/blog/coming-soon-to-shattered-better-alchemical-energy.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2021/2021-08-17/header.png
     title: "ShatteredPD v1.0.0 and iOS release!"
     excerpt: "v1.0.0 contains a variety of content additions and refinements. There is new music, support for new platforms, new alchemy recipes, and a few other odds and ends."
     url: "/blog/shatteredpd-v100-and-ios-release.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2021/2021-08-09/header.png
-    title: "Coming Soon: Music, Metal, and More!"
-    excerpt: "v0.9.4 contains a bunch of smaller content additions and changes, but some of them are still pretty significant."
-    url: "/blog/coming-soon-to-shattered-music-metal-&-more.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2021/2021-01-11/header.png
