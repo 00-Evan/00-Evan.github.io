@@ -9,7 +9,7 @@ header:
 blog_feature:
   - image_path: assets/images/2021/2021-10-15/header.png
     title: "Shattered Pixel Dungeon is Coming to Steam!"
-    excerpt: "Hey Dungeoneers, I've got some more exciting news, Shattered Pixel Dungeon is Coming to Steam in early 2022!"
+    excerpt: "Hey Dungeoneers, I've got some more exciting news, Shattered Pixel Dungeon is coming to Steam in early 2022!"
     url: "/blog/shattered-pixel-dungeon-is-coming-to-steam.html"
     btn_label: "Read More"
     btn_class: "btn--primary"

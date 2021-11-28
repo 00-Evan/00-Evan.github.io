@@ -9,6 +9,9 @@ header:
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
 tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: AUDIO"]
+
+#this page used to have an & in its name, but this caused issues with RSS
+redirect_from: "/blog/coming-soon-to-shattered-music-metal-&-more"
 ---
 
 Hey Dungeoneers, apologies for the slight delay, but v0.9.4 is now ready for beta!

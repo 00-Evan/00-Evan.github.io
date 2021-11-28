@@ -42,12 +42,13 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 include:
   - _pages

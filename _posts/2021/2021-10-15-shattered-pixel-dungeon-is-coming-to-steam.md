@@ -21,7 +21,7 @@ Hey Dungeoneers, I've got some more exciting news, **Shattered Pixel Dungeon is 
 <div markdown="1" style="display: inline-block; width: 100%">
 <p style="margin: 0px"><a href="https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/"><img src="/assets/images/2021/2021-10-15/steam-small.png" alt="" class="align-right rounded-large"></a></p>
 
-While the game won't release for another few months, it already had a [page on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)! If you have any interest in the Steam version of the game at all, please considering adding it to your Steam wishlist. Just like on the App Store, the game will be paid on Steam, costing $10 US when it goes up for sale.
+While the game won't release for another few months, it already has a [page on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)! If you have any interest in the Steam version of the game at all, please considering adding it to your Steam wishlist. The game will be paid on Steam just like on the App Store, costing $10 US when it releases.
 
 Just like with iOS, I want to give PC users a first-class experience. This requires some more direct changes than iOS though, as user-interaction is fundamentally different on PCs. I want the game to play just as well on big desktop screens as it does on tiny phone ones, and that means I can't just scale up the game's current mobile UI. Because of this, I have a bunch of plans for improvements to make before release. I hope to get most of all of them done in time for a release in early 2022.
 </div>
