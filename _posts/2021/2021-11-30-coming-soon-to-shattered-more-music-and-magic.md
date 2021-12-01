@@ -33,7 +33,7 @@ As before, these tracks were composed by [Kristjan Thomas Haaristo](https://www.
 ## Energy and the Toolkit
 
 <div markdown="1" style="display: inline-block;">
-![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/alchemy-ui.png){: .align-right .rounded-large} I talked quite a bit about energy in the [previous blog](TODO), so I've got more of a quick update here. As mentioned in that blog, energy is becoming a more important part of the alchemy system that the player generates by scrapping consumable items.
+![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/alchemy-ui.png){: .align-right .rounded-large} I talked quite a bit about energy in the [previous blog](/blog/coming-soon-to-shattered-better-alchemical-energy.html), so I've got more of a quick update here. As mentioned in that blog, energy is becoming a more important part of the alchemy system that the player generates by scrapping consumable items.
 
 I've done more iterations on how this changes the **alchemy interface**, and have decided to keep things more similar to the way they are currently. Based on feedback from the last blog I also decided to have a dedicated 'add energy' button at the bottom, instead of having energy creation be another recipe.
 </div>
