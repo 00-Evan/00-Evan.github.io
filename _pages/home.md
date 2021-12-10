@@ -7,10 +7,10 @@ header:
   width: 1260px
 
 blog_feature:
-  - image_path: assets/images/2021/2021-11-30/header.png
-    title: "Coming Soon: More Music and Magic!"
-    excerpt: "Now that v1.1.0 is content complete, I'm going to share some more details about the game content changes coming in it."
-    url: "/blog/coming-soon-to-shattered-more-music-and-magic.html"
+  - image_path: assets/images/2021/2021-12-10/header.png
+    title: "Shattered Pixel Dungeon v1.1.0!"
+    excerpt: "v1.1.0 contains various improvements to the alchemy system and the items it produces, and a music track for each region of the game!"
+    url: "/blog/shattered-pixel-dungeon-v110.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2021/2021-10-15/header.png
