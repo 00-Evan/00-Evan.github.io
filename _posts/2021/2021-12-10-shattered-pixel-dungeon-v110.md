@@ -22,14 +22,14 @@ v1.1.0 contains various improvements to the alchemy system and the items it prod
 
 I talked about this update in two previous blog posts:<br>
 - [Coming Soon to Shattered: More Music and Magic! ](/blog/coming-soon-to-shattered-more-music-and-magic.html)
-- [Coming Soon to Shattered: Better Alchemical Energy!](http://localhost:4000/blog/coming-soon-to-shattered-better-alchemical-energy.html)
+- [Coming Soon to Shattered: Better Alchemical Energy!](/blog/coming-soon-to-shattered-better-alchemical-energy.html)
 
 Here's a condensed runthrough of the major changes this update. You can check out the changes screen in-game for a fully detailed list.
 
 <div style="display: inline-block; margin-bottom: 1.3em; width: 100%">
 <p style="margin: 0px"><img src="/assets/images/2021/2021-12-10/new.png" alt="" class="align-left"></p>
 <ul style="margin-top: 0px">
-  <li>v1.1.0 is releasing 115 days after v1.1.0, which released on August 17th 2021</li>
+  <li>v1.1.0 is releasing 115 days after v1.0.0, which released on August 17th 2021</li>
   <li>Alchemical energy has been completely overhauled</li>
   <li>Two new spells, and alchemize has been totally redesigned</li>
   <li>The game now has music for each region!</li>
