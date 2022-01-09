@@ -75,14 +75,14 @@ table {
   display: table;
 }
 
-//optional CSS class for rounded images
+//optional CSS class for rounded images, usually square icons
 .rounded {
   border-radius: 20%;
 }
 
-//use static rounding of 30px for larger images
+//use static rounding of 20px for larger images
 .rounded-large {
-  border-radius: 30px;
+  border-radius: 20px;
 }
 
 //css class for small images in-line with text
