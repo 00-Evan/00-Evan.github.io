@@ -37,7 +37,7 @@ The demo will feature all game content until the end of floor 10. Descending aft
 
 The demo will be available a bit before Next Fest on **February 9th at noon EST**, and will stay up until the game fully releases on Steam. It's worth noting that I would have preferred to make the game free for everyone on Steam for a limited time (like with the iOS release), but having a demo is required for participation in Next Fest.
 
-In addition to the existing game content, the demo will also provide a first look at several of the Desktop enchantments I have planned!
+In addition to the existing game content, the demo will also provide a first look at several of the Desktop enhancements I have planned!
 
 ## Desktop Enhancement Progress
 
@@ -79,7 +79,7 @@ I would like to work on some steamworks integration (cloud sync, achievements, e
 Once I wrap up all the changes I want to do for Next Fest I'm going to start working on the actual game content additions I have planned for v1.2.0. As a quick reminder, v1.2.0 is going to include a variety of smaller content changes and additions:
 * Balance adjustments to alchemy recipies following the changes in v1.1.0
 * A redesign to the Master Thieves' Armband to make it useful outside of shops
-* Various levelgen improvements, mostly focused around special rools
+* Various levelgen improvements, mostly focused around special rooms
 * New music for Yog-Dzewa, and probably music for each other boss as well
 * Various smaller tweaks, fixes, and improvements as usual
 
