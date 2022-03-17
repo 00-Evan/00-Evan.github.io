@@ -7,6 +7,12 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2022/2022-03-17/header.png
+    title: "Coming Soon: New Content and Steam! "
+    excerpt: "Hey Dungeoneers! Sorry for the wait, but v1.2.0 will be fully launching on all platforms on Wednesday March 23rd at Noon EDT!"
+    url: "/blog/coming-soon-to-shattered-new-content-and-steam.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2022/2022-02-02/header.png
     title: "ShatteredPD will be at Steam Next Fest!"
     excerpt: "Shattered Pixel Dungeon will be participating in Steam Next Fest, running from Feburary 21st to 28th!"
@@ -17,12 +23,6 @@ blog_feature:
     title: "Shattered Pixel Dungeon in 2022"
     excerpt: "Just as with previous years, I'm writing a blog post at the start of 2022 to summarize my longer-term plans for Shattered Pixel Dungeon!"
     url: "/blog/shattered-pixel-dungeon-in-2022.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2021/2021-12-10/header.png
-    title: "Shattered Pixel Dungeon v1.1.0!"
-    excerpt: "v1.1.0 contains various improvements to the alchemy system and the items it produces, and a music track for each region of the game!"
-    url: "/blog/shattered-pixel-dungeon-v110.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 shattered_feature:
