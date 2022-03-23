@@ -1,6 +1,6 @@
 ---
 title: "ShatteredPD v1.2.0 and Steam Release!"
-excerpt: "v1.2.0 is the first version of Shattered built for computers! After almost eight years of development, [Shattered Pixel Dungeon is available for purchase on Steam! v1.2.0 has a bunch of improvements for users on larger screens and who play with controllers or mouse and keyboard! There are also several content changes, including new special rooms, a rework to the Master Thieves' Armband, and various improvements to spell items."
+excerpt: "v1.2.0 is the first version of Shattered built for computers! After almost eight years of development, Shattered Pixel Dungeon is available for purchase on Steam! v1.2.0 has a bunch of improvements for users on larger screens and who play with controllers or mouse and keyboard! There are also several content changes, including new special rooms, a rework to the Master Thieves' Armband, and various improvements to spell items."
 
 header:
   image: /assets/images/2022/2022-03-23/header.png
@@ -16,9 +16,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 63", "SHPD_ICON_v533: ITEM: 61"]
 ![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} Hey Dungeoneers, v1.2.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! That's right, after almost eight years of development, [Shattered Pixel Dungeon is available for purchase on Steam!](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
 </div>
 
-(Note that the Google Play and App Store versions are currently under review, they will release very shortly once that completes.)
-
-You can also discuss this update on the [Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/tkxepu/), or on the [Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3185740658290111701)
+You can also discuss this update on the [Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/tkxepu/), or on the [Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3185740658290111701).
 
 ## Steam Release!
 
@@ -93,7 +91,7 @@ The most significant addition in v1.3.0 will be support for custom seeded runs, 
 
 <div style="display: inline-block; margin-bottom: 1.3em; width: 100%">
 <p style="margin: 0px"><img src="/assets/images/2022/2022-03-23/desktop-improvements.png" alt="" class="align-left"></p>
-I also plan to make more improvements to the game's UI/UX with an emphasis on Steam users. This won't be the core focus like it was in v1.3.0, but expect more interface improvements, tweaks based on feedback, and possibly some additions to help controller users better play with their more limited button count.
+I also plan to make more improvements to the game's UI/UX with an emphasis on Steam users. This won't be the core focus like it was in v1.2.0, but expect more interface improvements, tweaks based on feedback, and possibly some additions to help controller users better play with their more limited button count.
 </div>
 
 <div style="display: inline-block; margin-bottom: 1.3em; width: 100%">

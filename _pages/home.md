@@ -9,7 +9,7 @@ header:
 blog_feature:
   - image_path: assets/images/2022/2022-03-23/header.png
     title: "ShatteredPD v1.2.0 and Steam Release! "
-    excerpt: "v1.2.0 is the first version of Shattered built for computers! After almost eight years of development, [Shattered Pixel Dungeon is available for purchase on Steam!"
+    excerpt: "v1.2.0 is the first version of Shattered built for computers! After almost eight years of development, Shattered Pixel Dungeon is available for purchase on Steam!"
     url: "/blog/shatteredpd-v120-and-steam-release.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
