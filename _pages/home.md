@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2022/2022-03-23/header.png
+    title: "ShatteredPD v1.2.0 and Steam Release! "
+    excerpt: "v1.2.0 is the first version of Shattered built for computers! After almost eight years of development, [Shattered Pixel Dungeon is available for purchase on Steam!"
+    url: "/blog/shatteredpd-v120-and-steam-release.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2022/2022-03-17/header.png
     title: "Coming Soon: New Content and Steam! "
     excerpt: "Hey Dungeoneers! Sorry for the wait, but v1.2.0 will be fully launching on all platforms on Wednesday March 23rd at Noon EDT!"
     url: "/blog/coming-soon-to-shattered-new-content-and-steam.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2022/2022-02-02/header.png
-    title: "ShatteredPD will be at Steam Next Fest!"
-    excerpt: "Shattered Pixel Dungeon will be participating in Steam Next Fest, running from Feburary 21st to 28th!"
-    url: "/blog/shatteredpd-will-be-at-steam-next-fest.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2022/2022-01-09/header.png
