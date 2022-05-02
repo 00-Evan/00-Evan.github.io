@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2022/2022-05-02/header.png
+    title: "Coming Soon: Seeded Runs!"
+    excerpt: "I've got some news to Share about v1.3's development! I've implement support for custom seeds, a new scoring system, and a few other miscellaneous changes."
+    url: "/blog/coming-soon-to-shattered-seeded-runs.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2022/2022-04-05/header.png
     title: "Shattered's Soundtrack is now available!"
     excerpt: "Shattered's music has grown to having an entire soundtrack with 20 minutes of combined audio! Now that Shattered has a proper soundtrack, it needs a proper release!"
     url: "/blog/shattereds-soundtrack-is-now-available.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2022/2022-03-23/header.png
-    title: "ShatteredPD v1.2.0 and Steam Release!"
-    excerpt: "v1.2.0 is the first version of Shattered built for computers! After almost eight years of development, Shattered Pixel Dungeon is available for purchase on Steam!"
-    url: "/blog/shatteredpd-v120-and-steam-release.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2022/2022-01-09/header.png
