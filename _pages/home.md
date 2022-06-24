@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2022/2022-06-24/header.png
+    title: "Coming Soon: Badges and Ascension!"
+    excerpt: "In this post I’m going to detail some more of the new content coming to Shattered, with an emphasis on the challenging content additions coming in in v1.3.0!"
+    url: "/blog/coming-soon-to-shattered-badges-and-ascension.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2022/2022-05-02/header.png
     title: "Coming Soon: Seeded Runs!"
     excerpt: "I've got some news to Share about v1.3's development! I've implement support for custom seeds, a new scoring system, and a few other miscellaneous changes."
     url: "/blog/coming-soon-to-shattered-seeded-runs.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2022/2022-04-05/header.png
-    title: "Shattered's Soundtrack is now available!"
-    excerpt: "Shattered's music has grown to having an entire soundtrack with 20 minutes of combined audio! Now that Shattered has a proper soundtrack, it needs a proper release!"
-    url: "/blog/shattereds-soundtrack-is-now-available.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2022/2022-01-09/header.png
