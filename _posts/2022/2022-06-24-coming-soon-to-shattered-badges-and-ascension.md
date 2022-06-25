@@ -21,7 +21,7 @@ In this post I'm going to detail some more of the new content coming to Shattere
 
 ## New Badges and High Scores
 
-Firstly, v1.3.0 includes 15 new or totally reworked badges! A few are fairly straightforward, but several of them are focused on giving experneced players something to sink their teeth into!
+Firstly, v1.3.0 includes 15 new or totally reworked badges! A few are fairly straightforward, but several of them are focused on giving experienced players something to sink their teeth into!
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/new-badges.png){: .align-center}
 

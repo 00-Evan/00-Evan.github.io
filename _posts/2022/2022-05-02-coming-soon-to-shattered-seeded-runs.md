@@ -14,7 +14,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 371"]
 
 Greeting Dungeoneers!
 
-I've got some news to share about v1.3's development! I've implement support for custom seeds, a new scoring system, and a few other miscellaneous changes. However, development on v1.3 has been going slower than planned, so I don't have a beta or release date to share yet.
+I've got some news to share about v1.3's development! I've implemented support for custom seeds, a new scoring system, and a few other miscellaneous changes. However, development on v1.3 has been going slower than planned, so I don't have a beta or release date to share yet.
 
 Also in non-development news, Shattered is part of Steam's "Going Rogue" sale that runs this week! The game is 15% off on Steam during the sale, and I've taken the opportunity to [spruce up the game's store listing as well.](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
 
