@@ -29,7 +29,7 @@ Here's a condensed runthrough of the major changes this update. You can check ou
 <div style="display: inline-block; margin-bottom: 1.3em; width: 100%">
 <p style="margin: 0px"><img src="/assets/images/2022/2022-07-06/new.png" alt="" class="align-left"></p>
 <ul style="margin-top: 0px">
-  <li>v1.3.0 is releasing 105 days after v1.2.0, which released on Mar 23rd, 2021</li>
+  <li>v1.3.0 is releasing 105 days after v1.2.0, which released on Mar 23rd, 2022</li>
   <li>Support for user-enterable custom seeds</li>
   <li>Offline daily runs with local score history</li>
   <li>An overhauled scoring system to go along with seeds and dailies</li>
