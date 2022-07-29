@@ -12,7 +12,7 @@ I started Shattered Pixel Dungeon in late 2014, a few days after [Pixel Dungeon]
 
 What was originally supposed to be a project that lasted a few months ended up ballooning into a multi-year project because of the community's overwhelmingly positive reaction. Shattered started as a rebalance mod and has grown into its own game, which shares a base and some assets with Pixel Dungeon. If you're interested in Shattered's history, there's a mostly complete history available on the [Blog](/blog/).
 
-I'm currently working on pushing Shattered towards being a completed game, my latest blog on that topic is [Here](/blog/shattered-pixel-dungeon-in-2021.html).
+After releasing Shattered on two new platforms over mid 2021 to mid 2022, I'm now focusing on some big content expansions! My latest blog with my longer term plans is [Here](/blog/shattered-pixel-dungeon-in-2022.html).
 
 ## History
 

@@ -4,40 +4,46 @@ layout: splash
 permalink: /shatteredpd/
 
 header:
-  image: /assets/images/SHPD-header.png
-  width: 1260px
+  image: /assets/images/SHPD-Desc/title.gif
+  width: 1232px
 
 ---
 
 <div markdown="1" class="align-center" style="display: table">
-[![](/assets/images/gplay-badge.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) [![](/assets/images/appstore-badge.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109) [![](/assets/images/github-badge.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
+[![](/assets/images/gplay-badge.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
+[![](/assets/images/appstore-badge.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109)
+[![](/assets/images/steam-badge.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
+[![](/assets/images/github-badge.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
 </div>
 
-<b>Shattered Pixel Dungeon</b> is a Roguelike Dungeon Crawler RPG with pixel art graphics. Every game is a unique challenge, with four different playable characters, randomized levels and enemies, and hundreds of items to collect and use. The game is simple to get into, but strategy is required if you want to win!
+Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master! Every game is a unique challenge, with four different heroes, randomized levels and enemies, and hundreds of items to collect and use. ShatteredPD is also updated once every two or three months, so there's always something new.
 
-<b>Choose Your Hero</b><br>
-Start the game by choosing a hero, which can be improved and customized as you quest through the dungeon!
-- 4 heroes: Warrior, Mage, Rogue, and Huntress. Each hero has a different playstyle.
-- 8 subclasses which let successful heroes further specialize their abilities.
-- 13 unique lategame abilities that grant special power at the end of a game.
-- Over 100 talents, which let you incrementally power up your hero as you level up.
+![](/assets/images/SHPD-Desc/choose-hero.png){: .align-center}
+Each of ShatteredPD's four playable heroes has their own unique mechanics and gameplay style. Smash some heads as the durable Warrior, fry your enemies as the arcane Mage, or use terrain to your advantage as the stealthy Rogue or the markswoman Huntress!
 
-<b>Explore the Dungeon Depths</b><br>
-Every run though the dungeon is different, with randomized layouts, enemy placement, and items!
-- 5 distinct dungeon regions over 26 floors, each with their own enemies and room layouts.
-- Over 60 enemies, 30 traps, and 5 detailed bosses to test your skills.
-- Over 100 equipment items, including powerful wands, rings, weapons, and armor.
-- Over 150 regular items to find and craft, each with their own uses.
+As you progress through the dungeon you'll earn points to spend on talents, choose a subclass, and gain powerful lategame abilities. You can turn the Warrior into a combo-building Gladiator, the Mage into a soul-sucking Warlock, the Huntress into a tanky Warden, or explore loads of other possibilities!
 
-<b>A Full Game on Your Phone</b><br>
-Shattered isn't a limited mobile game, it's a full game designed from the ground up to work on any device!
-- No ads, f2p mechanics, paywalled content, or gameplay-impacting microtransactions.
-- Intuitive touch-based interface that works well on all screen sizes.
-- Free updates once every ~2 months, with fixes, improvements, and additions.
-- Active and helpful communities on several social platforms.
+![](/assets/images/SHPD-Desc/explore-dungeon.png){: .align-center}
+![](/assets/images/SHPD-Desc/levelgen.gif){: .align-center .rounded-large}
+ShatteredPD's dungeon is procedurally generated with random layouts, room types, items, traps, and enemies. In each game you'll find equipment and collect or craft consumable items to power you up or help you out in a pinch. There is a huge variety to what you might see from run to run and region to region.
 
-Find an issue with the game? Have a suggestion? Then contact me! I can be contacted via email. (My ability to respond to emails in languages other than English is limited.)
+As you progress through the dungeon you'll find equipment that can be enchanted, upgraded, and augmented as you outfit your hero. Set foes ablaze with an enchanted weapon, wade through enemies with upgraded armor, or gain powerful damage, defensive, or utility benefits from one of the many wands, rings, or magical artifacts.
 
-Shattered Pixel Dungeon is open source software under the GPLv3 License, and is based on the freely available source code of Pixel Dungeon! You can find the current source code [here](https://github.com/00-Evan/shattered-pixel-dungeon)
+![](/assets/images/SHPD-Desc/succeed-die.png){: .align-center}
+The Dungeon is filled with enemies, traps, hazards, and bosses intent on ending your run! Battle hostile wildlife in the sewers and caves, mad thieves and guards in the prison, occult servants in the fallen dwarven city, and maybe something even worse further down...
 
-Shattered Pixel Dungeon is available in multiple languages thanks to support from the community. The translation project is hosted [here](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon)
+All these hazards can make the game quite tough, but don't be discouraged! You probably won't win on your first try, but there are many tricks and strategies to discover and learn on the path to getting your first win!
+
+![](/assets/images/SHPD-Desc/decade-making.png){: .align-center}
+![](/assets/images/SHPD-Desc/timeline.png){: .align-center .rounded-large}
+Shattered Pixel Dungeon is an open source game based on the source code of Pixel Dungeon by Watabou (first released in 2013). It started in 2014 as a project to rebalance Pixel Dungeon but has steadily grown into its own game over the last 8 years!
+
+### Features Include:
+- 4 Heroes, each with 2 subclasses, 3 endgame abilities, and over 25 talents.
+- Over 250 items including equipment, consumables, and items crafted via alchemy.
+- 5 dungeon regions, 26 floors, over 100 room types, and trillions of possible floor layouts.
+- Over 60 enemy types, 30 traps, and 5 detailed bosses to test your skills.
+- 9 optional challenges and over 75 achievements for completionists.
+- Interface modes for large and small screens, and support for multiple input types.
+- Updates every 2-3 months with new content, fixes, and improvements.
+- Support for many languages thanks to the game's dedicated communities.
