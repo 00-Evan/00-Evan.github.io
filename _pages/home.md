@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/update-header.png
+    title: "Status Update: v1.4.0"
+    excerpt: "Hey Folks, I'm making a quick status update blog post as my plans for v1.4.0 have changed a bit, and so the information I gave when I released v1.3.0 is no longer accurate."
+    url: "/blog/status-update-v140.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2022/2022-07-06/header.png
     title: "Shattered Pixel Dungeon v1.3.0!"
     excerpt: "v1.3.0 includes a variety of additions and improvements, including a new scoring system, custom seeds and daily runs, and a harder alternate ending!"
     url: "/blog/shattered-pixel-dungeon-v130.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2022/2022-06-24/header.png
-    title: "Coming Soon: Badges and Ascension!"
-    excerpt: "In this post I’m going to detail some more of the new content coming to Shattered, with an emphasis on the challenging content additions coming in in v1.3.0!"
-    url: "/blog/coming-soon-to-shattered-badges-and-ascension.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2022/2022-01-09/header.png
