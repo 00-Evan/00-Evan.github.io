@@ -92,5 +92,10 @@ table {
   top: -0.15em;
 }
 
+//override color of github icon
+.fa-github {
+  color: #F0F6FC !important; 
+}
+
 //TODO it seems like the theme does a few odd things at exactly 64 em
 //because of max-width: 64em statements. Perhaps investigate and pull request
