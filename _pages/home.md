@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2022/2022-12-01/header.png
+    title: "Coming Soon: A New Hero!"
+    excerpt: "v2.0.0 is unfortunately still a little ways off, but I am far enough into development that I've got a bunch of details to share! The major focus of v2.0.0 is a brand new hero!"
+    url: "/blog/coming-soon-to-shattered-a-new-hero.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2022/2022-10-20/header.png
     title: "Presenting at Roguelike Celebration 2022!"
     excerpt: "Hey Dungeoneers! I'll be giving a presentation at Roguelike Celebration 2022 on Oct 23rd at 4:15pm EST. The presentation is titled 'Smoothing the Sharp Edges of RNG'."
     url: "/blog/presenting-at-roguelike-celebration-2022.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2022/2022-10-04/header.png
-    title: "Shattered Pixel Dungeon v1.4.0!"
-    excerpt: "v1.4.0 is focused on new in-game lore and loads of other miscellaneous improvements. There are 30 pages of story text to find, a new ring, various reworks, a new tutorial, and over a hundred smaller tweaks and fixes!"
-    url: "/blog/shattered-pixel-dungeon-v140.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2022/2022-01-09/header.png
