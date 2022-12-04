@@ -36,7 +36,7 @@ All these hazards can make the game quite tough, but don't be discouraged! You p
 
 ![](/assets/images/SHPD-Desc/decade-making.png){: .align-center}
 ![](/assets/images/SHPD-Desc/timeline.png){: .align-center .rounded-large}
-Shattered Pixel Dungeon is an open source game based on the source code of Pixel Dungeon by Watabou (first released in 2013). It started in 2014 as a project to rebalance Pixel Dungeon but has steadily grown into its own game over the last 8 years!
+Shattered Pixel Dungeon is an open source game based on the source code of Pixel Dungeon by Watabou (first released in December 2012). It started in 2014 as a project to rebalance Pixel Dungeon but has steadily grown into its own game over the last 8 years!
 
 ### Features Include:
 - 4 Heroes, each with 2 subclasses, 3 endgame abilities, and over 25 talents.
