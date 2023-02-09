@@ -97,8 +97,18 @@ table {
   color: #F0F6FC !important; 
 }
 
+//css class for consistent spacing on image+text.
+//moves bottom margin to div, instead of text
+.img-text {
+  display: inline-block;
+  p {
+    margin-bottom: 0em;
+  }
+  margin-bottom: 1.3em;
+}
+
 //css class for consistent spacing on heading+image+text.
-//Mainly used in yearly plans blog post
+//no bottom margin at all. mainly used in yearly plans blog post
 .head-img-text {
   display: inline-block;
   p {
