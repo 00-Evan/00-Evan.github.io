@@ -16,12 +16,12 @@ header:
 [![](/assets/images/github-badge.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
 </div>
 
-Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master! Every game is a unique challenge, with four different heroes, randomized levels and enemies, and hundreds of items to collect and use. ShatteredPD is also updated once every two or three months, so there's always something new.
+Shattered Pixel Dungeon is a traditional roguelike dungeon crawler RPG that's simple to get into but hard to master! Every game is a unique challenge, with five different heroes, randomized levels and enemies, and hundreds of items to collect and use. ShatteredPD is also updated once every two or three months, so there's always something new.
 
 ![](/assets/images/SHPD-Desc/choose-hero.png){: .align-center}
-Each of ShatteredPD's four playable heroes has their own unique mechanics and gameplay style. Smash some heads as the durable Warrior, fry your enemies as the arcane Mage, or use terrain to your advantage as the stealthy Rogue or the markswoman Huntress!
+Each of ShatteredPD's five playable heroes has their own unique mechanics and gameplay style. Cut down foes as the durable Warrior or deadly Duelist, fry your enemies as the arcane Mage, or use terrain to your advantage as the stealthy Rogue or the markswoman Huntress!
 
-As you progress through the dungeon you'll earn points to spend on talents, choose a subclass, and gain powerful lategame abilities. You can turn the Warrior into a combo-building Gladiator, the Mage into a soul-sucking Warlock, the Huntress into a tanky Warden, or explore loads of other possibilities!
+As you progress through the dungeon you'll earn points to spend on talents, choose a subclass, and gain powerful lategame abilities. You can turn the Duelist into a dual-wielding Champion, the Mage into a soul-sucking Warlock, the Huntress into a tanky Warden, or explore loads of other possibilities!
 
 ![](/assets/images/SHPD-Desc/explore-dungeon.png){: .align-center}
 ![](/assets/images/SHPD-Desc/levelgen.gif){: .align-center .rounded-large}
@@ -36,14 +36,14 @@ All these hazards can make the game quite tough, but don't be discouraged! You p
 
 ![](/assets/images/SHPD-Desc/decade-making.png){: .align-center}
 ![](/assets/images/SHPD-Desc/timeline.png){: .align-center .rounded-large}
-Shattered Pixel Dungeon is an open source game based on the source code of Pixel Dungeon by Watabou (first released in December 2012). It started in 2014 as a project to rebalance Pixel Dungeon but has steadily grown into its own game over the last 8 years!
+Shattered Pixel Dungeon is an open source game based on the source code of Pixel Dungeon by Watabou (first released in late 2012). It started in 2014 as a project to rebalance Pixel Dungeon but has steadily grown into its own game over the last 8 years!
 
 ### Features Include:
-- 4 Heroes, each with 2 subclasses, 3 endgame abilities, and over 25 talents.
+- 5 Heroes, each with 2 subclasses, 3 endgame abilities, and over 25 talents.
 - Over 250 items including equipment, consumables, and items crafted via alchemy.
 - 5 dungeon regions, 26 floors, over 100 room types, and trillions of possible floor layouts.
 - Over 60 enemy types, 30 traps, and 5 detailed bosses to test your skills.
-- 9 optional challenges and over 75 achievements for completionists.
+- 9 optional challenges and over 100 achievements for completionists.
 - Interface modes for large and small screens, and support for multiple input types.
-- Updates every 2-3 months with new content, fixes, and improvements.
+- Updates roughly every 3 months with new content, fixes, and improvements.
 - Support for many languages thanks to the game's dedicated communities.

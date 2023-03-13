@@ -7,10 +7,10 @@ header:
   width: 1260px
 
 blog_feature:
-  - image_path: assets/images/2023/2023-03-09/header.png
-    title: "The Duelist Releases on March 13th!"
-    excerpt: "Hey Dungeoneers, the beta for v2.0 lasted a little longer than expected, but everything is now ready and I plan to release the update on Monday, March 13th at 1pm EDT!"
-    url: "/blog/duelist-releases-march-13th.html"
+  - image_path: assets/images/2023/2023-03-13/header.png
+    title: "Shattered Pixel Dungeon v2.0.0!"
+    excerpt: "v2.0.0 includes Shattered's first ever new playable character! The Duelist is a melee weapons specialist who has a unique ability for every weapon in the game. She has 2 subclasses, 3 armor abilities, and 26 talents!"
+    url: "/blog/shattered-pixel-dungeon-v200.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2023/2023-02-09/header.jpg
