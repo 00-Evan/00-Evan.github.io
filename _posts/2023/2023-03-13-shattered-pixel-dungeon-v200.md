@@ -28,7 +28,7 @@ Despite it not being intended as a focus of v2.0.0, I've also managed to fix jus
 
 I talked about this update in two previous blog posts:
 - [Coming Soon to Shattered: The Duelist!](/blog/coming-soon-to-shattered-the-duelist.html)
-- [Coming Soon to Shattered: A New Hero!](/coming-soon-to-shattered-a-new-hero.html)
+- [Coming Soon to Shattered: A New Hero!](/blog/coming-soon-to-shattered-a-new-hero.html)
 
 Here's a condensed runthrough of the major changes this update. You can check out the changes screen in-game for a fully detailed list.
 
