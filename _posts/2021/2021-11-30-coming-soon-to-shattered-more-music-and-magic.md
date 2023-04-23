@@ -17,7 +17,7 @@ Hey Dungeoneers, v1.1.0 is finally ready for beta!
 Now that v1.1.0 is content complete, I'm going to share some more details about the game content changes coming in it. This includes more reworked and new alchemy items, more details about how energy works, and info on some new music!
 
 <div markdown="1"  style="display: inline-block; margin-bottom: 1.3em;">
-[![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v1.1.0 is live right now! You can get it on Google Play by [opting-in to betas](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon), on Apple devices by signing up on [TestFlight](https://testflight.apple.com/join/4PWFyask), or directly download the game for Android and Desktop via [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/). Note that the TestFlight release is currently awaiting approval from Apple, but it should be available soon.
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v1.1.0 is live right now! You can get it on Google Play by [opting-in to betas](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon), on Apple devices by signing up on [TestFlight](https://testflight.apple.com/join/4PWFyask), or directly download the game for Android and Desktop via [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/). Note that the TestFlight release is currently awaiting approval from Apple, but it should be available soon.
 </div>
 
 Also, apologies for the continued delays on this update. At the moment I'm juggling a lot of extra responsibilities (both Shattered and real-life), and so have had less time to work on v1.1.0 than I would like over the last two months. Things are starting to clear up now though, but I don't think I'll be back up to full speed until the new year.
@@ -91,6 +91,6 @@ Finally, there are a few more reworks to exotic potions and scrolls that I didn'
 
 ---
 
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/r5y82z/)

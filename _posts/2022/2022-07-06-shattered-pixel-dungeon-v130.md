@@ -11,10 +11,10 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
 <div markdown="1" style="display: inline-block;">
-![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} Hey Dungeoneers, v1.3.0 has been released! You can get it on: on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)!
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} Hey Dungeoneers, v1.3.0 has been released! You can get it on: on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)!
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/vsv72w/shattered_pixel_dungeon_v130/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3415433633272623975)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/vsv72w/shattered_pixel_dungeon_v130/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3415433633272623975)!
 
 ## What's new in v1.3.0
 
@@ -99,10 +99,10 @@ v1.4.0 will also have some tweaks, as usual. In particular I plan to focus on he
 Lastly, while this won't be coming in v1.4.0, I am making some progress on adding a new hero in 2022! Expect to hear more on this after v1.4.0 releases!
 </div>
 
-v1.3.0 ended up taking a bit more than 3 months. That's longer than I wanted but v1.3.0 also ended up having more content than I was originally planning. For v1.4.0, I'd like to try and get things a bit closer to 2 months. I should have some more info on v1.4.0 to share in a blog post some time in August. In the meantime, please [![](/assets/images/twitter-icon.png){: .rounded .text-inline} follow me on Twitter](https://www.twitter.com/ShatteredPixel) if you'd like some quicker mini-updates!
+v1.3.0 ended up taking a bit more than 3 months. That's longer than I wanted but v1.3.0 also ended up having more content than I was originally planning. For v1.4.0, I'd like to try and get things a bit closer to 2 months. I should have some more info on v1.4.0 to share in a blog post some time in August. In the meantime, please [![](/assets/images/icons/twitter.png){: .rounded .text-inline} follow me on Twitter](https://www.twitter.com/ShatteredPixel) if you'd like some quicker mini-updates!
 
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
 </div>

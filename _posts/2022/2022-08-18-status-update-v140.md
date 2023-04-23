@@ -30,8 +30,8 @@ You can expect another blog post sometime in early to mid September with a beta 
 - <span style="color:Orange"><b>Lore Additions (40%)</b></span>: I'm planning to finally expand the game's journal system beyond just guidebook pages. Each region is going to have a separate bit of lore text to find, which will give more details about that region and the people who were there before the hero.
 - <span style="color:Red"><b>Interface Improvements (20%)</b></span>: Just like with the changes screen in v1.3.2, I'd like to expand a few of the game's interfaces to convey more information, especially for users on large screens. Big candidates are the alchemy screen, hero select, and the rankings screen.
 
-I'm going to start sharing some more bite-sized info on these changes on [![](/assets/images/twitter-icon.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) very soon, so follow me there if you'd like some quicker updates.
+I'm going to start sharing some more bite-sized info on these changes on [![](/assets/images/icons/twitter.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) very soon, so follow me there if you'd like some quicker updates.
 
 ---
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/wrpckz/shattered_status_update_v140/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3433451954993527448)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/wrpckz/shattered_status_update_v140/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3433451954993527448)!

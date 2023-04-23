@@ -104,7 +104,7 @@ I'm going to write another blog for talents in two or three weeks, which is will
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, and also help determine content direction through community polls! As mentioned, Patrons helped determine the content direction for v0.9.1, and have been getting early info about levelgen changes for the last month.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, and also help determine content direction through community polls! As mentioned, Patrons helped determine the content direction for v0.9.1, and have been getting early info about levelgen changes for the last month.
 
 ---
 

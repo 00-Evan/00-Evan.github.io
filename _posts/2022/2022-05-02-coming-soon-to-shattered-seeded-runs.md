@@ -62,7 +62,7 @@ I've also made a few improvements to the scroll of metamorphosis. Currently ther
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/metamorph.png){: .align-center}
 
-Lastly, based on the results of a poll from [![](/assets/images/patreon-icon-2021.png){: .rounded .text-inline} Patreon](https://www.patreon.com/ShatteredPixel) I've gone over all of the buff icons in the game and eliminated (almost) all cases of duplicates. There are still plenty of recolors, but it should be basically impossible to have two buffs with the exact same icon now. I've also added icons to a couple of buffs that needed them. Here are a few examples, from left to right, old on top new on bottom: featherfall, targeted, adrenaline, cloak of shadows, fire imbue, and nature's power.
+Lastly, based on the results of a poll from [![](/assets/images/icons/patreon.png){: .rounded .text-inline} Patreon](https://www.patreon.com/ShatteredPixel) I've gone over all of the buff icons in the game and eliminated (almost) all cases of duplicates. There are still plenty of recolors, but it should be basically impossible to have two buffs with the exact same icon now. I've also added icons to a couple of buffs that needed them. Here are a few examples, from left to right, old on top new on bottom: featherfall, targeted, adrenaline, cloak of shadows, fire imbue, and nature's power.
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/buff-icons.png){: .align-center}
 
@@ -75,12 +75,12 @@ I've still got a fair bit to add before v1.3.0 is ready for beta and release tho
 - A few **curses** are also getting improved in v1.3. Some curses are a lot more interesting than others and so I'm going to be taking the most boring and directly harmful ones and change them to give the player a little more to work with.
 - Lastly, I'd also like to make some specific changes to the game's **ascension route** to make it more challenging. Currently it's too easy to simply run back to the surface, and enemies become trivially weak after only a few floors. The changes in v1.3 won't be a full rework, but I would like to improve on these issues.
 
-Expect another blog post with a beta in about another month, hopefully in late May or early June. In the meantime I'm going to try to post at least once a week on [![](/assets/images/twitter-icon.png){: .rounded .text-inline} Twitter](https://twitter.com/ShatteredPixel), if you'd prefer news at a quicker pace.
+Expect another blog post with a beta in about another month, hopefully in late May or early June. In the meantime I'm going to try to post at least once a week on [![](/assets/images/icons/twitter.png){: .rounded .text-inline} Twitter](https://twitter.com/ShatteredPixel), if you'd prefer news at a quicker pace.
 
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider buying the game on Steam, [or supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider buying the game on Steam, [or supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls.
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/ugv2d1/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3273564019260330643)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/ugv2d1/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3273564019260330643)!

@@ -91,6 +91,6 @@ If you haven't already, please consider [wishlisting the game on Steam](https://
 
 ---
 
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
 
 You can discuss this blog post on the [Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/sj1tqf/), or on the [Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3185736218666470824/)!

@@ -83,10 +83,10 @@ Finally, there are some talents with more varied effects as well. Here are four 
 
 In total, the second tier has 5 talents per hero and 6 talent points to spend from level 7 to 12. Tier three will come in v0.9.2 (which should hopefully come a little quicker), and will cover levels 13-20. There are some fun details that will separate tier 3 from 2 and 1, expect to read more about that in the near future!
 
-[![](/assets/images/SHPD-icon.png){: .align-left}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) I'm planning to fully release v0.9.1 in about a week, but you can play it in beta right now! [If you're a Google Play user, you can opt into betas here](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon). [You can also get the latest release of the game (including betas), on the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) I'm planning to fully release v0.9.1 in about a week, but you can play it in beta right now! [If you're a Google Play user, you can opt into betas here](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon). [You can also get the latest release of the game (including betas), on the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy ShatteredPD and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, a monthly Q&A livestream, and also help determine content direction through community polls!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy ShatteredPD and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, a monthly Q&A livestream, and also help determine content direction through community polls!
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/k50r7w/)

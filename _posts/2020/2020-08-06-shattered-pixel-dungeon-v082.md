@@ -11,7 +11,7 @@ header:
 tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
-![](/assets/images/SHPD-icon.png){: .align-left} Hey Dungeoneers, v0.8.2 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), and should roll out to other platforms such as [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) and [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/) soon!
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} Hey Dungeoneers, v0.8.2 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), and should roll out to other platforms such as [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) and [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/) soon!
 
 [You can discuss this update on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/i4wc6n/)
 
@@ -62,4 +62,4 @@ You can look forward to a blog post on v0.9.0 with some details about the new ga
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon!](https://www.patreon.com/ShatteredPixel) Google Play Supporters get access to fun cosmetic in-game benefits. Patrons get access to weekly mini-blogs, monthly content polls, and a patron discord!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon!](https://www.patreon.com/ShatteredPixel) Google Play Supporters get access to fun cosmetic in-game benefits. Patrons get access to weekly mini-blogs, monthly content polls, and a patron discord!

@@ -17,7 +17,7 @@ Hey Dungeoneers, It's time to share some details on v1.1.0!
 Sorry for the longer than usual lull in updates after v1.0.0 released. I've been very busy with some real-life stuff over the last few weeks, which meant having to push back plans for Shattered a little.
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/roguelike-celebration.png){: .align-left .rounded}](https://roguelike.club/) One of those real-life things is something you might be interested in though. I'm going to be giving a talk at this year's [Roguelike Celebration](https://roguelike.club/) on [October 16th at 6:30pm EDT!](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211016T1830&p1=3918&am=30) The talk is titled "Community-Driven Roguelike Development", you can find more details about it [Here.](https://roguelike.club/speakers2021.html#evan-debenham)
+[![](/assets/images/icons/roguelike-celebration.png){: .align-left .rounded}](https://roguelike.club/) One of those real-life things is something you might be interested in though. I'm going to be giving a talk at this year's [Roguelike Celebration](https://roguelike.club/) on [October 16th at 6:30pm EDT!](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211016T1830&p1=3918&am=30) The talk is titled "Community-Driven Roguelike Development", you can find more details about it [Here.](https://roguelike.club/speakers2021.html#evan-debenham)
 </div>
 
 v1.1.0 is focused on making improvements to the alchemy system and the various recipes it has. My original plan was for alchemy to add cool new mechanics based on consumable items and easy ways to recycle consumable items you don’t want. The system *sort of* does this currently but has a lot of problems. Alchemy is complex, only marginally helps with recycling items, and a majority of its produce is overly situational or just plain underpowered. To improve this, I'm doing a complete redesign of alchemical energy, lots of balance changes and tweaks to existing recipes, and adding a few new recipes as well.
@@ -86,10 +86,10 @@ There is a risk of adding too much complexity here, so I'm going to do my best t
 
 Unfortunately the beta for v1.1.0 is a little ways off still, but I won't be silent for all of October! There's going to be another blog post very soon that's about new platforms, and then there will be another post a little later (probably early November) with a beta for v1.1.0.
 
-In the meantime, I plan to be sharing some smaller updates on [![](/assets/images/twitter-icon.png){: .rounded .text-inline} Twitter!](https://www.twitter.com/ShatteredPixel) This will include some GIFs showcasing various alchemy recipes as I buff and adjust them. That GIF of the scroll of foresight rework was actually shared on twitter last week!
+In the meantime, I plan to be sharing some smaller updates on [![](/assets/images/icons/twitter.png){: .rounded .text-inline} Twitter!](https://www.twitter.com/ShatteredPixel) This will include some GIFs showcasing various alchemy recipes as I buff and adjust them. That GIF of the scroll of foresight rework was actually shared on twitter last week!
 
 ---
 
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/q3j5yg/)

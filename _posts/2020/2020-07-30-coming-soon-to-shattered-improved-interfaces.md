@@ -19,7 +19,7 @@ Also don't worry, that [new gameplay system](/blog/shattered-pixel-dungeon-in-20
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon!](https://www.patreon.com/ShatteredPixel) Google Play Supporters get access to fun cosmetic in-game benefits. Patrons get access to weekly mini-blogs, monthly content polls, and a patron discord!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon!](https://www.patreon.com/ShatteredPixel) Google Play Supporters get access to fun cosmetic in-game benefits. Patrons get access to weekly mini-blogs, monthly content polls, and a patron discord!
 
 ## A New 'News' Interface!
 
@@ -63,4 +63,4 @@ I'm not really out to make the game a whole lot easier than it is currently, but
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/i0wa6q/)
 
-[![](/assets/images/SHPD-icon.png){: .align-left}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) Currently I'm hoping to release v0.8.2 around the middle of next week. All of the content changes I have planned for it are complete, so it's just down to final balance tweaks and bugfixes. If you can't wait though, there is a beta available right now! [You can find the latest release of the game (including a beta, if one is running), on the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) Currently I'm hoping to release v0.8.2 around the middle of next week. All of the content changes I have planned for it are complete, so it's just down to final balance tweaks and bugfixes. If you can't wait though, there is a beta available right now! [You can find the latest release of the game (including a beta, if one is running), on the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)

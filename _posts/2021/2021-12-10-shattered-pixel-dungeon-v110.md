@@ -12,7 +12,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
 <div markdown="1" style="display: inline-block;">
-![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} Hey Dungeoneers, v1.1.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)!
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} Hey Dungeoneers, v1.1.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)!
 </div>
 
 [You can also discuss this update on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/rdgklp/)
@@ -89,8 +89,8 @@ v1.1.0 includes a bunch of new music, but Kristjan and I aren't finished yet! We
 Lastly, there will be some smaller miscellaneous changes in v1.2.0 as well. Alchemy items will get the most adjustments, but I also plan to look into improvements to a few other items, such as the master thieves' armband. There will be the usual round of balance improvements too.
 </div>
 
-Expect to hear more details about v1.2.0 in a future news post, likely in January. If you want faster updates about what I'm working on, [![](/assets/images/twitter-icon.png){: .rounded .text-inline} follow me on Twitter!](https://www.twitter.com/ShatteredPixel) The micro-blog format of that website makes it perfect for giving quick project updates.
+Expect to hear more details about v1.2.0 in a future news post, likely in January. If you want faster updates about what I'm working on, [![](/assets/images/icons/twitter.png){: .rounded .text-inline} follow me on Twitter!](https://www.twitter.com/ShatteredPixel) The micro-blog format of that website makes it perfect for giving quick project updates.
 
 ---
 
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!

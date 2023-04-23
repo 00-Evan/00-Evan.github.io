@@ -11,10 +11,10 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
 <div markdown="1" style="display: inline-block; margin-bottom: 1.3em;">
-![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} Hey Dungeoneers, v1.4.0 has been released! You can get it on: on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! Note that v1.4.0 is currently held up in review by Google on Google Play, it should become available there within another day or two tops.
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} Hey Dungeoneers, v1.4.0 has been released! You can get it on: on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! Note that v1.4.0 is currently held up in review by Google on Google Play, it should become available there within another day or two tops.
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/xvognj/shattered_pixel_dungeon_v140/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3397427506573194249)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/xvognj/shattered_pixel_dungeon_v140/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3397427506573194249)!
 
 ## What's new in v1.4.0
 
@@ -62,10 +62,10 @@ I don't yet have any specific plans for other content in v2.0.0. I want to mostl
 
 I was originally planning for the next update to be v1.5.0, and include a rework to the blacksmith's quest. We're now in the last quarter of 2022 though, and I suspect people would much rather see a new hero release next. I also heavily implied a new hero would come this year back in the 'Shattered Pixel Dungeon in 2022' blog post. This doesn't mean that the quest rework is never going to happen though, I'm just readjusting my priorities and will likely get to it in 2023 instead.
 
-v2.0.0 will likely have a few blog posts as I make progress on implementing the new hero. Expect to see the first of those posts in November. In the meantime, please [![](/assets/images/twitter-icon.png){: .rounded .text-inline} follow me on Twitter](https://www.twitter.com/ShatteredPixel) if you'd like some quicker mini-updates!
+v2.0.0 will likely have a few blog posts as I make progress on implementing the new hero. Expect to see the first of those posts in November. In the meantime, please [![](/assets/images/icons/twitter.png){: .rounded .text-inline} follow me on Twitter](https://www.twitter.com/ShatteredPixel) if you'd like some quicker mini-updates!
 
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
 </div>

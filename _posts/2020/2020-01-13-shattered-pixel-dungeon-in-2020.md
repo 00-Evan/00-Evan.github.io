@@ -115,4 +115,4 @@ Whew, another long read! There's still plenty of work to be done on Shattered, a
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/eod4bg/)
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) Lastly, if you'd like to help me make these plans a reality, please consider making a purchase in the Google Play version of the game, or [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get early info about upcoming game updates, which will include most of what I've talked about here once I start developing it.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) Lastly, if you'd like to help me make these plans a reality, please consider making a purchase in the Google Play version of the game, or [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get early info about upcoming game updates, which will include most of what I've talked about here once I start developing it.

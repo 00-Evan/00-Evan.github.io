@@ -14,7 +14,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: BADGES"]
 Greetings Dungeoneers! After some delays, v1.3.0 is finally ready to go to beta!
 
 <div markdown="1" style="display: inline-block; margin-bottom: 1.3em;">
-[![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v1.3.0 is live right now! You can get it on Google Play by [opting-in to betas](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon), on Apple devices by signing up on [TestFlight](https://testflight.apple.com/join/4PWFyask), on Steam by [selecting the Beta branch from the game's properties](steam://nav/games/details/1769170), or directly download the game for Android and Desktop via [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/).
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v1.3.0 is live right now! You can get it on Google Play by [opting-in to betas](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon), on Apple devices by signing up on [TestFlight](https://testflight.apple.com/join/4PWFyask), on Steam by [selecting the Beta branch from the game's properties](steam://nav/games/details/1769170), or directly download the game for Android and Desktop via [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/).
 </div>
 
 In this post I'm going to detail some more of the new content coming to Shattered, with an emphasis on the challenging content additions coming in in v1.3.0!
@@ -74,7 +74,7 @@ I'm also making some improvements to various interfaces in v1.3.0. The settings 
 With the little bit of remaining UI work, I expect this beta is going to last a bit longer than the usual timeframe of one week. Look forward to v1.3.0's full release in early July!
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, physical loyalty rewards, and early alpha access to updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, physical loyalty rewards, and early alpha access to updates!
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/vjvkbp/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3415432674392137853)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/vjvkbp/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3415432674392137853)!

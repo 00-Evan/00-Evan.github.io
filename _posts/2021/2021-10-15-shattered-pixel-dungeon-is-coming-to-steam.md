@@ -12,10 +12,10 @@ header:
 tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 63", "SHPD_ICON_v533: ITEM: 61"]
 ---
 
-Hey Dungeoneers, I've got some more exciting news, **Shattered Pixel Dungeon is coming to Steam in early 2022!** I'm moving so quickly on this due to a mix of the game's success on the iOS App Store, and a promotion from [![](/assets/images/roguelike-celebration.png){: .rounded .text-inline} Roguelike celebration 2021!](https://roguelike.club/)
+Hey Dungeoneers, I've got some more exciting news, **Shattered Pixel Dungeon is coming to Steam in early 2022!** I'm moving so quickly on this due to a mix of the game's success on the iOS App Store, and a promotion from [![](/assets/images/icons/roguelike-celebration.png){: .rounded .text-inline} Roguelike celebration 2021!](https://roguelike.club/)
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/roguelike-celebration.png){: .align-left .rounded}](https://roguelike.club/) As I mentioned in the last blog, I'll be giving a presentation at Roguelike Celebration 2021 tomorrow, titled "Community-Driven Roguelike Development", you can find more details about it [Here](https://roguelike.club/speakers2021.html#evan-debenham). Roguelike Celebration will also be running an [event on Steam this week](https://store.steampowered.com/sale/roguelikecelebration2021), which Shattered is a part of!
+[![](/assets/images/icons/roguelike-celebration.png){: .align-left .rounded}](https://roguelike.club/) As I mentioned in the last blog, I'll be giving a presentation at Roguelike Celebration 2021 tomorrow, titled "Community-Driven Roguelike Development", you can find more details about it [Here](https://roguelike.club/speakers2021.html#evan-debenham). Roguelike Celebration will also be running an [event on Steam this week](https://store.steampowered.com/sale/roguelikecelebration2021), which Shattered is a part of!
 </div>
 
 <div markdown="1" style="display: inline-block; width: 100%">
@@ -64,15 +64,15 @@ And lastly I'd like to look into **Better Keyboard and Controller Support**. The
 ## Other Plans
 
 <div markdown="1" style="display: inline-block; width: 100%">
-[![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases) As a reminder, if you'd like to play the PC version as it is currently (a straight mobile port + keyboard bindings), it's available right now on [Github!](https://github.com/00-Evan/shattered-pixel-dungeon/releases) I also plan to be releasing the game on Itch.io soon under a 'pay what you want' model, with $10 as the suggested amount. These versions of the game will also get the improvements I've mentioned above.
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases) As a reminder, if you'd like to play the PC version as it is currently (a straight mobile port + keyboard bindings), it's available right now on [Github!](https://github.com/00-Evan/shattered-pixel-dungeon/releases) I also plan to be releasing the game on Itch.io soon under a 'pay what you want' model, with $10 as the suggested amount. These versions of the game will also get the improvements I've mentioned above.
 </div>
 
-Once Roguelike Celebration is over I'm going to be getting back to work on v1.1.0, including those alchemy changes I mentioned [last time](/blog/coming-soon-to-shattered-better-alchemical-energy.html). You can expect another full post about v1.1.0 sometime in November, but until then you can follow me on [![](/assets/images/twitter-icon.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) for smaller updates and some animated gifs.
+Once Roguelike Celebration is over I'm going to be getting back to work on v1.1.0, including those alchemy changes I mentioned [last time](/blog/coming-soon-to-shattered-better-alchemical-energy.html). You can expect another full post about v1.1.0 sometime in November, but until then you can follow me on [![](/assets/images/icons/twitter.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) for smaller updates and some animated gifs.
 
 My plans for updates after v1.1.0 are still not locked in, but there are some exciting things coming, especially once I've gotten PC porting work out of the way. We're getting closer to 2022 so expect a big blog on it then, just like the yearly posts I've made in [2021](/blog/shattered-pixel-dungeon-in-2021.html), [2020](/blog/shattered-pixel-dungeon-in-2020.html), and [2019](/blog/shattered-pixel-dungeon-in-2019.html). It looks like we're going to get through about half of the items listed in the 2021 post by 2022.
 
 ---
 
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, and recently started getting access to early playtests of content updates!
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/q8twh1/)

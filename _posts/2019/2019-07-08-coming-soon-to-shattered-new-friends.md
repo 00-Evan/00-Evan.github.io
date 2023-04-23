@@ -51,5 +51,5 @@ I'm expecting to release 0.7.4 is about a week, so look forward to these additio
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/caoe9s/)
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel)
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel)
 If you'd like to support the development of Shattered Pixel Dungeon, please consider either making a purchase in the Google Play version of the game, or [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) The Patreon is currently in a soft-launch state, and I intend to expand it based on interest and feedback.

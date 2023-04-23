@@ -91,8 +91,8 @@ iOS is actually part of the reason v0.9.3 took a bit longer than expected. For a
 
 ---
 
-[![](/assets/images/SHPD-icon.png){: .align-left}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v0.9.3 is live right now, and I expect to fully release it in around another two weeks. [If you're a Google Play user, you can opt into betas here](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon). You can also get the latest release of the game (including betas), on [the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v0.9.3 is live right now, and I expect to fully release it in around another two weeks. [If you're a Google Play user, you can opt into betas here](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon). You can also get the latest release of the game (including betas), on [the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy ShatteredPD and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, a monthly Q&A livestream, and also help determine content direction through community polls!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy ShatteredPD and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, a monthly Q&A livestream, and also help determine content direction through community polls!
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/ni6vbi/)

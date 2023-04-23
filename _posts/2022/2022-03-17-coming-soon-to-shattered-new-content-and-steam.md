@@ -72,11 +72,11 @@ You can still steal from shopkeepers, but can now also use the armband to rob re
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v1.2.0 is live right now! You can get it on [Google Play](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon), on [Apple TestFlight](https://testflight.apple.com/join/4PWFyask), or directly download for Android or Desktop via [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/). Note that the TestFlight release is currently awaiting approval from Apple. The game's demo on Steam will also be updated for the v1.2.0 beta in another day or two, once any serious bugs have been ironed out.
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v1.2.0 is live right now! You can get it on [Google Play](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon), on [Apple TestFlight](https://testflight.apple.com/join/4PWFyask), or directly download for Android or Desktop via [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/). Note that the TestFlight release is currently awaiting approval from Apple. The game's demo on Steam will also be updated for the v1.2.0 beta in another day or two, once any serious bugs have been ironed out.
 </div>
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider buying the game when it releases on steam, [or supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider buying the game when it releases on steam, [or supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls.
 </div>
 
 Expect another blog post once v1.2.0 releases next week, where I'll detail my plans for v1.3.0. With the Steam release I think the long saga of porting updates is ending, and I can finally start focusing on game content!

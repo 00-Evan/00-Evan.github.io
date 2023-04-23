@@ -11,7 +11,7 @@ header:
 tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
-![](/assets/images/SHPD-icon.png){: .align-left} Hey Dungeoneers, v0.9.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! It should roll out to users on [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) soon as well.
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} Hey Dungeoneers, v0.9.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! It should roll out to users on [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/) soon as well.
 
 [You can discuss this update on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/j5qdfu/)
 
@@ -48,4 +48,4 @@ I also plan to keep in eye on how talents and heroes in general perform in v0.9.
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, and also help determine content direction through community polls! Patrons are already getting info about future tiers of the talent system, and also helped determine v0.9.1's secondary focus on level generation.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, and also help determine content direction through community polls! Patrons are already getting info about future tiers of the talent system, and also helped determine v0.9.1's secondary focus on level generation.

@@ -13,7 +13,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 63", "SHPD_ICON_v533: ITEM: 61"]
 ---
 
 <div markdown="1" style="display: inline-block;">
-![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} [![](/assets/images//{{page.date|date:'%Y/%Y-%m-%d'}}/appstore.png){: .align-right}](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109) Hey Dungeoneers, v1.0.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! That's right, after seven years of development, we've hit v1.0.0, and [Shattered Pixel Dungeon is finally available for purchase on iOS!](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109)
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} [![](/assets/images//{{page.date|date:'%Y/%Y-%m-%d'}}/appstore.png){: .align-right}](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109) Hey Dungeoneers, v1.0.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! That's right, after seven years of development, we've hit v1.0.0, and [Shattered Pixel Dungeon is finally available for purchase on iOS!](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109)
 </div>
 [You can also discuss this update on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/p65l8g/)
 
@@ -110,4 +110,4 @@ Expect to hear more details about v1.1.0 in a future blog post, likely sometime 
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, firstly please buy it on iOS! If that's not an option though, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to weekly mini blogs about upcoming updates, devstreams, and also help determine content direction through community polls!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, firstly please buy it on iOS! If that's not an option though, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to weekly mini blogs about upcoming updates, devstreams, and also help determine content direction through community polls!

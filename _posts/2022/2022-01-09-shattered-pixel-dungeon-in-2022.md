@@ -34,7 +34,7 @@ Of 2021's updates, v1.0.0 was easily the most significant for the game's exposur
 </div>
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel)
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel)
 There have also been some improvements [over at my Patreon](https://www.patreon.com/ShatteredPixel)! In addition to the existing rewards (mini blogs, content polls, Q&A, etc.), I've finally started shipping out pins as a loyalty reward for long standing patrons, and have started to give Patrons access to limited early playtests of content updates!
 </div>
 
@@ -64,7 +64,7 @@ I've got a bunch of smaller content additions and improvements I'd like to make 
 - New items
 - Various QOL and new player experience improvements
 
-It's worth noting that this sort of smaller content is often the subject of polls on my [![](/assets/images/patreon-icon-2021.png){: .rounded .text-inline} Patreon](https://www.patreon.com/ShatteredPixel). If you'd like to influence what smaller content I focus on, please consider pledging and voting!
+It's worth noting that this sort of smaller content is often the subject of polls on my [![](/assets/images/icons/patreon.png){: .rounded .text-inline} Patreon](https://www.patreon.com/ShatteredPixel). If you'd like to influence what smaller content I focus on, please consider pledging and voting!
 
 ### Quest Improvements
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/quests.png){: .align-left .rounded-large}
@@ -120,6 +120,6 @@ Since I started it in 2014, Shattered has gotten a new 2.5D art style, new sound
 
 ---
 
-Those are my plans for 2022! While there's still plenty to do, I am excited to see some very old promises start to move up the priority list. If all goes well, 2022 should be a great year for new content in Shattered, and carve a pretty clear path toward 2023. If you'd like to help me make these plans a reality, please take a look at my [![](/assets/images/patreon-icon-2021.png){: .rounded .text-inline} Patreon](https://www.patreon.com/ShatteredPixel)!
+Those are my plans for 2022! While there's still plenty to do, I am excited to see some very old promises start to move up the priority list. If all goes well, 2022 should be a great year for new content in Shattered, and carve a pretty clear path toward 2023. If you'd like to help me make these plans a reality, please take a look at my [![](/assets/images/icons/patreon.png){: .rounded .text-inline} Patreon](https://www.patreon.com/ShatteredPixel)!
 
 You can discuss this blog post on the [Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/rzv4cq/), or on the [Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3198118671860873715)!

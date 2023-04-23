@@ -13,7 +13,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: SHPX"]
 Hey Dungeoneers!
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/roguelike-celebration.png){: .align-left .rounded}](https://roguelike.club/) In a few days, I'll be giving a presentation at [Roguelike Celebration 2022!](https://www.roguelike.club/event2022.html) The presentation is titled "Smoothing the Sharp Edges of RNG", and will talk about some of the techniques I've used in Shattered to make the game's randomness feel more fair, without just making the game easier.
+[![](/assets/images/icons/roguelike-celebration.png){: .align-left .rounded}](https://roguelike.club/) In a few days, I'll be giving a presentation at [Roguelike Celebration 2022!](https://www.roguelike.club/event2022.html) The presentation is titled "Smoothing the Sharp Edges of RNG", and will talk about some of the techniques I've used in Shattered to make the game's randomness feel more fair, without just making the game easier.
 </div>
 
 <b><u>The presentation will go from 4:15pm to 4:30pm EST on Sunday October the 23rd.</u></b> There will also be a 30 minute Q&A period afterward, going until 5pm. Here's a full description of the presentation:
@@ -40,7 +40,7 @@ As for Shattered development itself, v1.4.2 will be releasing in another couple 
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/y9727z/presenting_at_roguelike_celebration_2022/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3482997257337770391)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/y9727z/presenting_at_roguelike_celebration_2022/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3482997257337770391)!

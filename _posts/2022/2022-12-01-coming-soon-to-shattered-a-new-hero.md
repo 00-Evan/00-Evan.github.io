@@ -61,12 +61,12 @@ I think it's most realistic to expect something in January. This gives me enough
 
 You can look forward to another blog post when the beta is ready, which will provide more detail on the Duelist's subclasses, armor abilities, and talents!
 
-You can also get some quicker small updates by [![](/assets/images/twitter-icon.png){: .rounded .text-inline} following me on Twitter](https://www.twitter.com/ShatteredPixel). Due to recent events I am actively considering moving away from Twitter, but if that happens I will post on Twitter to let people there know about the move.
+You can also get some quicker small updates by [![](/assets/images/icons/twitter.png){: .rounded .text-inline} following me on Twitter](https://www.twitter.com/ShatteredPixel). Due to recent events I am actively considering moving away from Twitter, but if that happens I will post on Twitter to let people there know about the move.
 
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, physical loyalty rewards, and early alpha access to updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, physical loyalty rewards, and early alpha access to updates!
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/z9vrho/coming_soon_to_shattered_a_new_hero/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3713810544734832979)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/z9vrho/coming_soon_to_shattered_a_new_hero/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3713810544734832979)!

@@ -65,7 +65,7 @@ I've also added two new traps, which both have bigger opportunities to be useful
 There's also a new rare enemy: **Spectral Necromancers!** These necromancers don't create a single skeleton, and instead prefer to make a bunch of disposable wraiths. Killing them quickly is important to avoid getting overwhelmed, but as a reward you'll get a guaranteed scroll of remove curse!
 </div>
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) Both the new traps and spectral necromancers are happening thanks to some content polls on Patreon! If you'd like to vote in polls that help shape future content, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons also get access to weekly mini-blogs and an exclusive Discord server.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) Both the new traps and spectral necromancers are happening thanks to some content polls on Patreon! If you'd like to vote in polls that help shape future content, [please consider supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons also get access to weekly mini-blogs and an exclusive Discord server.
 
 ## Balance Changes
 
@@ -88,6 +88,6 @@ Finally, I've done a balancing pass on the new talents and abilities added in v0
 
 ---
 
-[![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v0.9.4 is live right now on [Google Play](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon) and [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/), and it should release on [iOS TestFlight](https://testflight.apple.com/join/4PWFyask) very soon. I expect to fully release v0.9.4 on **Tuesday August 17th**. A pre-order page should appear for Shattered the iOS App Store soon, follow me on [Twitter](https://twitter.com/ShatteredPixel) if you'd like to know when that pops up.
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) The beta for v0.9.4 is live right now on [Google Play](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon) and [Github](https://github.com/00-Evan/shattered-pixel-dungeon/releases/), and it should release on [iOS TestFlight](https://testflight.apple.com/join/4PWFyask) very soon. I expect to fully release v0.9.4 on **Tuesday August 17th**. A pre-order page should appear for Shattered the iOS App Store soon, follow me on [Twitter](https://twitter.com/ShatteredPixel) if you'd like to know when that pops up.
 
 [You can discuss this blog post on the Pixel Dungeon Subreddit!](https://www.reddit.com/r/PixelDungeon/comments/p1d1rc/)

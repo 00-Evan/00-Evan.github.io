@@ -24,7 +24,7 @@ If you'd like to see my previous 'plans for the year' blog posts, you can find t
 Before getting to what I have planned in 2023, let's take a quick look back at 2022. Of the 13 items listed in [last year's post](/blog/shattered-pixel-dungeon-in-2022.html), 3 were fully completed, and 4 were partially completed. Some progress has definitely been made, but there's no way around the fact that 2022 has been a more quiet year with just 3 major updates.
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/steam-icon.png){: .align-left .rounded}](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
+[![](/assets/images/icons/steam.png){: .align-left .rounded}](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
 While 2022 was lighter on new content than I'd like, it did include [Shattered's release on Steam!](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) I've been so thrilled to see Shattered do well outside of the mobile sphere, and hope to see it continue to grow on Steam as it has on Android and iOS.
 </div>
 
@@ -39,7 +39,7 @@ Firstly, The Duelist and v2.0.0 are currently well into development. Unfortunate
 
 If you'd like an overview of the Duelist, take a look at the [last blog post](/blog/coming-soon-to-shattered-a-new-hero.html). Currently the base Duelist class (including talents and weapon abilities) is complete, subclasses are about half implemented, and armor abilities are fully concepted.
 
-I'll also try to post a few shorter updates and teasers for v2.0.0 over on [![](/assets/images/mastodon-icon.png){: .rounded .text-inline} Mastodon](https://mastodon.gamedev.place/@ShatteredPixel) and [![](/assets/images/twitter-icon.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) during this month.
+I'll also try to post a few shorter updates and teasers for v2.0.0 over on [![](/assets/images/icons/mastodon.png){: .rounded .text-inline} Mastodon](https://mastodon.gamedev.place/@ShatteredPixel) and [![](/assets/images/icons/twitter.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) during this month.
 
 ## Higher Priority
 These are things I'm giving more immediate priority to. I'm going to try and get most or all of these done in 2023.
@@ -136,7 +136,7 @@ Over the years Shattered has gotten a new 2.5D art style, new sound effects, her
 Those are my plans for 2023 and beyond! While there's still plenty to do, the items on the priority list are slowly becoming more short-term and specific, as I try to keep the total number of items to about 12-15. Hopefully 2023 will have a larger emphasis on new content, and I can finally share some of the big content additions I've teased for a while now.
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, physical loyalty rewards, and early alpha access to updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls, physical loyalty rewards, and early alpha access to updates!
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/109a2hw/shattered_pixel_dungeon_in_2023/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3767857545438954129)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/109a2hw/shattered_pixel_dungeon_in_2023/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3767857545438954129)!

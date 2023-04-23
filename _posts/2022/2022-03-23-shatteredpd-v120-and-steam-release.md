@@ -13,7 +13,7 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 63", "SHPD_ICON_v533: ITEM: 61"]
 ---
 
 <div markdown="1" style="display: inline-block; margin-bottom: 1.3em;">
-![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} Hey Dungeoneers, v1.2.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! That's right, after almost eight years of development, [Shattered Pixel Dungeon is available for purchase on Steam!](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} Hey Dungeoneers, v1.2.0 has been released on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [the App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! That's right, after almost eight years of development, [Shattered Pixel Dungeon is available for purchase on Steam!](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
 </div>
 
 You can also discuss this update on the [Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/tkxepu/), or on the [Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3185740658290111701).
@@ -104,10 +104,10 @@ v1.3.0 will also include a variety of miscellaneous adjustments. This will inclu
 Finally, I also hope to make some behind the scenes technical improvements to the way the game handles loading and storing floors of the dungeon. I plan to use this functionality in the near future to give quests their own sub-levels!
 </div>
 
-I managed to get v1.2.0 out in about 3 months (down from the 4 v1.1.0 took), and I'd like to continue that trend with v1.3.0. Ideally I'll be sharing more info on v1.3.0 sometime around the end of April or beginning of May. If you want faster updates about what I'm working on, [![](/assets/images/twitter-icon.png){: .rounded .text-inline} follow me on Twitter!](https://www.twitter.com/ShatteredPixel) The micro-blog format of that website makes it perfect for giving quick project updates.
+I managed to get v1.2.0 out in about 3 months (down from the 4 v1.1.0 took), and I'd like to continue that trend with v1.3.0. Ideally I'll be sharing more info on v1.3.0 sometime around the end of April or beginning of May. If you want faster updates about what I'm working on, [![](/assets/images/icons/twitter.png){: .rounded .text-inline} follow me on Twitter!](https://www.twitter.com/ShatteredPixel) The micro-blog format of that website makes it perfect for giving quick project updates.
 
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider buying the game on Steam, [or supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider buying the game on Steam, [or supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and Content Polls.
 </div>

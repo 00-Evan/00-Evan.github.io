@@ -75,7 +75,7 @@ Not all talents follow the same theme though, there are some more varied ones as
 
 Historically v0.X.0 updates take a long time. v0.7.0 and v0.8.0 both took around six months, as I was implementing huge gameplay changes all in one big update. [I'm changing my design strategy though](/blog/coming-soon-to-shattered-better-bosses.html#changes-to-development-philosophy), and so am releasing the new talent system one tier at a time. This does mean v0.9.0 isn't as massive as v0.7.0 or v0.8.0, but it also means it gets released much faster!
 
-[![](/assets/images/SHPD-icon.png){: .align-left}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) So with that in mind, v0.9.0 is going to beta ... right now! And I plan to release to everyone at the end of September! [If you're a Google Play user, you can opt into betas here](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon). [You can also get the latest release of the game (including betas), on the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)
+[![](/assets/images/icons/SHPD.png){: .align-left .rounded}](https://github.com/00-Evan/shattered-pixel-dungeon/releases/) So with that in mind, v0.9.0 is going to beta ... right now! And I plan to release to everyone at the end of September! [If you're a Google Play user, you can opt into betas here](https://play.google.com/apps/testing/com.shatteredpixel.shatteredpixeldungeon). [You can also get the latest release of the game (including betas), on the game's Github page here.](https://github.com/00-Evan/shattered-pixel-dungeon/releases/)
 
 ## Anything Else?
 
@@ -95,7 +95,7 @@ Finally, though only the first tier of talents is coming in v0.9.0, I'm already 
 
 ---
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel) If you like this update, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon](https://www.patreon.com/ShatteredPixel)! Patrons get weekly mini-blogs, and can vote in polls about content direction. Patrons have known about hero talents for about the last two months, and are the reason the new challenge is focusing on enemy variety! Over the next few months they'll be the first to hear about how I'm expanding on the talent system.
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you like this update, please consider making a supporter purchase on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), or supporting me on [Patreon](https://www.patreon.com/ShatteredPixel)! Patrons get weekly mini-blogs, and can vote in polls about content direction. Patrons have known about hero talents for about the last two months, and are the reason the new challenge is focusing on enemy variety! Over the next few months they'll be the first to hear about how I'm expanding on the talent system.
 
 ---
 

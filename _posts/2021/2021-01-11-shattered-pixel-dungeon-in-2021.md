@@ -26,7 +26,7 @@ Despite 2020 being much rockier than anyone could have expected, Shattered still
 - I'm in the middle of implementing that <u>New Gameplay System</u>, have implemented the environment half of <u>Environment and Quest Improvements</u>, and made several <u>Item Improvements</u> (though few improvements to alchemy specifically).
 - I also made smaller scale improvements towards four other goals: <u>Alternate Boss Behaviors</u>, <u>Challenge Improvements</u>, <u>Badge Improvements</u>, and <u>Improved New Player Experience</u>.
 
-[![](/assets/images/patreon-icon.png){: .align-left}](https://www.patreon.com/ShatteredPixel)There were also some <u>Monetization Improvements</u> in 2020! In-game supporter purchases got some UI improvements, and a lot has been going on [over at my Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, help determine content direction through community polls, and can ask questions in monthly Q&A livestreams!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel)There were also some <u>Monetization Improvements</u> in 2020! In-game supporter purchases got some UI improvements, and a lot has been going on [over at my Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, help determine content direction through community polls, and can ask questions in monthly Q&A livestreams!
 
 ## Looking Forward to 2021
 

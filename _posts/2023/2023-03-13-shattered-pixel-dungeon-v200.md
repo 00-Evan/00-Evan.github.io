@@ -11,10 +11,10 @@ tags: ["SHPD_INGAME", "SHPD_ICON_v464: ICON: CHANGES"]
 ---
 
 <div markdown="1" class="img-text">
-![](/assets/images/SHPD-icon-2021.png){: .align-left .rounded} Hey Dungeoneers, v2.0.0 has been released! You can get it on: on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), the [App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! The game is also currently on sale on Steam in celebration of such a large update!
+![](/assets/images/icons/SHPD.png){: .align-left .rounded} Hey Dungeoneers, v2.0.0 has been released! You can get it on: on [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), the [App Store](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109), [Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/), and [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)! The game is also currently on sale on Steam in celebration of such a large update!
 </div>
 
-You can discuss this blog post on the [![](/assets/images/reddit-icon.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/11qf1sd/shattered_pixel_dungeon_v200/), or on the [![](/assets/images/steam-icon.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3785877496070237054)!
+You can discuss this blog post on the [![](/assets/images/icons/reddit.png){: .rounded .text-inline} Pixel Dungeon Subreddit](https://www.reddit.com/r/PixelDungeon/comments/11qf1sd/shattered_pixel_dungeon_v200/), or on the [![](/assets/images/icons/steam.png){: .rounded .text-inline} Steam Community Forums](https://steamcommunity.com/app/1769170/eventcomments/3785877496070237054)!
 
 ## The Duelist! (and more fixes!)
 
@@ -64,10 +64,10 @@ Here's a condensed runthrough of the major changes this update. You can check ou
 
 I don't yet have a specific timeline for v2.1.0, but I think it's a safe bet that you'll hear from me about it sometime in late April or May. Please keep in mind that while I always try to keep to the ETAs I provide, they are just estimates. If you don't hear from me by the ETA, it means I'm still busy with the update!
 
-In the meantime you can follow me on [![](/assets/images/mastodon-icon.png){: .rounded .text-inline} Mastodon](https://mastodon.gamedev.place/@ShatteredPixel) or [![](/assets/images/twitter-icon.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) if you'd like more frequent updates.
+In the meantime you can follow me on [![](/assets/images/icons/mastodon.png){: .rounded .text-inline} Mastodon](https://mastodon.gamedev.place/@ShatteredPixel) or [![](/assets/images/icons/twitter.png){: .rounded .text-inline} Twitter](https://www.twitter.com/ShatteredPixel) if you'd like more frequent updates.
 
 ---
 
 <div markdown="1" style="display: inline-block;">
-[![](/assets/images/patreon-icon-2021.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
+[![](/assets/images/icons/patreon.png){: .align-left .rounded}](https://www.patreon.com/ShatteredPixel) If you enjoy Shattered and want to help me keep making it, please consider [supporting me on Patreon!](https://www.patreon.com/ShatteredPixel) Patrons get access to exclusive weekly mini blogs about upcoming updates, monthly Q&As and content polls, physical loyalty rewards, and early alpha access to updates!
 </div>
