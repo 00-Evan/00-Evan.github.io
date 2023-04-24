@@ -9,12 +9,8 @@ header:
 
 ---
 
-<div markdown="1" class="align-center" style="display: table">
-[![](/assets/images/badges/gplay.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
-[![](/assets/images/badges/appstore.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109)
-[![](/assets/images/badges/steam.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
-[![](/assets/images/badges/github.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
-</div>
+
+| [![Get it on Google Play](/assets/images/badges/gplay.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) | [![Download on the App Store](/assets/images/badges/appstore.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109) | [![Steam](/assets/images/badges/steam.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [![GOG.com](/assets/images/badges/gog.png)](https://www.gog.com/en/game/shattered_pixel_dungeon) | [![Itch.io](/assets/images/badges/itch.png)](https://shattered-pixel.itch.io/shattered-pixel-dungeon) | [![Github](/assets/images/badges/github.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases) |
 
 Shattered Pixel Dungeon is a traditional roguelike dungeon crawler RPG that's simple to get into but hard to master! Every game is a unique challenge, with five different heroes, randomized levels and enemies, and hundreds of items to collect and use. ShatteredPD is also updated once every two or three months, so there's always something new.
 
