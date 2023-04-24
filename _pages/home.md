@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2023/2023-04-24/header.png
+    title: "ShatteredPD is now available on GOG and Itch!"
+    excerpt: "Hey Dungeoneers, As of today, there are two more options for getting Shattered Pixel Dungeon on computers!"
+    url: "/blog/shatteredpd-is-now-available-on-gog-and-itch.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2023/2023-03-13/header.png
     title: "Shattered Pixel Dungeon v2.0.0!"
     excerpt: "v2.0.0 includes Shattered's first ever new playable character! The Duelist is a melee weapons specialist who has a unique ability for every weapon in the game. She has 2 subclasses, 3 armor abilities, and 26 talents!"
     url: "/blog/shattered-pixel-dungeon-v200.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2023/2023-02-09/header.jpg
-    title: "Coming Soon: The Duelist!"
-    excerpt: "Hey Dungeoneers, v2.0 is finally ready for beta! In this blog post I'm going to share some more details Shattered's first new hero!"
-    url: "/blog/coming-soon-to-shattered-the-duelist.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2023/2023-01-11/header.png
