@@ -25,7 +25,7 @@ As of today, there are two more options for getting Shattered Pixel Dungeon on c
 [Meanwhile, on Itch.io Shattered is a bit more like how it is on Github.](https://shattered-pixel.itch.io/shattered-pixel-dungeon) Users are politely encouraged to purchase Shattered for $10, but it is available on Itch for free as well. If you choose to pay you'll get access to a separate download that includes the same bonuses that are on Steam and GOG.
 </div>
 
-Shattered Pixel Dungeon's soundtrack is also available on [Itch](https://shattered-pixel.itch.io/shattered-pixel-dungeon-soundtrack) for the same price as it is on [Steam](https://store.steampowered.com/app/1939650/Shattered_Pixel_Dungeon_Soundtrack/)! It should become available on GOG soon as well.
+Shattered Pixel Dungeon's soundtrack is also available on [GOG](https://www.gog.com/en/game/shattered_pixel_dungeon_soundtrack) and [Itch](https://shattered-pixel.itch.io/shattered-pixel-dungeon-soundtrack) for the same price as it is on [Steam](https://store.steampowered.com/app/1939650/Shattered_Pixel_Dungeon_Soundtrack/)!
 
 As a final note, I have chosen not to make the JAR version of Shattered available outside of Github, as it is for more advanced users who want (or need) to install Java separately. I will continue to update the JAR distribution on Github though.
 
