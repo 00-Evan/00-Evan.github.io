@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2023/2023-06-02/header.png
+    title: "Shattered Pixel Dungeon v2.1.0!"
+    excerpt: "v2.1.0 includes a bunch of Duelist balance changes, three new weapons, two new exotic enemies, and a bunch of big and small tweaks and bugfixes."
+    url: "/blog/shattered-pixel-dungeon-v210.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2023/2023-05-22/header.png
     title: "Coming Soon: Duelist Buffs and Additions!"
     excerpt: "Hey Dungeoneers, it's time for another beta release! In this blog post I'm going to go over the bulk of the changes coming in v2.1.0, including a bit of new content and a bunch of Duelist balance!"
     url: "/blog/coming-soon-to-shattered-duelist-buffs-and-additions.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2023/2023-04-24/header.png
-    title: "ShatteredPD is now available on GOG and Itch!"
-    excerpt: "Hey Dungeoneers, As of today, there are two more options for getting Shattered Pixel Dungeon on computers!"
-    url: "/blog/shatteredpd-is-now-available-on-gog-and-itch.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2023/2023-01-11/header.png
