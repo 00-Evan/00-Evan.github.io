@@ -8,9 +8,9 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-#123 = runic blade sprite in v1.0.3+
-#99 = rapier blade sprite in v2.0.0+
-tags: ["SHPD_INGAME", "SHPD_ICON_v574: ITEM: 123", "SHPD_ICON_v684: ITEM: 99"]
+#123 = runic blade sprite in v0.9.0+
+#99 = rapier sprite in v2.0.0+
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 123", "SHPD_ICON_v684: ITEM: 99"]
 ---
 
 Hey Dungeoneers, it's time for another beta release!
