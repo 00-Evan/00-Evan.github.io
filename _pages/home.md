@@ -29,7 +29,7 @@ shattered_feature:
   - image_path: /assets/images/SHPD-title.png
     url: "/shatteredpd/"
     title: "Shattered Pixel Dungeon"
-    excerpt: "Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master! Every game is a unique challenge, with four different heroes, randomized levels and enemies, and hundreds of items to collect and use."
+    excerpt: "Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master! Every game is a unique challenge, with five different heroes, randomized levels and enemies, and hundreds of items to collect and use."
     btn_label: "Read More"
     btn_class: "btn--primary"
 archive_feature:
