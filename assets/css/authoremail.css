@@ -1,0 +1,75 @@
+/* This CSS is used to style the newsletter submission forms at author.email's website */
+
+
+body {
+	background-color: #12151a !important;
+}
+
+.content-wrapper {
+	background-color: #12151a !important;
+}
+
+.box {
+	background: #252a34 !important;
+	border-radius: 10px !important;
+	border: 0px !important; 
+	color: #eaeaea !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !important;
+}
+
+h1 {
+	font-size: 1.563em !important;
+	color: #eaeaea !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !important;
+	font-weight: bold;
+}
+
+.btn-primary {
+	background-color: #00c040 !important;
+	color: #fff !important;
+}
+
+.btn-default {
+	background-color: #00c040 !important;
+	color: #fff !important;
+}
+
+.required {
+  color: #00c040 ! important;
+}
+
+input {
+	color: #eaeaea !important;
+  	background-color: #252a34 !important;
+}
+
+select {
+	color: #eaeaea !important;
+  	background-color: #252a34 !important;
+}
+
+select.error {
+	background-color: #252a34 !important;
+    background-position: right !important;
+}
+
+blockquote {
+	border-left: 0.25em solid #00c040 !important;
+	font-size: 14px;
+}
+
+.callout.callout-info {
+	color: #00c040 !important;
+	background-color: #206337 !important;
+	border-color: #00c040 !important;
+}
+
+
+a {
+	color: #8cd9a6 !important;
+}
+
+
+a:visited {
+	color: #69a37d !important;
+}

@@ -121,5 +121,21 @@ table {
   border-radius: 20%;
 }
 
+//css for the newsletter submission feed
+
+select {
+  width: 100%;
+  background-color: #252a34;
+}
+
+.required {
+  color: #00c040;
+}
+
+.form-group {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
 //TODO it seems like the theme does a few odd things at exactly 64 em
 //because of max-width: 64em statements. Perhaps investigate and pull request
