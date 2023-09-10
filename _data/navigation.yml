@@ -3,6 +3,8 @@ main:
     url: /shatteredpd/
   - title: "Blog"
     url: /blog/
+  - title: "Newsletter"
+    url: /newsletter/
   - title: "About"
     url: /about/
   - title: "Privacy"
