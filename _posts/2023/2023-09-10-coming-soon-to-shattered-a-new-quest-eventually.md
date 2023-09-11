@@ -34,7 +34,7 @@ There is still work to do though. Gold tends to cluster a bit too much currently
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/quest-types.png){: .align-center .rounded-large}
 
-While I'd like to keep the specifics a bit close to my chest for now, I've pretty solidly worked out three variants for the quest. Each variant will come with its own hazards, enemies, and boss encounter. You'll be tasked with mining though a cave filled with **ancient and fragile crystals**, **thick vegetation and aggressive fungi**, or **cave-ins and magic-wielding gnolls**.
+While I'd like to keep the specifics a bit close to my chest for now, I've pretty solidly worked out three variants for the quest. Each variant will come with its own hazards, enemies, and boss encounter. You'll be tasked with mining through a cave filled with **ancient and fragile crystals**, **thick vegetation and aggressive fungi**, or **cave-ins and magic-wielding gnolls**.
 
 I'll talk more about the new quest in another blog post, once it's closer to releasing. I'm afraid I'm not totally sure when that will be just yet.
 

@@ -19,7 +19,7 @@ By subscribing to the Shattered Pixel Newsletter, you'll get updates about my pr
             Enter the email address you'd like to receive the newsletter at.<br></div>
     </div>
 <div class="form-group field-dropdown wrap-send_frequency" style="display: block">
-    <label for="SEND_FREQUENCY" class="required">Email Frequency <span class="required">*</span></label>    <select class="input form-control field-send_frequency field-type-dropdown" placeholder="Email Frequency" name="SEND_FREQUENCY" id="SEND_FREQUENCY" required><option value="">Please select an option.</option><option value="HIGH">~1 email/week. Blost posts and smaller progress updates.</option><option value="MEDIUM">~1 email/month. Only blog posts on ShatteredPixel.com.</option></select><div class="field-description">
+    <label for="SEND_FREQUENCY" class="required">Email Frequency <span class="required">*</span></label>    <select class="input form-control field-send_frequency field-type-dropdown" placeholder="Email Frequency" name="SEND_FREQUENCY" id="SEND_FREQUENCY" required><option value="">Please select an option.</option><option value="HIGH">~1 email/week. Blog posts and smaller progress updates.</option><option value="MEDIUM">~1 email/month. Only blog posts on ShatteredPixel.com.</option></select><div class="field-description">
             How often would you like to receive newsletter emails on average?<br></div>
     </div>
 
