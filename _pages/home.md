@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2023/2023-10-11/header.png
+    title: "Coming Soon: The Crystal Caves Quest!"
+    excerpt: "I have decided to split the release of the new caves quest into two updates. v2.2.0 is now going to include just one variant for the new quest: The crystal caves."
+    url: "/blog/coming-soon-to-shattered-the-crystal-caves-quest.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2023/2023-09-10/header.png
     title: "Coming Soon: A New Quest! …Eventually "
     excerpt: "I've got some news to share about v2.2.0. The new caves quest isn't ready to show off yet, so in the meantime I am releasing the other content in v2.2.0 as an early beta!"
     url: "/blog/coming-soon-to-shattered-a-new-quest-eventually.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2023/2023-06-29/header.png
-    title: "Coming Soon: Sub-Floors and Digging!"
-    excerpt: "In this blog post I'm going to go over some of the new technical additions to Shattered in v2.1.3, and how they're going to allow for future content."
-    url: "/blog/coming-soon-to-shattered-subfloors-and-digging.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2023/2023-01-11/header.png
