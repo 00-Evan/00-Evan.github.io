@@ -9,7 +9,8 @@ header:
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
 #452 = pickaxe sprite in v0.9.0+
-tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 452"]
+#468 = pickaxe sprite in v2.3.0+
+tags: ["SHPD_INGAME", "SHPD_ICON_v464: ITEM: 452", "SHPD_ICON_v756: ITEM: 468"]
 ---
 
 Hey Dungeoneers!

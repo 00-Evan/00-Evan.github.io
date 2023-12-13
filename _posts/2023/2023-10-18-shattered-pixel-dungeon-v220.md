@@ -29,7 +29,7 @@ I talked about this update in three previous blog posts:
 - [Coming Soon to Shattered: A New Quest! …Eventually](/blog/coming-soon-to-shattered-a-new-quest-eventually.html)
 - [Coming Soon to Shattered: Sub-Floors and Digging!](/blog/coming-soon-to-shattered-subfloors-and-digging.html)
 
-Here’s a condensed runthrough of the major changes this update. You can check out the changes screen in-game for a fully detailed list.
+Here's a condensed runthrough of the major changes this update. You can check out the changes screen in-game for a fully detailed list.
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/new.png){: .align-center}
 - v2.2.0 releases 138 days after v2.1.0.
