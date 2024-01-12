@@ -7,6 +7,12 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: /assets/images/2024/2024-01-12/header.png
+    title: "Shattered Pixel Dungeon in 2024"
+    excerpt: "This post starts with a year in review, and then lists the major changes and additions that I have planned for Shattered Pixel Dungeon in 2024 and beyond."
+    url: "/blog/shattered-pixel-dungeon-in-2024.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2023/2023-12-13/header.png
     title: "Coming Soon: The Gnoll Caves Quest! "
     excerpt: "The second variant of the new caves quest is now ready for beta! In this post I’m going to go over what this new quest area entails, and also share some other content coming in v2.3.0."
@@ -17,12 +23,6 @@ blog_feature:
     title: "Shattered Pixel Dungeon v2.2.0!"
     excerpt: "v2.2.0 includes a brand new quest in the caves, almost 20 minutes of new music, and substantial improvements to the prison and sewers quests! there's also the usual bunch of big and small tweaks and bugfixes."
     url: "/blog/shattered-pixel-dungeon-v220.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/2023/2023-01-11/header.png
-    title: "Shattered Pixel Dungeon in 2023"
-    excerpt: "Just as with previous years, I'm writing a blog post at the start of 2023 to summarize my longer-term plans for Shattered Pixel Dungeon!"
-    url: "/blog/shattered-pixel-dungeon-in-2023.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 shattered_feature:
