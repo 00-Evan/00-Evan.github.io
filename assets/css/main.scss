@@ -121,6 +121,12 @@ table {
   border-radius: 20%;
 }
 
+//blockquotes in update changelogs. Smaller margin an no italics
+details blockquote {
+  margin: 1em 0 1em 0;
+  font-style: inherit;
+}
+
 //css for the newsletter submission feed
 
 select {
