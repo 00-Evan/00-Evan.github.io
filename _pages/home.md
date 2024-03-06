@@ -7,6 +7,12 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/update-header.png
+    title: "Status Update: v2.4.0"
+    excerpt: "Hey Rat Punchers, You may remember that when v2.3.0 released I gave a rough ETA of 'early to mid March' when it came to hearing back from me on v2.4.0. Well, early March is here, so where are we at?"
+    url: "/blog/status-update-v240.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-01-18/header.png
     title: "Shattered Pixel Dungeon v2.3.0!"
     excerpt: "v2.3.0 includes a second gnoll-themed variant for the new caves quest! There are also some smaller item additions, visual improvements to floating text, and the usual slew of small tweaks and bugfixes."
@@ -17,12 +23,6 @@ blog_feature:
     title: "Shattered Pixel Dungeon in 2024"
     excerpt: "This post starts with a year in review, and then lists the major changes and additions that I have planned for Shattered Pixel Dungeon in 2024 and beyond."
     url: "/blog/shattered-pixel-dungeon-in-2024.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2023/2023-12-13/header.png
-    title: "Coming Soon: The Gnoll Caves Quest! "
-    excerpt: "The second variant of the new caves quest is now ready for beta! In this post I’m going to go over what this new quest area entails, and also share some other content coming in v2.3.0."
-    url: "/blog/coming-soon-to-shattered-the-gnoll-caves-quest.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 shattered_feature:
