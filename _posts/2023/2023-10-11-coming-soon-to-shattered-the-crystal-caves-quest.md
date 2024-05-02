@@ -9,7 +9,8 @@ header:
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
 #429 = alchemize sprite in v1.1.2+
-tags: ["SHPD_INGAME", "SHPD_ICON_v588: ITEM: 429"]
+#423 = alchemize sprite in v2.4.0+
+tags: ["SHPD_INGAME", "SHPD_ICON_v588: ITEM: 429", "SHPD_ICON_v769: ITEM: 423"]
 ---
 
 Hey Dungeoneers!
