@@ -10,7 +10,7 @@ blog_feature:
   - image_path: assets/images/2024/2024-07-25/header.png
     title: "Coming Soon: A Journal Overhaul! "
     excerpt: "Hey Adventurers! Unfortunately, I'm going to miss my earlier estimate of a beta during July. In the meantime though, let’s go over some of the new stuff that's coming soon!"
-    url: "/blog/coming-soon-to-shattered-trinkets.html"
+    url: "/blog/coming-soon-to-shattered-a-journal-overhaul.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-05-15/header.png
