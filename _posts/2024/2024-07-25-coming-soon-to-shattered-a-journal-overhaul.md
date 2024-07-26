@@ -46,7 +46,7 @@ But why stop there? An in-game bestiary has been another common request, and so 
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/new-catalog-2.png){: .align-center}
 
-In total there are now just shy of **500** things in the catalog for players to discover! To go along with all these new things, I've also redesigned the badges that tie into the catalogs. There are 9 badges in total, 5 which are based on reaching certain thresholds of filled catalog entries, and 4 which are based on more specific criteria. The catalogs now also track a few statistics, such as how often an enemies has been killed, how often a consumable has been used, and how often and equipment item has been upgraded.
+In total there are now just shy of **500** things in the catalog for players to discover! To go along with all these new things, I've also redesigned the badges that tie into the catalogs. There are 9 badges in total, 5 which are based on reaching certain thresholds of filled catalog entries, and 4 which are based on more specific criteria. The catalogs now also track a few statistics, such as how often an enemiy has been killed, how often a consumable has been used, and how often and equipment item has been upgraded.
 
 ## Other Journal Changes
 
@@ -73,7 +73,7 @@ Smart scroll of upgrade use is an extremely important part of effective game str
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/upgrade-ui-1.png){: .align-center}
 
-I hope that this will really help improve clarity on upgrading mechanics, especially for less experienced players. The window shows almost every stat in the game that sclaes with upgrades, properly handles cases like identified items, and even shows extra information such as curse or enchant removal chance!
+I hope that this will really help improve clarity on upgrading mechanics, especially for less experienced players. The window shows almost every stat in the game that scales with upgrades, properly handles cases like unidentified items, and even shows extra information such as curse or enchant removal chance!
 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/upgrade-ui-2.png){: .align-center}
 
@@ -83,7 +83,7 @@ If you're an experienced player and worry that this seems cumbersome, you might 
 
 While all of these changes don't directly affect gameplay, almost all of them are very long-standing things I've wanted to get done. While v2.5.0 isn't addressing every UI/UX 'to-do' (in particular I still want to improve controller support) it's definitely shrinking that list quite a bit. While it's meant the update is coming a little later, this is a lot better than my original plan of just doing one or two things.
 
-As I mentioned at the start of this post, I'm now expecting v2.5.0 to hit beta around early to mid August. <u>Please keep in mind that while I always try to keep to the ETAs I provide, they are just estimates. If you don't hear from me by the ETA, it means I'm still busy with the update!</u>
+As I mentioned at the start of this post, I'm now expecting v2.5.0 to hit beta around mid August. <u>Please keep in mind that while I always try to keep to the ETAs I provide, they are just estimates. If you don't hear from me by the ETA, it means I'm still busy with the update!</u>
 
 In the meantime you can subscribe to the [![](/assets/images/icons/avatar.png){: .rounded .text-inline} Shattered Pixel Newsletter](https://shatteredpixel.com/newsletter/), or follow me on [![](/assets/images/icons/mastodon.png){: .rounded .text-inline} Mastodon](https://mastodon.gamedev.place/@ShatteredPixel) if you'd like more frequent incremental updates.
 
