@@ -7,16 +7,16 @@ header:
   width: 1260px
 
 blog_feature:
+  - image_path: assets/images/2024/2024-08-26/header.jpg
+    title: "Coming Soon: New Trinkets and Splash Art! "
+    excerpt: "Hey everyone, after a bit longer of a wait that I initially planned, Shattered Pixel Dungeon v2.5.0 is now ready for beta! In this post I'm going to share some more of the new things coming in this update!"
+    url: "/blog/coming-soon-to-shattered-new-trinkets-and-splash-art.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-08-05/header.png
     title: "Ten Years of Shattered Pixel Dungeon!"
     excerpt: "On this day, 10 years ago, I released Shattered Pixel Dungeon v0.1.0. Join me for a quick walk down memory lane, and for a preview of something very exciting that's yet to come..."
     url: "/blog/ten-years-of-shattered-pixel-dungeon.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2024/2024-07-25/header.png
-    title: "Coming Soon: A Journal Overhaul! "
-    excerpt: "Hey Adventurers! Unfortunately, I'm going to miss my earlier estimate of a beta during July. In the meantime though, let’s go over some of the new stuff that's coming soon!"
-    url: "/blog/coming-soon-to-shattered-a-journal-overhaul.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2024/2024-01-12/header.png
