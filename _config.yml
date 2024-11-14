@@ -42,7 +42,7 @@ logo: /assets/images/masthead.png
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -64,14 +64,17 @@ author:
   avatar      : "/assets/images/avatar.png"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-at"
       url: "mailto:evan@ShatteredPixel.com"
     - label: "Newsletter"
-      icon: "fas fa-fw fa-paper-plane"
+      icon: "fas fa-fw fa-newspaper"
       url: "/newsletter/"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.gamedev.place/@ShatteredPixel"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/shatteredpixel.com"
     - label: "Lemmy"
       icon: "fas fa-fw fa-comments"
       url: "https://lemmy.world/u/00_Evan"
@@ -82,14 +85,17 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-at"
       url: "mailto:evan@ShatteredPixel.com"
     - label: "Newsletter"
-      icon: "fas fa-fw fa-paper-plane"
+      icon: "fas fa-fw fa-newspaper"
       url: "/newsletter/"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.gamedev.place/@ShatteredPixel"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/shatteredpixel.com"
     - label: "Lemmy"
       icon: "fas fa-fw fa-comments"
       url: "https://lemmy.world/u/00_Evan"
