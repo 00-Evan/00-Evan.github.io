@@ -7,10 +7,10 @@ header:
   width: 1260px
 
 blog_feature:
-  - image_path: assets/images/2024/2024-09-11/header.png
-    title: "Shattered Pixel Dungeon v2.5.0!"
-    excerpt: "v2.5.0 includes a total overhaul to the journal, some new trinkets, and tonnes of smaller tweaks and balance changes."
-    url: "/blog/shattered-pixel-dungeon-v250.html"
+  - image_path: assets/images/2024/2024-11-26/header.png
+    title: "Coming Soon: A Sixth Hero!"
+    excerpt: "v3.0.0 will feature the game's second new hero: The Cleric! This blog will go over some of my design thoughts and early implementation work on this new hero."
+    url: "/blog/coming-soon-to-shattered-a-sixth-hero.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-08-05/header.png
