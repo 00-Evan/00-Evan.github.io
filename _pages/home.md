@@ -7,10 +7,10 @@ header:
   width: 1260px
 
 blog_feature:
-  - image_path: assets/images/2024/2024-11-26/header.png
-    title: "Coming Soon: A Sixth Hero!"
-    excerpt: "v3.0.0 will feature the game's second new hero: The Cleric! This blog will go over some of my design thoughts and early implementation work on this new hero."
-    url: "/blog/coming-soon-to-shattered-a-sixth-hero.html"
+  - image_path: assets/images/2024/2024-12-19/header.jpg
+    title: "Coming Soon: The Cleric!"
+    excerpt: "Hey Dungeoneers, v3.0.0 and the Cleric are finally ready for beta! In this blog post I'm going to share more details about the Cleric! Just as with the Duelist, I'm releasing the Cleric's beta a little early."
+    url: "/blog/coming-soon-to-shattered-the-cleric.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-08-05/header.png
