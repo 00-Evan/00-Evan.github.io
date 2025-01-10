@@ -14,6 +14,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: /assets/images/2025/2025-01-10/header.png
+    title: "Shattered Pixel Dungeon in 2025"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> January 10, 2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 6 minute read</span>
+    </span><br>Hey Rat Punchers, happy new year once again! After a bit of a holiday break, I'm back to work on Shattered Pixel Dungeon, which includes laying out some plans for the coming year!"
+    url: "/blog/shattered-pixel-dungeon-in-2025.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-12-19/header.jpg
     title: "Coming Soon: The Cleric!"
     date: "December 19, 2024"
