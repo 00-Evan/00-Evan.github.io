@@ -1,48 +1,73 @@
 ---
+title: " "
 layout: splash
 permalink: /
 
 header:
-  image: /assets/images/header.png
-  width: 1260px
+  overlay_color: "#000"
+  overlay_filter: "0.67"
+  overlay_image: /assets/images/hero-image.gif
+  overlay_nearest: true
+  actions:
+    - label: "<i class='fa-solid fa-dungeon'></i> Shattered Pixel Dungeon"
+      url: "/shatteredpd/"
+excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
   - image_path: assets/images/2024/2024-12-19/header.jpg
     title: "Coming Soon: The Cleric!"
-    excerpt: "Hey Dungeoneers, v3.0.0 and the Cleric are finally ready for beta! In this blog post I'm going to share more details about the Cleric! Just as with the Duelist, I'm releasing the Cleric's beta a little early."
+    date: "December 19, 2024"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> December 19, 2024</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
+    </span><br>
+      Hey Dungeoneers, v3.0.0 and the Cleric are finally ready for beta! In this blog post I'm going to share more details about the Cleric! Just as with the Duelist, I'm releasing the Cleric's beta a little early."
     url: "/blog/coming-soon-to-shattered-the-cleric.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/2024/2024-11-26/header.png
+    title: "Coming Soon: A Sixth Hero!"
+    date: "December 19, 2024"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> November 26, 2024</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
+    </span><br>
+      Hey Dungeoneers! Progress has been made on the next major update to Shattered Pixel Dungeon, and it’s finally time for me to start showing some things off!"
+    url: "/blog/coming-soon-to-shattered-a-sixth-hero.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/2024/2024-09-11/header.png
+    title: "Shattered Pixel Dungeon v2.5.0!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> September 11, 2024</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 13 minute read</span>
+    </span><br>Hey Dungeoneers, Shattered v2.5.0 has been released! v2.5.0 includes a total overhaul to the journal, some new trinkets, and tonnes of smaller tweaks and balance changes."
+    url: "/blog/shattered-pixel-dungeon-v250.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-08-05/header.png
     title: "Ten Years of Shattered Pixel Dungeon!"
-    excerpt: "On this day, 10 years ago, I released Shattered Pixel Dungeon v0.1.0. Join me for a quick walk down memory lane, and for a preview of something very exciting that's yet to come..."
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> August 5, 2024</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 8 minute read</span>
+    </span><br>On this day, 10 years ago, I released Shattered Pixel Dungeon v0.1.0. Join me for a quick walk down memory lane, and for a preview of something very exciting that's yet to come..."
     url: "/blog/ten-years-of-shattered-pixel-dungeon.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/2024/2024-01-12/header.png
-    title: "Shattered Pixel Dungeon in 2024"
-    excerpt: "This post starts with a year in review, and then lists the major changes and additions that I have planned for Shattered Pixel Dungeon in 2024 and beyond."
-    url: "/blog/shattered-pixel-dungeon-in-2024.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-shattered_feature:
-  - image_path: /assets/images/SHPD-title.png
-    url: "/shatteredpd/"
-    title: "Shattered Pixel Dungeon"
-    excerpt: "Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master! Every game is a unique challenge, with five different heroes, randomized levels and enemies, and hundreds of items to collect and use."
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-archive_feature:
-  - image_path: /assets/images/blog-icon.png
-    url: "/blog/"
+  - image_path: /assets/images/blog-header.png
     title: "Blog Archive"
-    excerpt: "Read previous Shattered Pixel blog posts including announcements, design overviews, and teasers! The blog includes a full history of my dev work since I started Shattered Pixel Dungeon in 2014."
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> 2014-2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 120 blog posts</span>
+    </span><br>Read previous Shattered Pixel blog posts including announcements, design overviews, and teasers! The blog includes a full history of my dev work since I started Shattered Pixel Dungeon in 2014."
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="blog_feature" %}
-
-{% include feature_row id="shattered_feature" type="left" %}
-
-{% include feature_row id="archive_feature" type="left" %}
