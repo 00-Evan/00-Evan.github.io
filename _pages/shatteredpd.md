@@ -5,6 +5,7 @@ permalink: /shatteredpd/
 
 header:
   image: /assets/images/SHPD-Desc/title.gif
+  render_mode: pixelated
   width: 1232px
 
 ---

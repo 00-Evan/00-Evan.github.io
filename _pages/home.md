@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.67"
   overlay_image: /assets/images/hero-image.gif
-  overlay_nearest: true
+  render_mode: pixelated
   actions:
     - label: "<i class='fa-solid fa-dungeon'></i> Shattered Pixel Dungeon"
       url: "/shatteredpd/"

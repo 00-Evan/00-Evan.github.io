@@ -15,7 +15,7 @@
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
-  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %} {% if page.header.width %}max-width: {{ page.header.width }}; margin-left:auto; margin-right:auto;{% endif %} {% if page.header.overlay_nearest %}image-rendering: pixelated;{% endif %}"
+  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %} {% if page.header.width %}max-width: {{ page.header.width }}; margin-left:auto; margin-right:auto;{% endif %} {% if page.header.render_mode %}image-rendering: {{ page.header.render_mode }};{% endif %}"
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
@@ -43,7 +43,7 @@
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image" fetchpriority="high" {% if page.header.render_mode %} style = "image-rendering: {{ page.header.render_mode }};"{% endif %}>
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
