@@ -29,17 +29,6 @@ search: true
 breadcrumbs: true
 logo: /assets/images/masthead.png
 
-# Analytics code, please set a tracking id or remove this if you're forking this repository
-#analytics:
-#  provider: "google-universal"
-#  google:
-#    #tracking_id: <YOUR_ID_HERE>
-#    #these parameters are configured to minimize data collection
-#    anonymize_ip: true
-#    cookie_duration: 0
-#    campaign_cookies: false
-#    ad_features: false
-
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
