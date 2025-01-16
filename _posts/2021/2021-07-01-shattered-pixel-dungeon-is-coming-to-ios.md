@@ -4,7 +4,7 @@ excerpt: "That's right, after being requested since 2015, partly in the works si
 
 header:
   image: /assets/images/2021/2021-07-01/header.png
-  teaser: /assets/images/2021/2021-07-01/header.png
+  teaser: /assets/images/2021/2021-07-01/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed

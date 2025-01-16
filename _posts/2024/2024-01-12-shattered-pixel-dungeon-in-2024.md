@@ -4,7 +4,7 @@ excerpt: "Happy New Year rat punchers! I'm back with some news about v2.3.0 and 
 
 header:
   image: /assets/images/2024/2024-01-12/header.png
-  teaser: /assets/images/2024/2024-01-12/header.png
+  teaser: /assets/images/2024/2024-01-12/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed

@@ -4,7 +4,7 @@ excerpt: "Hey Dungeoneers, v2.0 is finally ready for beta! In this blog post I'm
 
 header:
   image: /assets/images/2023/2023-02-09/header.jpg
-  teaser: /assets/images/2023/2023-02-09/header.jpg
+  teaser: /assets/images/2023/2023-02-09/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed

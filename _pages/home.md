@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.67"
-  overlay_image: /assets/images/hero-image.gif
+  overlay_image: /assets/images/hero-image.webp
   render_mode: pixelated
   actions:
     - label: "<i class='fa-solid fa-dungeon'></i> Shattered Pixel Dungeon"
@@ -14,7 +14,7 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
-  - image_path: /assets/images/2025/2025-01-10/header.png
+  - image_path: /assets/images/2025/2025-01-10/header-small.jpg
     title: "Shattered Pixel Dungeon in 2025"
     excerpt: "<span class='page__meta'>
     <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> January 10, 2025</span>
@@ -24,7 +24,7 @@ blog_feature:
     url: "/blog/shattered-pixel-dungeon-in-2025.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/2024/2024-12-19/header.jpg
+  - image_path: assets/images/2024/2024-12-19/header-small.jpg
     title: "Coming Soon: The Cleric!"
     date: "December 19, 2024"
     excerpt: "<span class='page__meta'>
@@ -58,7 +58,7 @@ blog_feature:
     url: "/blog/shattered-pixel-dungeon-v250.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/2024/2024-08-05/header.png
+  - image_path: assets/images/2024/2024-08-05/header-small.jpg
     title: "Ten Years of Shattered Pixel Dungeon!"
     excerpt: "<span class='page__meta'>
     <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> August 5, 2024</span>

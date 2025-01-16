@@ -4,7 +4,7 @@ excerpt: "Hey Dungeoneers, long time no see! Over the last four months I’ve be
 
 header:
   image: /assets/images/2020/2020-04-08/header.png
-  teaser: /assets/images/2020/2020-04-08/header.png
+  teaser: /assets/images/2020/2020-04-08/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed

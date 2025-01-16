@@ -3,7 +3,7 @@ title: "Coming Soon to Shattered: New Trinkets and Splash Art!"
 excerpt: "Hey everyone, after a bit longer of a wait that I initially planned, Shattered Pixel Dungeon v2.5.0 is now ready for beta! In this post I'm going to share some more of the new things coming in this update!"
 header:
   image: /assets/images/2024/2024-08-26/header.jpg
-  teaser: /assets/images/2024/2024-08-26/header.jpg
+  teaser: /assets/images/2024/2024-08-26/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon for display in its news feed

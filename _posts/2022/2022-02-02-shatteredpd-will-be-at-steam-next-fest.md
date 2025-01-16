@@ -4,7 +4,7 @@ excerpt: "Hey Dungeoneers, I've got some news to share on the Steam release! Dev
 
 header:
   image: /assets/images/2022/2022-02-02/header.png
-  teaser: /assets/images/2022/2022-02-02/header.png
+  teaser: /assets/images/2022/2022-02-02/header-small.jpg
   width: 1260px
 
 gallery:

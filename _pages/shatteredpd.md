@@ -4,14 +4,14 @@ layout: splash
 permalink: /shatteredpd/
 
 header:
-  image: /assets/images/SHPD-Desc/title.gif
+  image: /assets/images/SHPD-Desc/title.webp
   render_mode: pixelated
   width: 1232px
 
 ---
 
 
-| [![Get it on Google Play](/assets/images/badges/gplay.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) | [![Download on the App Store](/assets/images/badges/appstore.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109) | [![Steam](/assets/images/badges/steam.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [![GOG.com](/assets/images/badges/gog.png)](https://www.gog.com/game/shattered_pixel_dungeon) | [![Itch.io](/assets/images/badges/itch.png)](https://shattered-pixel.itch.io/shattered-pixel-dungeon) | [![Github](/assets/images/badges/github.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases) |
+| [![Get it on Google Play](/assets/images/badges/gplay.png){: fetchpriority="high"}](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) | [![Download on the App Store](/assets/images/badges/appstore.png){: fetchpriority="high"}](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109) | [![Steam](/assets/images/badges/steam.png){: fetchpriority="high"}](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [![GOG.com](/assets/images/badges/gog.png){: fetchpriority="high"}](https://www.gog.com/game/shattered_pixel_dungeon) | [![Itch.io](/assets/images/badges/itch.png){: fetchpriority="high"}](https://shattered-pixel.itch.io/shattered-pixel-dungeon) | [![Github](/assets/images/badges/github.png){: fetchpriority="high"}](https://github.com/00-Evan/shattered-pixel-dungeon/releases) |
 
 Shattered Pixel Dungeon is a traditional roguelike dungeon crawler RPG that's simple to get into but hard to master! Every game is a unique challenge, with five different heroes, randomized levels and enemies, and hundreds of items to collect and use. ShatteredPD is also updated once every two or three months, so there's always something new.
 
@@ -21,7 +21,7 @@ Each of ShatteredPD's five playable heroes has their own unique mechanics and ga
 As you progress through the dungeon you'll earn points to spend on talents, choose a subclass, and gain powerful lategame abilities. You can turn the Duelist into a dual-wielding Champion, the Mage into a soul-sucking Warlock, the Huntress into a tanky Warden, or explore loads of other possibilities!
 
 ![](/assets/images/SHPD-Desc/explore-dungeon.png){: .align-center}
-![](/assets/images/SHPD-Desc/levelgen.gif){: .align-center .rounded-large}
+![](/assets/images/SHPD-Desc/levelgen.webp){: .align-center .rounded-large loading="lazy" fetchpriority="low"}
 ShatteredPD's dungeon is procedurally generated with random layouts, room types, items, traps, and enemies. In each game you'll find equipment and collect or craft consumable items to power you up or help you out in a pinch. There is a huge variety to what you might see from run to run and region to region.
 
 As you progress through the dungeon you'll find equipment that can be enchanted, upgraded, and augmented as you outfit your hero. Set foes ablaze with an enchanted weapon, wade through enemies with upgraded armor, or gain powerful damage, defensive, or utility benefits from one of the many wands, rings, or magical artifacts.

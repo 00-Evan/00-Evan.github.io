@@ -4,7 +4,7 @@ excerpt: "Hey Dungeoneers, v3.0.0 and the Cleric are finally ready for beta! In 
 
 header:
   image: /assets/images/2024/2024-12-19/header.jpg
-  teaser: /assets/images/2024/2024-12-19/header.jpg
+  teaser: /assets/images/2024/2024-12-19/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed

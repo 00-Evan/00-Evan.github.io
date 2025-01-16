@@ -4,7 +4,7 @@ excerpt: "Hey Dungeoneers, I've got some more exciting news, Shattered Pixel Dun
 
 header:
   image: /assets/images/2021/2021-10-15/header.png
-  teaser: /assets/images/2021/2021-10-15/header.png
+  teaser: /assets/images/2021/2021-10-15/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed

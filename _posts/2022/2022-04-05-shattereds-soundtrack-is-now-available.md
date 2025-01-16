@@ -4,7 +4,7 @@ excerpt: "Over the last few updates Shattered’s soundtrack has slowly grown fr
 
 header:
   image: /assets/images/2022/2022-04-05/header.png
-  teaser: /assets/images/2022/2022-04-05/header.png
+  teaser: /assets/images/2022/2022-04-05/header-small.jpg
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
