@@ -4,8 +4,6 @@ layout: splash
 permalink: /
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.67"
   overlay_image: /assets/images/hero-image.webp
   render_mode: pixelated
   actions:
