@@ -43,7 +43,7 @@
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image" fetchpriority="high" {% if page.header.render_mode %} style = "image-rendering: {{ page.header.render_mode }};"{% endif %}>
+    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image" {% if page.header.render_mode %} style = "image-rendering: {{ page.header.render_mode }};"{% endif %}>
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
