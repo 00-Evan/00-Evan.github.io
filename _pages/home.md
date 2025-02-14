@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: /assets/images/update-header.png
+    title: "Status Update: v3.0 Coming Soon!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> February 14, 2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 1 minute read</span>
+    </span><br>Hey everyone, happy Valentines day! Back in December I estimated that v3.0 would be gearing up to release in late January or early February, so it's time for a little update!"
+    url: "/blog/status-update-v30-coming-soon.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2025/2025-01-10/header-small.jpg
     title: "Shattered Pixel Dungeon in 2025"
     excerpt: "<span class='page__meta'>
@@ -44,16 +54,6 @@ blog_feature:
     </span><br>
       Hey Dungeoneers! Progress has been made on the next major update to Shattered Pixel Dungeon, and it’s finally time for me to start showing some things off!"
     url: "/blog/coming-soon-to-shattered-a-sixth-hero.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2024/2024-09-11/header.png
-    title: "Shattered Pixel Dungeon v2.5.0!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> September 11, 2024</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 13 minute read</span>
-    </span><br>Hey Dungeoneers, Shattered v2.5.0 has been released! v2.5.0 includes a total overhaul to the journal, some new trinkets, and tonnes of smaller tweaks and balance changes."
-    url: "/blog/shattered-pixel-dungeon-v250.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-08-05/header-small.jpg

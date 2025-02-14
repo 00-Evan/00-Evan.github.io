@@ -94,7 +94,7 @@ I expect the beta to last a fair bit longer than usual, both due to the work sti
 
 Finally, some of you may be wondering about the in-game visual improvements I shared in the [10th anniversary blog post](/blog/ten-years-of-shattered-pixel-dungeon.html#new-pixel-art). I'm afraid there's nothing new to share there yet, but I might have a couple other visual improvements cooking for v3.0 instead...
 
-![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/title.gif){: .align-center .rounded-large }
+![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/title.webp){: .align-center .rounded-large }
 
 <u>Please keep in mind that while I always try to keep to the ETAs I provide, they are just estimates. If you don't hear from me by the ETA, it means I'm still busy with the update!</u>
 
