@@ -12,6 +12,17 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2025/2025-02-27/header-small.jpg
+    title: "Shattered Pixel Dungeon v3.0.0!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> February 27th, 2024</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 10 minute read</span>
+    </span><br>
+      Hey Dungeoneers, Shattered v3.0.0 has been released! v3.0 includes Shattered's second new playable character! The Cleric is a divine spellcaster who learns and upgrades spells via the talent system!"
+    url: "/blog/shattered-pixel-dungeon-v300.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/update-header.png
     title: "Status Update: v3.0 Coming Soon!"
     excerpt: "<span class='page__meta'>
@@ -34,7 +45,6 @@ blog_feature:
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-12-19/header-small.jpg
     title: "Coming Soon: The Cleric!"
-    date: "December 19, 2024"
     excerpt: "<span class='page__meta'>
     <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> December 19, 2024</span>
     <span class='page__meta-sep'></span>
@@ -42,18 +52,6 @@ blog_feature:
     </span><br>
       Hey Dungeoneers, v3.0.0 and the Cleric are finally ready for beta! In this blog post I'm going to share more details about the Cleric! Just as with the Duelist, I'm releasing the Cleric's beta a little early."
     url: "/blog/coming-soon-to-shattered-the-cleric.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2024/2024-11-26/header.png
-    title: "Coming Soon: A Sixth Hero!"
-    date: "December 19, 2024"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> November 26, 2024</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
-    </span><br>
-      Hey Dungeoneers! Progress has been made on the next major update to Shattered Pixel Dungeon, and it’s finally time for me to start showing some things off!"
-    url: "/blog/coming-soon-to-shattered-a-sixth-hero.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-08-05/header-small.jpg
