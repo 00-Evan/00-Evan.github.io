@@ -12,10 +12,21 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2025/2025-05-15/header.png
+    title: "Coming Soon: Warrior Mini Rework and More!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> May 15th, 2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
+    </span><br>
+      Hey Dungeoneers, v3.1 is ready for beta! This update has a a mini Warrior rework, some new rooms in the dungeon, a new trinket, and an assortment of other changes and additions."
+    url: "/blog/coming-soon-to-shattered-warrior-mini-rework-and-more.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-02-27/header-small.jpg
     title: "Shattered Pixel Dungeon v3.0.0!"
     excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> February 27th, 2024</span>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> February 27th, 2025</span>
     <span class='page__meta-sep'></span>
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 10 minute read</span>
     </span><br>
@@ -41,17 +52,6 @@ blog_feature:
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 6 minute read</span>
     </span><br>Hey Rat Punchers, happy new year once again! After a bit of a holiday break, I'm back to work on Shattered Pixel Dungeon, which includes laying out some plans for the coming year!"
     url: "/blog/shattered-pixel-dungeon-in-2025.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2024/2024-12-19/header-small.jpg
-    title: "Coming Soon: The Cleric!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> December 19, 2024</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
-    </span><br>
-      Hey Dungeoneers, v3.0.0 and the Cleric are finally ready for beta! In this blog post I'm going to share more details about the Cleric! Just as with the Duelist, I'm releasing the Cleric's beta a little early."
-    url: "/blog/coming-soon-to-shattered-the-cleric.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2024/2024-08-05/header-small.jpg
