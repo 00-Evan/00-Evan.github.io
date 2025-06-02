@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2025/2025-06-02/header-small.jpg
+    title: "Shattered Pixel Dungeon v3.1.0!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> June 2nd, 2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 12 minute read</span>
+    </span><br>Hey Dungeoneers, Shattered v3.1.0 has been released! This update includes a mini Warrior Rework, new terrain/rooms, a new trinket, and a bunch of other smaller changes and additions!"
+    url: "/blog/shattered-pixel-dungeon-v310.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-05-15/header.png
     title: "Coming Soon: Warrior Mini Rework and More!"
     excerpt: "<span class='page__meta'>
@@ -32,16 +42,6 @@ blog_feature:
     </span><br>
       Hey Dungeoneers, Shattered v3.0.0 has been released! v3.0 includes Shattered's second new playable character! The Cleric is a divine spellcaster who learns and upgrades spells via the talent system!"
     url: "/blog/shattered-pixel-dungeon-v300.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/update-header.png
-    title: "Status Update: v3.0 Coming Soon!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> February 14, 2025</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 1 minute read</span>
-    </span><br>Hey everyone, happy Valentines day! Back in December I estimated that v3.0 would be gearing up to release in late January or early February, so it's time for a little update!"
-    url: "/blog/status-update-v30-coming-soon.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2025/2025-01-10/header-small.jpg
