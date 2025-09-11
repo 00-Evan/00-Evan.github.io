@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2025/2025-09-11/header-small.jpg
+    title: "Coming Soon: Title Graphics and Mobile Fullscreen!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> September 11th, 2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
+    </span><br>Hey Dungeoneers, I'm still releasing patches for v3.2, and as a rare surprise, this one's big enough to get a little blog post!"
+    url: "/blog/coming-soon-to-shattered-title-graphics-and-mobile-fullscreen.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-08-04/header.png
     title: "Shattered Pixel Dungeon v3.2.0!"
     excerpt: "<span class='page__meta'>
@@ -31,16 +41,6 @@ blog_feature:
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
     </span><br>v3.2 has just gone to beta, with an overhaul to thrown weapons and some other substantial balance and QoL changes! In this blog post I'm going to go over what's changing in v3.2 in more detail."
     url: "/blog/coming-soon-to-shattered-thrown-weapon-sets.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2025/2025-06-02/header-small.jpg
-    title: "Shattered Pixel Dungeon v3.1.0!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> June 2nd, 2025</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 12 minute read</span>
-    </span><br>Hey Dungeoneers, Shattered v3.1.0 has been released! This update includes a mini Warrior Rework, new terrain/rooms, a new trinket, and a bunch of other smaller changes and additions!"
-    url: "/blog/shattered-pixel-dungeon-v310.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2025/2025-01-10/header-small.jpg
