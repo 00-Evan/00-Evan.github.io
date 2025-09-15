@@ -60,6 +60,12 @@ This leads to a nice big fullscreen display for the majority of mobile phones! I
 
 I expect this change will take some getting used to, given that the majority of users have been used to a black bar for years. There are also literally hundreds of different phones with slightly varying cutout sizes, so I'm sure there will be a few hiccups here for some users as well. If you run into issues or otherwise have feedback on this change then please let me know!
 
+<b><u>Update (September 15th):</u></b>
+
+Hey folks, v3.2.4 is now releasing publicly, and I've made one significant change in response to feedback. Users had a very strong preference for no part of the UI touching cutouts at all, even just small segments of the health bar. Based on that, I've made some adjustments to the changes mentioned above, the most significant of which is to the health bar. The health bar can now shrink or move slightly to the left to avoid display cutouts. Here's how that looks, on a Galaxy S24:
+
+![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/new-updated.png){: .align-center}
+
 ---
 
 There is no new text to be translated in v3.2.4 and the changes are pretty specific, so I expect the beta is going to be short, probably just a day or two. I do expect to do one or two more patches after v3.2.4 to fix any minor issues that crop up. Once all that's done I'll finally start moving on to v3.3 and a new city quest!
