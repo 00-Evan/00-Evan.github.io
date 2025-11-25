@@ -19,7 +19,7 @@ blog_feature:
     <span class='page__meta-sep'></span>
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
     </span><br>Hey Dungeoneers, it's been a couple of months since the last patch for v3.2, so it's time to an update!"
-    url: "/blog/coming-soon-to-shattered-title-graphics-and-mobile-fullscreen.html"
+    url: "/blog/coming-soon-to-shattered-imp-quest-tester-area.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-09-11/header-small.jpg
