@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2025/2025-11-25/header.png
+    title: "Coming Soon: Imp Quest Tester Area!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> September 11th, 2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
+    </span><br>Hey Dungeoneers, it's been a couple of months since the last patch for v3.2, so it's time to an update!"
+    url: "/blog/coming-soon-to-shattered-title-graphics-and-mobile-fullscreen.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-09-11/header-small.jpg
     title: "Coming Soon: Title Graphics and Mobile Fullscreen!"
     excerpt: "<span class='page__meta'>
@@ -31,16 +41,6 @@ blog_feature:
     </span><br>
       Hey Dungeoneers, Shattered v3.2.0 has been released! v3.2 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects."
     url: "/blog/shattered-pixel-dungeon-v320.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2025/2025-07-25/header.png
-    title: "Coming Soon: Thrown Weapon Sets!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> July 25th, 2025</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
-    </span><br>v3.2 has just gone to beta, with an overhaul to thrown weapons and some other substantial balance and QoL changes! In this blog post I'm going to go over what's changing in v3.2 in more detail."
-    url: "/blog/coming-soon-to-shattered-thrown-weapon-sets.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2025/2025-01-10/header-small.jpg
