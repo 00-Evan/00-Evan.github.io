@@ -12,12 +12,23 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2025/2025-12-04/header.png
+    title: "Shattered Pixel Dungeon v3.3.0!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> December 4th, 2025</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 10 minute read</span>
+    </span><br>
+      Hey Dungeoneers, Shattered v3.3.0 has been released! v3.3 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects."
+    url: "/blog/shattered-pixel-dungeon-v320.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-11-25/header.png
     title: "Coming Soon: Imp Quest Tester Area!"
     excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> September 11th, 2025</span>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> November 25th, 2025</span>
     <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
     </span><br>Hey Dungeoneers, it's been a couple of months since the last patch for v3.2, so it's time to an update!"
     url: "/blog/coming-soon-to-shattered-imp-quest-tester-area.html"
     btn_label: "Read More"
@@ -30,17 +41,6 @@ blog_feature:
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
     </span><br>Hey Dungeoneers, I'm still releasing patches for v3.2, and as a rare surprise, this one's big enough to get a little blog post!"
     url: "/blog/coming-soon-to-shattered-title-graphics-and-mobile-fullscreen.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2025/2025-08-04/header.png
-    title: "Shattered Pixel Dungeon v3.2.0!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> August 4th, 2025</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 9 minute read</span>
-    </span><br>
-      Hey Dungeoneers, Shattered v3.2.0 has been released! v3.2 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects."
-    url: "/blog/shattered-pixel-dungeon-v320.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2025/2025-01-10/header-small.jpg
@@ -68,7 +68,7 @@ blog_feature:
     excerpt: "<span class='page__meta'>
     <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> 2014-2025</span>
     <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 120 blog posts</span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 129 blog posts</span>
     </span><br>Read previous Shattered Pixel blog posts including announcements, design overviews, and teasers! The blog includes a full history of my dev work since I started Shattered Pixel Dungeon in 2014."
     url: "/blog/"
     btn_label: "Read More"
