@@ -20,7 +20,7 @@ blog_feature:
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 10 minute read</span>
     </span><br>
       Hey Dungeoneers, Shattered v3.3.0 has been released! v3.3 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects."
-    url: "/blog/shattered-pixel-dungeon-v320.html"
+    url: "/blog/shattered-pixel-dungeon-v330.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-11-25/header.png
