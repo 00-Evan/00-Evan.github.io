@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: /assets/images/2026/2026-01-13/header-small.jpg
+    title: "Shattered Pixel Dungeon in 2026"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> January 13, 2026</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 7 minute read</span>
+    </span><br>Hey Rat Punchers, Happy New Year! This post starts with a year in review, and then lists the major changes and additions that I have planned for Shattered Pixel Dungeon in 2026 and beyond!"
+    url: "/blog/shattered-pixel-dungeon-in-2026.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2025/2025-12-04/header.png
     title: "Shattered Pixel Dungeon v3.3.0!"
     excerpt: "<span class='page__meta'>
@@ -43,32 +53,22 @@ blog_feature:
     url: "/blog/coming-soon-to-shattered-title-graphics-and-mobile-fullscreen.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/2025/2025-01-10/header-small.jpg
-    title: "Shattered Pixel Dungeon in 2025"
+  - image_path: assets/images/2025/2025-08-04/header.png
+    title: "Shattered Pixel Dungeon v3.2.0!"
     excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> January 10, 2025</span>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> August 4th, 2025</span>
     <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 6 minute read</span>
-    </span><br>Hey Rat Punchers, happy new year once again! After a bit of a holiday break, I'm back to work on Shattered Pixel Dungeon, which includes laying out some plans for the coming year!"
-    url: "/blog/shattered-pixel-dungeon-in-2025.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2024/2024-08-05/header-small.jpg
-    title: "Ten Years of Shattered Pixel Dungeon!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> August 5, 2024</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 8 minute read</span>
-    </span><br>On this day, 10 years ago, I released Shattered Pixel Dungeon v0.1.0. Join me for a quick walk down memory lane, and for a preview of something very exciting that's yet to come..."
-    url: "/blog/ten-years-of-shattered-pixel-dungeon.html"
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 9 minute read</span>
+    </span><br>Hey Dungeoneers, Shattered v3.2.0 has been released! v3.2 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects."
+    url: "/blog/shattered-pixel-dungeon-v320.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
     title: "Blog Archive"
     excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> 2014-2025</span>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> 2014-2026</span>
     <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 129 blog posts</span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 130 blog posts</span>
     </span><br>Read previous Shattered Pixel blog posts including announcements, design overviews, and teasers! The blog includes a full history of my dev work since I started Shattered Pixel Dungeon in 2014."
     url: "/blog/"
     btn_label: "Read More"
