@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2026/2026-03-05/header.png
+    title: "Coming Soon: A New City Quest!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> March 5th, 2026</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 6 minute read</span>
+    </span><br>Hey folks! In this blog post I'm going to go over all of the things I've added in v3.3 patches, and how I think they're going to fit together into a new quest!"
+    url: "/blog/coming-soon-to-shattered-a-new-city-quest.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2026/2026-01-13/header-small.jpg
     title: "Shattered Pixel Dungeon in 2026"
     excerpt: "<span class='page__meta'>
@@ -51,16 +61,6 @@ blog_feature:
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
     </span><br>Hey Dungeoneers, I'm still releasing patches for v3.2, and as a rare surprise, this one's big enough to get a little blog post!"
     url: "/blog/coming-soon-to-shattered-title-graphics-and-mobile-fullscreen.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2025/2025-08-04/header.png
-    title: "Shattered Pixel Dungeon v3.2.0!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> August 4th, 2025</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 9 minute read</span>
-    </span><br>Hey Dungeoneers, Shattered v3.2.0 has been released! v3.2 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects."
-    url: "/blog/shattered-pixel-dungeon-v320.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
