@@ -8,7 +8,7 @@ header:
   width: 1260px
 
 #These tags are parsed by Shattered Pixel Dungeon to determine display in its news feed
-tags: ["SHPD_INGAME", "SHPD_ICON_v533: sprites/demon.png, 0, 0, 13, 14"]
+tags: ["SHPD_INGAME", "SHPD_ICON_v533: sprites/demon.png, 0, 0, 13, 14", "SHPD_ICON_v897: sprites/imp.png, 0, 0, 13, 14"]
 
 ---
  

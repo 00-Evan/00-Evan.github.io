@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2026/2026-06-01/header.png
+    title: "Coming Soon: New Enchants and Pixel Art!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> June 1st, 2026</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 6 minute read</span>
+    </span><br>Unfortunately v4.0 is still a little ways out, it's ended up as a much bigger update than expected! In this blog post I'm going to share a quick update on the vault quest, then go over some very exciting things also coming in v4.0."
+    url: "/blog/coming-soon-to-shattered-new-enchants-and-pixel-art.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2026/2026-03-05/header.png
     title: "Coming Soon: A New City Quest!"
     excerpt: "<span class='page__meta'>
@@ -51,16 +61,6 @@ blog_feature:
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 5 minute read</span>
     </span><br>Hey Dungeoneers, it's been a couple of months since the last patch for v3.2, so it's time to an update!"
     url: "/blog/coming-soon-to-shattered-imp-quest-tester-area.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2025/2025-09-11/header-small.jpg
-    title: "Coming Soon: Title Graphics and Mobile Fullscreen!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> September 11th, 2025</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
-    </span><br>Hey Dungeoneers, I'm still releasing patches for v3.2, and as a rare surprise, this one's big enough to get a little blog post!"
-    url: "/blog/coming-soon-to-shattered-title-graphics-and-mobile-fullscreen.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
