@@ -48,8 +48,8 @@ v4.0 is coming with more gameplay content than just the quest though, there are 
 ![](/assets/images/{{page.date|date:'%Y/%Y-%m-%d'}}/new-enchants.webp){: .align-center .rounded-large}
 
 - **Venomous** is a returning common enchantment that now applies stronger stacking poison, but on a new three turn delay. The delay encourages 'hit and run' style tactics.
-- **Vorpal** is a returning uncommon enchantment that now has a chance to replace **all** damage with non-stackable bleeding. This is more overall damage, but with a delay like venemous.
-- **Eldtrich** is a returning uncommon enchantment that now applies fear to enemies nearby that **aren't** your primary target. This helps manage multiple enemies at once.
+- **Vorpal** is a returning uncommon enchantment that now has a chance to replace **all** damage with non-stackable bleeding. This is more overall damage, but with a delay like venomous.
+- **Eldritch** is a returning uncommon enchantment that now applies fear to enemies nearby that **aren't** your primary target. This helps manage multiple enemies at once.
 - **Crystal** is a new rare enchantment that gives a big damage boost, but at the cost of your weapon having durability. Crystal weapons self-repair over time, but permanently break if you lean on them too much at once.
 - **Pressurized** is a new curse that has a chance to create a geyser of water, pushing away both you and the enemy. The geyser's push direction is random if using a thrown weapon.
 - **Wondrous** is a new curse that lets weapons tap into the same random cursed effects as wands. That's 32 different effects in total, and yes this will work with wondrous resin!
