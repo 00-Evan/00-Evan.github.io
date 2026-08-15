@@ -12,6 +12,17 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: assets/images/2026/2026-08-15/header-small.jpg
+    title: "Coming Soon: The Vault Quest!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> August 15, 2026</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 6 minute read</span>
+    </span><br>
+      Hey Dungeoneers, after far too long of a wait, v4.0.0 is finally ready for beta! This update ended up ballooning in size from just adding the new quest, I'd say it's arguably Shattered's biggest update yet at this point!"
+    url: "/blog/coming-soon-to-shattered-the-vault-quest.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/update-header.png
     title: "Status Update: v4.0 Beta Soon!"
     excerpt: "<span class='page__meta'>
@@ -50,17 +61,6 @@ blog_feature:
     <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 7 minute read</span>
     </span><br>Hey Rat Punchers, Happy New Year! This post starts with a year in review, and then lists the major changes and additions that I have planned for Shattered Pixel Dungeon in 2026 and beyond!"
     url: "/blog/shattered-pixel-dungeon-in-2026.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/2025/2025-12-04/header.png
-    title: "Shattered Pixel Dungeon v3.3.0!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> December 4, 2025</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 10 minute read</span>
-    </span><br>
-      Hey Dungeoneers, Shattered v3.3.0 has been released! v3.3 includes a tester area for the upcoming overhaul to the city quest, new items, and a bunch of smaller tweaks and improvements."
-    url: "/blog/shattered-pixel-dungeon-v330.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-header.png
