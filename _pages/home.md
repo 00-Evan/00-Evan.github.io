@@ -12,6 +12,16 @@ header:
 excerpt: "Hey there, I'm Evan (a.k.a. 00-Evan), a solo indie games developer currently working on my traditional roguelike named Shattered Pixel Dungeon!"
 
 blog_feature:
+  - image_path: /assets/images/2026/2026-11-25/header-small.jpg
+    title: "Shattered Pixel Dungeon v4.0.3!"
+    excerpt: "<span class='page__meta'>
+    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> November 25th, 2026</span>
+    <span class='page__meta-sep'></span>
+    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 6 minute read</span>
+    </span><br>Hey Rat Punchers! v4.0.3 doesn't have any new game content (hence why it's not v4.1.0), but is still a pretty big patch, and so deserves a little announcement post!"
+    url: "/blog/shattered-pixel-dungeon-v403.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/2026/2026-09-09/header-small.jpg
     title: "Shattered Pixel Dungeon v4.0.0!"
     excerpt: "<span class='page__meta'>
@@ -33,13 +43,6 @@ blog_feature:
     url: "/blog/coming-soon-to-shattered-the-vault-quest.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/update-header.png
-    title: "Status Update: v4.0 Beta Soon!"
-    excerpt: "<span class='page__meta'>
-    <span class='page__meta-date'><i class='far fa-calendar-alt' aria-hidden='true'></i> July 28, 2026</span>
-    <span class='page__meta-sep'></span>
-    <span class='page__meta-readtime'><i class='far fa-clock' aria-hidden='true'></i> 4 minute read</span>
-    </span><br>v4.0 is extremely close to being beta-ready, but to ensure that it's not rushed I'm going to be moving the beta ETA back a little bit to the first half of August."
     url: "/blog/status-update-v40-beta-soon.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
